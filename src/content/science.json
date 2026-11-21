@@ -1,0 +1,90 @@
+{
+  "id": "science",
+  "name": "Science",
+  "icon": "🔬",
+  "description": "Biology, chemistry, physics and earth science: the biggest category in most packets.",
+  "lessons": [
+    {
+      "id": "sci-cells",
+      "title": "The Cell: Life’s Building Block",
+      "topic": "Biology",
+      "difficulty": "easy",
+      "body": "Every living thing is made of **cells**. The *cell theory* says that all living things are made of cells, the cell is the basic unit of life, and new cells come only from existing cells.\n\n## Two kinds of cells\n- **Prokaryotic** cells (bacteria and archaea) have no nucleus. Their DNA floats in the cytoplasm.\n- **Eukaryotic** cells (plants, animals, fungi, protists) keep their DNA inside a **nucleus**.\n\n## Organelles that show up in questions\n| Organelle | Job |\n|---|---|\n| Mitochondria | Make energy (ATP) through cellular respiration |\n| Ribosome | Build proteins |\n| Chloroplast | Photosynthesis (plants and algae only) |\n| Cell wall | Rigid outer layer (plants use cellulose) |\n| Golgi apparatus | Package and ship proteins |\n\n**Quiz bowl tip:** clues often start with an obscure detail (like \"cristae\") and end with \"powerhouse of the cell.\" Learn the early clues to buzz first.",
+      "keyFacts": [
+        "Robert Hooke named “cells” in 1665 after looking at cork.",
+        "Mitochondria have folded inner membranes called cristae and make ATP.",
+        "Chloroplasts contain the green pigment chlorophyll.",
+        "Prokaryotes like bacteria have no nucleus.",
+        "Plant cell walls are made mostly of cellulose."
+      ]
+    },
+    {
+      "id": "sci-periodic-table",
+      "title": "Reading the Periodic Table",
+      "topic": "Chemistry",
+      "difficulty": "medium",
+      "body": "The **periodic table** arranges elements by **atomic number**, the number of protons in the nucleus. Dmitri **Mendeleev** published the first widely used version in 1869 and left gaps for elements not yet discovered, such as gallium.\n\n## Rows and columns\n- **Periods** are rows. Elements in the same period have the same number of electron shells.\n- **Groups** are columns. Elements in the same group react in similar ways.\n\n## Famous groups\n- **Group 1, alkali metals** (lithium, sodium, potassium): very reactive, react with water.\n- **Group 17, halogens** (fluorine, chlorine): very reactive nonmetals.\n- **Group 18, noble gases** (helium, neon, argon): full outer shells, almost never react.\n\nElement symbols that don’t match English names are a favorite clue: Na (sodium, from *natrium*), K (potassium), Fe (iron), Au (gold), Ag (silver), Pb (lead).",
+      "keyFacts": [
+        "Atomic number = number of protons.",
+        "Mendeleev published his periodic table in 1869.",
+        "Noble gases (group 18) have full outer electron shells.",
+        "Au is gold, Ag is silver, Pb is lead, Fe is iron.",
+        "Hydrogen is element 1; helium is element 2."
+      ]
+    }
+  ],
+  "tossups": [
+    {
+      "id": "sci-t-001",
+      "topic": "Biology",
+      "lessonId": "sci-cells",
+      "difficulty": "easy",
+      "question": "The inner membrane of this organelle is folded into structures called cristae. This organelle has its own DNA, and it produces most of a cell’s ATP through cellular respiration. For 10 points, name this organelle called the “powerhouse of the cell.”",
+      "powerIndex": 110,
+      "answer": "mitochondria",
+      "acceptable": [
+        "mitochondrion"
+      ]
+    },
+    {
+      "id": "sci-t-002",
+      "topic": "Chemistry",
+      "lessonId": "sci-periodic-table",
+      "difficulty": "medium",
+      "question": "This scientist predicted the properties of “eka-aluminium,” which turned out to be gallium. Element 101 is named for him, and in 1869 he published a table arranging elements by atomic weight. For 10 points, name this Russian chemist who created the periodic table.",
+      "powerIndex": 125,
+      "answer": "Dmitri Mendeleev",
+      "acceptable": [
+        "Mendeleev"
+      ]
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "sci-b-001",
+      "topic": "Chemistry",
+      "lessonId": "sci-periodic-table",
+      "difficulty": "easy",
+      "leadin": "Answer these questions about groups of the periodic table, for 10 points each.",
+      "parts": [
+        {
+          "question": "Name the group 18 elements, such as neon and argon, that have full outer electron shells and rarely react.",
+          "answer": "noble gases",
+          "acceptable": [
+            "inert gases"
+          ]
+        },
+        {
+          "question": "This group 1 metal, with symbol Na, reacts violently with water and combines with chlorine to make table salt.",
+          "answer": "sodium",
+          "acceptable": []
+        },
+        {
+          "question": "Chlorine and fluorine belong to this group 17 family, whose name means “salt-former.”",
+          "answer": "halogens",
+          "acceptable": []
+        }
+      ]
+    }
+  ]
+}

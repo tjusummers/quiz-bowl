@@ -1,0 +1,84 @@
+{
+  "id": "geography",
+  "name": "Geography",
+  "icon": "🌍",
+  "description": "Countries, capitals, rivers, mountains and where things are on the map.",
+  "lessons": [
+    {
+      "id": "geo-rivers",
+      "title": "Great Rivers of the World",
+      "topic": "Physical Geography",
+      "difficulty": "easy",
+      "body": "Rivers are favorite quiz bowl subjects because questions can name the cities and countries they pass through.\n\n| River | Continent | Remember |\n|---|---|---|\n| **Nile** | Africa | Usually called the longest river; flows north into the Mediterranean |\n| **Amazon** | South America | Carries the most water of any river |\n| **Yangtze** | Asia | Longest in Asia; the Three Gorges Dam is on it |\n| **Mississippi** | North America | Ends in the Gulf of Mexico near New Orleans |\n| **Danube** | Europe | Flows through four capitals: Vienna, Bratislava, Budapest, Belgrade |\n\n**Tip:** when a question names a delta, dam or capital city, ask “which river runs there?”",
+      "keyFacts": [
+        "The Nile flows north into the Mediterranean Sea.",
+        "The Amazon carries more water than any other river.",
+        "The Three Gorges Dam is on the Yangtze.",
+        "The Danube flows through Vienna, Bratislava, Budapest and Belgrade.",
+        "The Mississippi empties into the Gulf of Mexico."
+      ]
+    },
+    {
+      "id": "geo-capitals",
+      "title": "Tricky World Capitals",
+      "topic": "Countries and Capitals",
+      "difficulty": "medium",
+      "body": "Many capitals are **not** the country’s biggest or most famous city. These come up often:\n\n- **Australia:** Canberra (not Sydney)\n- **Canada:** Ottawa (not Toronto)\n- **Brazil:** Brasília (not Rio de Janeiro), a planned city built in the 1950s\n- **Turkey:** Ankara (not Istanbul)\n- **Switzerland:** Bern (not Zurich or Geneva)\n- **Nigeria:** Abuja (not Lagos)\n- **Pakistan:** Islamabad (not Karachi)\n\n**South Africa** has three capitals: Pretoria (executive), Cape Town (legislative) and Bloemfontein (judicial).",
+      "keyFacts": [
+        "Canberra is the capital of Australia.",
+        "Ottawa is the capital of Canada.",
+        "Brasília became Brazil’s capital in 1960.",
+        "Ankara, not Istanbul, is the capital of Turkey.",
+        "South Africa has three capital cities."
+      ]
+    }
+  ],
+  "tossups": [
+    {
+      "id": "geo-t-001",
+      "topic": "Physical Geography",
+      "lessonId": "geo-rivers",
+      "difficulty": "easy",
+      "question": "This river forms part of the border between Romania and Bulgaria. It flows through Vienna and Budapest before emptying into the Black Sea. For 10 points, name this second-longest river in Europe.",
+      "powerIndex": 102,
+      "answer": "Danube River",
+      "acceptable": []
+    },
+    {
+      "id": "geo-t-002",
+      "topic": "Countries and Capitals",
+      "lessonId": "geo-capitals",
+      "difficulty": "medium",
+      "question": "Lake Burley Griffin lies in the middle of this city, which was chosen as a compromise between two rivals. It is home to Parliament House, and it is located between Sydney and Melbourne. For 10 points, name this capital of Australia.",
+      "powerIndex": 137,
+      "answer": "Canberra",
+      "acceptable": []
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "geo-b-001",
+      "topic": "Countries and Capitals",
+      "lessonId": "geo-capitals",
+      "difficulty": "medium",
+      "leadin": "Name these national capitals that are not their country’s largest city, for 10 points each.",
+      "parts": [
+        {
+          "question": "This city is the capital of Canada.",
+          "answer": "Ottawa",
+          "acceptable": []
+        },
+        {
+          "question": "This planned city replaced Rio de Janeiro as Brazil’s capital in 1960.",
+          "answer": "Brasília",
+          "acceptable": []
+        },
+        {
+          "question": "This city replaced Istanbul as the capital of Turkey in 1923.",
+          "answer": "Ankara",
+          "acceptable": []
+        }
+      ]
+    }
+  ]
+}

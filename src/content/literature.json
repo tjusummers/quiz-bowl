@@ -1,0 +1,84 @@
+{
+  "id": "literature",
+  "name": "Literature",
+  "icon": "📚",
+  "description": "Novels, plays, poems and the authors who wrote them.",
+  "lessons": [
+    {
+      "id": "lit-shakespeare",
+      "title": "Shakespeare’s Greatest Hits",
+      "topic": "British Literature",
+      "difficulty": "medium",
+      "body": "William **Shakespeare** (1564–1616) wrote about 37 plays and 154 sonnets. Many of his plays were performed at the **Globe Theatre** in London.\n\n## Tragedies\n- **Romeo and Juliet:** feuding families, the Montagues and Capulets, in Verona.\n- **Hamlet:** a Danish prince avenges his father, murdered by his uncle Claudius. (“To be, or not to be.”)\n- **Macbeth:** three witches predict a Scottish general will be king; Lady Macbeth urges murder.\n\n## Comedies\n- **A Midsummer Night’s Dream:** fairies Oberon and Titania, and Puck turns Bottom’s head into a donkey’s.\n- **The Tempest:** the magician Prospero on an island with Ariel and Caliban.\n\n**Quiz bowl tip:** questions about plays love **character names**. Knowing that Mercutio and Tybalt are from *Romeo and Juliet*, or Banquo from *Macbeth*, earns early buzzes.",
+      "keyFacts": [
+        "Romeo and Juliet are from the feuding Montague and Capulet families.",
+        "Hamlet is the Prince of Denmark; his uncle is Claudius.",
+        "Three witches tell Macbeth he will be king; Banquo is his friend.",
+        "Puck gives Bottom a donkey’s head in A Midsummer Night’s Dream.",
+        "Prospero is the magician in The Tempest."
+      ]
+    },
+    {
+      "id": "lit-american-novels",
+      "title": "Classic American Novels",
+      "topic": "American Literature",
+      "difficulty": "easy",
+      "body": "These novels show up again and again in middle school quiz bowl.\n\n- **The Adventures of Tom Sawyer** and **Adventures of Huckleberry Finn** by **Mark Twain** (real name Samuel Clemens). Huck rafts down the Mississippi with Jim, who is escaping slavery.\n- **Little Women** by **Louisa May Alcott**: the March sisters Meg, Jo, Beth and Amy.\n- **The Call of the Wild** by **Jack London**: Buck, a dog taken to the Yukon during the Klondike Gold Rush.\n- **To Kill a Mockingbird** by **Harper Lee**: Scout Finch, her father Atticus, and the mysterious Boo Radley.\n- **The Outsiders** by **S. E. Hinton**: Ponyboy Curtis and the Greasers versus the Socs. Hinton started it at age 15.",
+      "keyFacts": [
+        "Mark Twain’s real name was Samuel Clemens.",
+        "Jo March is the main character of Little Women.",
+        "Buck is the dog in The Call of the Wild.",
+        "Atticus Finch is Scout’s father in To Kill a Mockingbird.",
+        "Ponyboy Curtis narrates The Outsiders."
+      ]
+    }
+  ],
+  "tossups": [
+    {
+      "id": "lit-t-001",
+      "topic": "British Literature",
+      "lessonId": "lit-shakespeare",
+      "difficulty": "medium",
+      "question": "In this play, Banquo’s ghost appears at a feast. The title character is told he cannot be harmed by any man “of woman born,” and his wife sleepwalks while trying to wash away imaginary blood. For 10 points, name this Shakespeare tragedy about a Scottish king.",
+      "powerIndex": 124,
+      "answer": "Macbeth",
+      "acceptable": []
+    },
+    {
+      "id": "lit-t-002",
+      "topic": "American Literature",
+      "lessonId": "lit-american-novels",
+      "difficulty": "easy",
+      "question": "In this novel, a man named Bob Ewell attacks two children on Halloween night. Tom Robinson is defended in court by Atticus Finch in this book. For 10 points, name this Harper Lee novel narrated by Scout.",
+      "powerIndex": 111,
+      "answer": "To Kill a Mockingbird",
+      "acceptable": []
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "lit-b-001",
+      "topic": "American Literature",
+      "lessonId": "lit-american-novels",
+      "difficulty": "easy",
+      "leadin": "Name these authors of classic American novels, for 10 points each.",
+      "parts": [
+        {
+          "question": "This author, born Samuel Clemens, wrote Adventures of Huckleberry Finn.",
+          "answer": "Mark Twain",
+          "acceptable": []
+        },
+        {
+          "question": "This author wrote Little Women, about Jo March and her sisters.",
+          "answer": "Louisa May Alcott",
+          "acceptable": []
+        },
+        {
+          "question": "This author wrote The Call of the Wild, about a dog named Buck.",
+          "answer": "Jack London",
+          "acceptable": []
+        }
+      ]
+    }
+  ]
+}

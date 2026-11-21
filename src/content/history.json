@@ -1,0 +1,88 @@
+{
+  "id": "history",
+  "name": "History",
+  "icon": "🏛️",
+  "description": "American and world history, from ancient empires to the modern era.",
+  "lessons": [
+    {
+      "id": "hist-american-revolution",
+      "title": "The American Revolution",
+      "topic": "U.S. History",
+      "difficulty": "easy",
+      "body": "Between 1765 and 1783, thirteen British colonies broke away to form the United States.\n\n## Road to war\n- **Stamp Act (1765)** and **Townshend Acts** taxed the colonies, sparking the cry “no taxation without representation.”\n- **Boston Massacre (1770):** British soldiers killed five colonists, including Crispus Attucks.\n- **Boston Tea Party (1773):** the Sons of Liberty dumped British tea into Boston Harbor.\n\n## The war\n- Fighting began at **Lexington and Concord** in April 1775.\n- The **Declaration of Independence**, written mainly by **Thomas Jefferson**, was adopted on **July 4, 1776**.\n- The victory at **Saratoga (1777)** convinced **France** to join the war on the American side.\n- The British surrendered at **Yorktown (1781)**; the **Treaty of Paris (1783)** ended the war.",
+      "keyFacts": [
+        "The war began at Lexington and Concord in 1775.",
+        "Thomas Jefferson was the main author of the Declaration of Independence.",
+        "Saratoga (1777) was the turning point that brought France into the war.",
+        "Cornwallis surrendered at Yorktown in 1781.",
+        "The Treaty of Paris (1783) ended the war."
+      ]
+    },
+    {
+      "id": "hist-ancient-egypt",
+      "title": "Ancient Egypt",
+      "topic": "World History",
+      "difficulty": "easy",
+      "body": "Ancient Egyptian civilization grew along the **Nile River**, whose yearly floods left rich soil for farming.\n\n## Key ideas\n- Rulers were called **pharaohs** and were seen as gods on Earth.\n- The **Great Pyramid of Giza** was built for the pharaoh **Khufu** around 2560 BCE. It is the only one of the Seven Wonders of the Ancient World still standing.\n- Egyptians wrote in **hieroglyphics**. The **Rosetta Stone**, with the same text in hieroglyphic, Demotic and Greek, let **Jean-François Champollion** decode them in 1822.\n- Bodies were preserved as **mummies** for the afterlife.\n\n## Famous pharaohs\n- **Hatshepsut**, a female pharaoh known for trade expeditions to the land of Punt.\n- **Tutankhamun**, whose nearly intact tomb was found by **Howard Carter** in 1922.\n- **Ramesses II**, a great builder who fought the Hittites at Kadesh.",
+      "keyFacts": [
+        "Egypt depended on the yearly flooding of the Nile.",
+        "The Rosetta Stone helped Champollion decode hieroglyphics in 1822.",
+        "The Great Pyramid of Giza was built for Khufu.",
+        "Howard Carter found Tutankhamun’s tomb in 1922.",
+        "Hatshepsut was a female pharaoh."
+      ]
+    }
+  ],
+  "tossups": [
+    {
+      "id": "hist-t-001",
+      "topic": "U.S. History",
+      "lessonId": "hist-american-revolution",
+      "difficulty": "easy",
+      "question": "Benedict Arnold fought bravely at this battle before he became a traitor. John Burgoyne surrendered after this 1777 battle, which convinced France to ally with the Americans. For 10 points, name this New York battle called the turning point of the American Revolution.",
+      "powerIndex": 123,
+      "answer": "Battles of Saratoga",
+      "acceptable": [
+        "Saratoga"
+      ]
+    },
+    {
+      "id": "hist-t-002",
+      "topic": "World History",
+      "lessonId": "hist-ancient-egypt",
+      "difficulty": "easy",
+      "question": "This object was found in 1799 by French soldiers during Napoleon’s invasion. It carries a decree written in three scripts, including Demotic and Greek, which let Champollion decode hieroglyphics. For 10 points, name this stone slab now in the British Museum.",
+      "powerIndex": 151,
+      "answer": "Rosetta Stone",
+      "acceptable": []
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "hist-b-001",
+      "topic": "World History",
+      "lessonId": "hist-ancient-egypt",
+      "difficulty": "easy",
+      "leadin": "Answer these questions about ancient Egypt, for 10 points each.",
+      "parts": [
+        {
+          "question": "Egyptian farming depended on the yearly floods of this river, the longest in Africa.",
+          "answer": "Nile River",
+          "acceptable": []
+        },
+        {
+          "question": "This British archaeologist discovered the tomb of Tutankhamun in 1922.",
+          "answer": "Howard Carter",
+          "acceptable": []
+        },
+        {
+          "question": "The Great Pyramid of Giza was built for this pharaoh of the Fourth Dynasty.",
+          "answer": "Khufu",
+          "acceptable": [
+            "Cheops"
+          ]
+        }
+      ]
+    }
+  ]
+}

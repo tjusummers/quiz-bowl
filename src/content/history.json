@@ -2,84 +2,1275 @@
   "id": "history",
   "name": "History",
   "icon": "🏛️",
-  "description": "American and world history, from ancient empires to the modern era.",
+  "description": "Ancient civilizations, world history and American history at the middle school level.",
   "lessons": [
     {
-      "id": "hist-american-revolution",
-      "title": "The American Revolution",
-      "topic": "U.S. History",
+      "id": "hist-ancient",
+      "title": "Ancient Egypt and Mesopotamia",
+      "topic": "Ancient World",
       "difficulty": "easy",
-      "body": "Between 1765 and 1783, thirteen British colonies broke away to form the United States.\n\n## Road to war\n- **Stamp Act (1765)** and **Townshend Acts** taxed the colonies, sparking the cry “no taxation without representation.”\n- **Boston Massacre (1770):** British soldiers killed five colonists, including Crispus Attucks.\n- **Boston Tea Party (1773):** the Sons of Liberty dumped British tea into Boston Harbor.\n\n## The war\n- Fighting began at **Lexington and Concord** in April 1775.\n- The **Declaration of Independence**, written mainly by **Thomas Jefferson**, was adopted on **July 4, 1776**.\n- The victory at **Saratoga (1777)** convinced **France** to join the war on the American side.\n- The British surrendered at **Yorktown (1781)**; the **Treaty of Paris (1783)** ended the war.",
+      "body": "The earliest civilizations grew up along rivers.\n\n**Mesopotamia** (\"land between the rivers\") lay between the **Tigris** and **Euphrates** in modern Iraq. The **Sumerians** invented **cuneiform**, one of the first writing systems, pressed into clay tablets with wedge-shaped marks. They built stepped temples called **ziggurats**. King **Hammurabi** of Babylon wrote one of the first law codes, famous for \"an eye for an eye.\" *The Epic of Gilgamesh* is one of the oldest stories in the world.\n\n**Ancient Egypt** grew along the **Nile**, whose yearly floods made the land fertile. Kings were called **pharaohs**. The **Great Pyramid of Giza** was built for the pharaoh **Khufu**. Egyptians wrote in **hieroglyphics** on papyrus and preserved bodies as mummies. The **Rosetta Stone**, found in 1799, had the same text in three scripts and let Jean-François Champollion decode hieroglyphics. **Tutankhamun**'s nearly untouched tomb was found by Howard Carter in 1922. **Cleopatra VII** was the last active ruler of Ptolemaic Egypt.",
       "keyFacts": [
-        "The war began at Lexington and Concord in 1775.",
-        "Thomas Jefferson was the main author of the Declaration of Independence.",
-        "Saratoga (1777) was the turning point that brought France into the war.",
-        "Cornwallis surrendered at Yorktown in 1781.",
-        "The Treaty of Paris (1783) ended the war."
+        "Mesopotamia lay between the Tigris and Euphrates rivers.",
+        "Sumerians invented cuneiform writing.",
+        "Hammurabi's Code was an early Babylonian law code.",
+        "The Rosetta Stone helped decode Egyptian hieroglyphics.",
+        "Howard Carter found Tutankhamun's tomb in 1922."
       ]
     },
     {
-      "id": "hist-ancient-egypt",
-      "title": "Ancient Egypt",
-      "topic": "World History",
-      "difficulty": "easy",
-      "body": "Ancient Egyptian civilization grew along the **Nile River**, whose yearly floods left rich soil for farming.\n\n## Key ideas\n- Rulers were called **pharaohs** and were seen as gods on Earth.\n- The **Great Pyramid of Giza** was built for the pharaoh **Khufu** around 2560 BCE. It is the only one of the Seven Wonders of the Ancient World still standing.\n- Egyptians wrote in **hieroglyphics**. The **Rosetta Stone**, with the same text in hieroglyphic, Demotic and Greek, let **Jean-François Champollion** decode them in 1822.\n- Bodies were preserved as **mummies** for the afterlife.\n\n## Famous pharaohs\n- **Hatshepsut**, a female pharaoh known for trade expeditions to the land of Punt.\n- **Tutankhamun**, whose nearly intact tomb was found by **Howard Carter** in 1922.\n- **Ramesses II**, a great builder who fought the Hittites at Kadesh.",
+      "id": "hist-greece-rome",
+      "title": "Ancient Greece and Rome",
+      "topic": "Ancient World",
+      "difficulty": "medium",
+      "body": "**Ancient Greece** was made of city-states. **Athens** developed the first **democracy** and was home to philosophers **Socrates**, his student **Plato**, and Plato's student **Aristotle**. **Sparta** was a military society. Greeks fought Persia at **Marathon** (490 BCE) and **Thermopylae** (480 BCE), where 300 Spartans under King Leonidas made a famous stand. The Olympic Games began in Olympia in 776 BCE. **Alexander the Great**, tutored by Aristotle, built an empire stretching to India and founded Alexandria in Egypt.\n\n**Rome** was founded, according to legend, by **Romulus and Remus** in 753 BCE. It became a **republic** ruled by elected senators and consuls. Rome defeated Carthage in the **Punic Wars**, despite the Carthaginian general **Hannibal** crossing the Alps with elephants. **Julius Caesar** crossed the Rubicon River and became dictator, but was assassinated on the **Ides of March** (March 15), 44 BCE. His adopted heir **Augustus** became the first emperor. Romans built **aqueducts**, roads and the **Colosseum**. Mount Vesuvius buried **Pompeii** in 79 CE. The Western Roman Empire fell in 476 CE.",
       "keyFacts": [
-        "Egypt depended on the yearly flooding of the Nile.",
-        "The Rosetta Stone helped Champollion decode hieroglyphics in 1822.",
-        "The Great Pyramid of Giza was built for Khufu.",
-        "Howard Carter found Tutankhamun’s tomb in 1922.",
-        "Hatshepsut was a female pharaoh."
+        "Athens developed the first democracy.",
+        "Socrates taught Plato, who taught Aristotle, who tutored Alexander the Great.",
+        "300 Spartans fought at Thermopylae under Leonidas.",
+        "Hannibal crossed the Alps with elephants during the Punic Wars.",
+        "Julius Caesar was killed on the Ides of March, 44 BCE.",
+        "Augustus was Rome's first emperor; Vesuvius buried Pompeii in 79 CE."
+      ]
+    },
+    {
+      "id": "hist-asia",
+      "title": "Ancient China and India",
+      "topic": "Ancient World",
+      "difficulty": "medium",
+      "body": "**China**'s first emperor, **Qin Shi Huang**, unified China in 221 BCE, standardized writing and coins, began linking walls that became the **Great Wall**, and was buried with the **Terracotta Army**. The **Han dynasty** that followed opened the **Silk Road**, a trade route to the West, and invented paper. **Confucius** taught respect for family, elders and good government. Chinese inventions include **paper, printing, gunpowder and the compass**.\n\nIn **India**, the **Indus Valley civilization** built planned cities like **Mohenjo-daro** and Harappa. **Siddhartha Gautama**, known as the **Buddha**, founded **Buddhism**, teaching the Four Noble Truths and the Eightfold Path. The emperor **Ashoka** of the Maurya Empire converted to Buddhism after the bloody Kalinga war and spread it across Asia. The **Gupta Empire** is remembered as a golden age; Indian mathematicians developed the decimal system and the concept of zero.",
+      "keyFacts": [
+        "Qin Shi Huang unified China in 221 BCE and was buried with the Terracotta Army.",
+        "The Han dynasty opened the Silk Road.",
+        "Confucius was a Chinese philosopher who stressed respect and good government.",
+        "Mohenjo-daro was a city of the Indus Valley civilization.",
+        "Ashoka spread Buddhism after the Kalinga war."
+      ]
+    },
+    {
+      "id": "hist-medieval",
+      "title": "The Middle Ages",
+      "topic": "World History",
+      "difficulty": "medium",
+      "body": "After Rome fell, Europe entered the **Middle Ages** (about 500 to 1500 CE). **Charlemagne** was crowned emperor by the Pope on Christmas Day in 800. Society was organized by **feudalism**: kings gave land (fiefs) to lords and knights in exchange for loyalty, while peasants called **serfs** worked the land.\n\nIn 1066 **William the Conqueror** of Normandy won the **Battle of Hastings** and became king of England; the **Bayeux Tapestry** shows the story. In 1215 English barons forced King John to sign the **Magna Carta**, limiting the king's power. The **Crusades** were religious wars over the Holy Land. The **Black Death** (bubonic plague, spread by fleas on rats) killed about a third of Europe's people around 1347 to 1351. **Joan of Arc** led French troops during the **Hundred Years' War** and was burned at the stake in 1431.\n\nElsewhere, the **Byzantine Empire** (capital **Constantinople**) lasted until the Ottomans conquered it in 1453. Islam was founded by **Muhammad** in Arabia in the 600s. **Genghis Khan** built the **Mongol Empire**, the largest connected land empire in history. In Japan, warriors called **samurai** served lords under the **shogun**. **Mansa Musa** of the Mali Empire made a famous pilgrimage to Mecca in 1324 with so much gold that he changed its value in Cairo.",
+      "keyFacts": [
+        "Charlemagne was crowned emperor in 800.",
+        "William the Conqueror won the Battle of Hastings in 1066.",
+        "King John signed the Magna Carta in 1215.",
+        "The Black Death killed about a third of Europe's people.",
+        "Constantinople fell to the Ottomans in 1453.",
+        "Mansa Musa of Mali made a famous pilgrimage to Mecca in 1324."
+      ]
+    },
+    {
+      "id": "hist-renaissance",
+      "title": "Renaissance, Reformation and Exploration",
+      "topic": "World History",
+      "difficulty": "medium",
+      "body": "The **Renaissance** (\"rebirth\") began in Italy, especially **Florence**, where the **Medici** family supported artists. **Leonardo da Vinci** painted the *Mona Lisa* and *The Last Supper*. **Michelangelo** sculpted *David* and painted the **Sistine Chapel** ceiling. **Johannes Gutenberg** built a **printing press** with movable type around 1440 and printed the Gutenberg Bible.\n\nIn 1517 **Martin Luther** posted his **Ninety-five Theses** in Wittenberg, criticizing the sale of indulgences and starting the **Protestant Reformation**. King **Henry VIII** broke with the Pope and founded the Church of England so he could end his marriage.\n\nThe **Age of Exploration**: **Christopher Columbus** sailed for Spain in 1492 with the Niña, Pinta and Santa María. **Vasco da Gama** reached India by sailing around Africa. **Ferdinand Magellan**'s expedition was the first to circle the globe (1519 to 1522), though Magellan died in the Philippines. **Hernán Cortés** conquered the **Aztec** capital Tenochtitlan, and **Francisco Pizarro** conquered the **Inca** Empire. The **Columbian Exchange** moved crops, animals and diseases between the Americas and the rest of the world.",
+      "keyFacts": [
+        "The Renaissance began in Italy, especially Florence.",
+        "Gutenberg built a movable-type printing press around 1440.",
+        "Martin Luther posted the Ninety-five Theses in 1517.",
+        "Magellan's expedition first circled the globe.",
+        "Cortés conquered the Aztecs; Pizarro conquered the Inca."
+      ]
+    },
+    {
+      "id": "hist-us-founding",
+      "title": "Colonial America and the American Revolution",
+      "topic": "U.S. History",
+      "difficulty": "easy",
+      "body": "**Jamestown**, Virginia (1607) was the first permanent English colony in North America. The **Pilgrims** arrived on the **Mayflower** in 1620 and signed the **Mayflower Compact** at Plymouth.\n\nAfter the French and Indian War, Britain taxed the colonies, with the **Stamp Act** (1765) and Tea Act. Colonists protested \"no taxation without representation.\" Events leading to war: the **Boston Massacre** (1770) and the **Boston Tea Party** (1773). Fighting began at **Lexington and Concord** in 1775, after **Paul Revere**'s midnight ride. **Thomas Paine** urged independence in *Common Sense*.\n\n**Thomas Jefferson** wrote the **Declaration of Independence**, adopted July 4, 1776. **George Washington** led the Continental Army, crossed the Delaware on Christmas night 1776, and endured the winter at **Valley Forge**. The victory at **Saratoga** (1777) brought France in as an ally. The war effectively ended when the British surrendered at **Yorktown** (1781), and the **Treaty of Paris** (1783) recognized independence.\n\nThe weak **Articles of Confederation** were replaced by the **Constitution**, written in Philadelphia in 1787. **James Madison** is called the \"Father of the Constitution.\" The first ten amendments are the **Bill of Rights** (1791).",
+      "keyFacts": [
+        "Jamestown (1607) was the first permanent English colony.",
+        "The Declaration of Independence was adopted July 4, 1776, written mainly by Jefferson.",
+        "The war began at Lexington and Concord in 1775.",
+        "Saratoga was the turning point; Yorktown was the last major battle.",
+        "James Madison is the Father of the Constitution; the Bill of Rights is the first ten amendments."
+      ]
+    },
+    {
+      "id": "hist-us-civil-war",
+      "title": "Westward Expansion and the Civil War",
+      "topic": "U.S. History",
+      "difficulty": "medium",
+      "body": "In 1803 President Jefferson bought the **Louisiana Territory** from Napoleon's France, doubling the country's size. **Lewis and Clark** explored it with help from the Shoshone guide **Sacagawea**. The idea of **Manifest Destiny** said Americans should spread to the Pacific. Andrew Jackson's **Indian Removal Act** led to the **Trail of Tears**, the forced march of the Cherokee. The **California Gold Rush** began in 1848.\n\nTension over **slavery** grew. **Harriet Tubman** led people to freedom on the **Underground Railroad**. **Frederick Douglass** escaped slavery and became a famous speaker and writer. Harriet Beecher Stowe's novel *Uncle Tom's Cabin* turned many Northerners against slavery. The **Dred Scott** decision (1857) said enslaved people were not citizens.\n\nAfter **Abraham Lincoln** was elected in 1860, Southern states seceded and formed the **Confederacy** under **Jefferson Davis**. The **Civil War** began at **Fort Sumter** in 1861. Lincoln issued the **Emancipation Proclamation** in 1863. **Gettysburg** (1863) was the turning point, and Lincoln later gave the **Gettysburg Address** there (\"Four score and seven years ago\"). Union general **Ulysses S. Grant** accepted **Robert E. Lee**'s surrender at **Appomattox Court House** in 1865. Days later Lincoln was assassinated by John Wilkes Booth. The **13th Amendment** abolished slavery.",
+      "keyFacts": [
+        "The Louisiana Purchase (1803) doubled the size of the U.S.",
+        "Sacagawea guided Lewis and Clark.",
+        "The Civil War began at Fort Sumter in 1861.",
+        "Gettysburg (1863) was the turning point of the Civil War.",
+        "Lee surrendered to Grant at Appomattox Court House in 1865.",
+        "The 13th Amendment abolished slavery."
+      ]
+    },
+    {
+      "id": "hist-modern",
+      "title": "The World Wars and the 20th Century",
+      "topic": "Modern History",
+      "difficulty": "medium",
+      "body": "**World War I** (1914 to 1918) began after Archduke **Franz Ferdinand** of Austria-Hungary was assassinated in Sarajevo. Armies fought in **trenches** on the Western Front. The U.S. joined in 1917, partly after the sinking of the **Lusitania** and the Zimmermann Telegram. The **Treaty of Versailles** ended the war and blamed Germany.\n\nThe **Great Depression** began with the 1929 stock market crash. President **Franklin D. Roosevelt** answered with the **New Deal**.\n\n**World War II** (1939 to 1945) began when **Adolf Hitler**'s Germany invaded **Poland**. Japan attacked **Pearl Harbor** on December 7, 1941, bringing the U.S. into the war. In the **Holocaust**, Nazi Germany murdered six million Jews; Anne Frank's diary tells of her family's hiding. Allied forces landed in Normandy on **D-Day**, June 6, 1944. The war in the Pacific ended after atomic bombs were dropped on **Hiroshima** and **Nagasaki**. British Prime Minister **Winston Churchill** led Britain through the war.\n\nThe **Cold War** pitted the U.S. against the Soviet Union. The **Berlin Wall** went up in 1961 and fell in 1989. The **Space Race** included the Soviet satellite **Sputnik** (1957). In the **Civil Rights Movement**, **Rosa Parks** sparked the Montgomery Bus Boycott, and **Martin Luther King Jr.** gave his \"I Have a Dream\" speech at the 1963 March on Washington. The **Brown v. Board of Education** decision (1954) ended legal segregation in public schools.",
+      "keyFacts": [
+        "WWI began after Franz Ferdinand was assassinated in Sarajevo in 1914.",
+        "The Treaty of Versailles ended WWI.",
+        "Japan attacked Pearl Harbor on December 7, 1941.",
+        "D-Day was June 6, 1944.",
+        "The Berlin Wall fell in 1989.",
+        "Brown v. Board of Education (1954) ended legal school segregation."
       ]
     }
   ],
   "tossups": [
     {
       "id": "hist-t-001",
-      "topic": "U.S. History",
-      "lessonId": "hist-american-revolution",
+      "topic": "Ancient World",
+      "lessonId": "hist-ancient",
       "difficulty": "easy",
-      "question": "Benedict Arnold fought bravely at this battle before he became a traitor. John Burgoyne surrendered after this 1777 battle, which convinced France to ally with the Americans. For 10 points, name this New York battle called the turning point of the American Revolution.",
-      "powerIndex": 123,
+      "question": "This river has two main branches, the White and the Blue. Its yearly floods left rich black soil that the ancient Egyptians called kemet. For 10 points, name this river, the longest in Africa, along which ancient Egypt grew.",
+      "powerIndex": 173,
+      "answer": "Nile River",
+      "acceptable": [
+        "Nile"
+      ]
+    },
+    {
+      "id": "hist-t-002",
+      "topic": "Ancient World",
+      "lessonId": "hist-ancient",
+      "difficulty": "easy",
+      "question": "This object was found in 1799 by French soldiers during Napoleon's campaign. It contains the same decree in Greek, Demotic and hieroglyphic scripts. For 10 points, name this stone that helped Champollion decode hieroglyphics.",
+      "powerIndex": 126,
+      "answer": "Rosetta Stone",
+      "acceptable": []
+    },
+    {
+      "id": "hist-t-003",
+      "topic": "Ancient World",
+      "lessonId": "hist-ancient",
+      "difficulty": "medium",
+      "question": "This ruler's laws were carved on a black stone pillar topped with an image of him receiving them from the sun god Shamash. Its 282 laws include the idea of \"an eye for an eye.\" For 10 points, name this king of Babylon famous for his law code.",
+      "powerIndex": 155,
+      "answer": "Hammurabi",
+      "acceptable": []
+    },
+    {
+      "id": "hist-t-004",
+      "topic": "Ancient World",
+      "lessonId": "hist-ancient",
+      "difficulty": "medium",
+      "question": "This writing system was pressed into clay tablets using a reed stylus. It was invented by the Sumerians in Mesopotamia. For 10 points, name this early writing system whose name means \"wedge-shaped.\"",
+      "powerIndex": 93,
+      "answer": "cuneiform",
+      "acceptable": []
+    },
+    {
+      "id": "hist-t-005",
+      "topic": "Ancient World",
+      "lessonId": "hist-ancient",
+      "difficulty": "hard",
+      "question": "This ruler's tomb, labeled KV62 in the Valley of the Kings, was discovered almost untouched in 1922 by Howard Carter. His golden death mask is one of the most famous objects from Egypt. For 10 points, name this \"boy king\" of Egypt.",
+      "powerIndex": 102,
+      "answer": "Tutankhamun",
+      "acceptable": [
+        "King Tut",
+        "Tutankhamen"
+      ]
+    },
+    {
+      "id": "hist-t-006",
+      "topic": "Ancient World",
+      "lessonId": "hist-greece-rome",
+      "difficulty": "easy",
+      "question": "This man was sentenced to death by drinking hemlock. He taught by asking questions, a method now named after him. His student Plato wrote down his ideas. For 10 points, name this philosopher of Athens.",
+      "powerIndex": 125,
+      "answer": "Socrates",
+      "acceptable": []
+    },
+    {
+      "id": "hist-t-007",
+      "topic": "Ancient World",
+      "lessonId": "hist-greece-rome",
+      "difficulty": "easy",
+      "question": "This leader was warned to \"beware the Ides of March.\" He famously said \"I came, I saw, I conquered\" and crossed the Rubicon River. For 10 points, name this Roman leader who was assassinated in 44 BCE.",
+      "powerIndex": 115,
+      "answer": "Julius Caesar",
+      "acceptable": [
+        "Caesar",
+        "Gaius Julius Caesar"
+      ]
+    },
+    {
+      "id": "hist-t-008",
+      "topic": "Ancient World",
+      "lessonId": "hist-greece-rome",
+      "difficulty": "medium",
+      "question": "This leader was tutored by Aristotle and tamed a horse named Bucephalus. He cut the Gordian Knot and founded a city in Egypt named after himself. For 10 points, name this Macedonian king who conquered the Persian Empire.",
+      "powerIndex": 118,
+      "answer": "Alexander the Great",
+      "acceptable": [
+        "Alexander III of Macedon",
+        "Alexander"
+      ]
+    },
+    {
+      "id": "hist-t-009",
+      "topic": "Ancient World",
+      "lessonId": "hist-greece-rome",
+      "difficulty": "medium",
+      "question": "This general's father made him swear eternal hatred of Rome. He won a huge victory at Cannae after leading an army with elephants across the Alps. For 10 points, name this general of Carthage during the Second Punic War.",
+      "powerIndex": 119,
+      "answer": "Hannibal Barca",
+      "acceptable": [
+        "Hannibal"
+      ]
+    },
+    {
+      "id": "hist-t-010",
+      "topic": "Ancient World",
+      "lessonId": "hist-greece-rome",
+      "difficulty": "medium",
+      "question": "In this battle, the traitor Ephialtes showed the Persians a hidden mountain path. King Leonidas and his 300 Spartans held a narrow pass for days. For 10 points, name this 480 BCE battle whose name means \"hot gates.\"",
+      "powerIndex": 86,
+      "answer": "Battle of Thermopylae",
+      "acceptable": [
+        "Thermopylae"
+      ]
+    },
+    {
+      "id": "hist-t-011",
+      "topic": "Ancient World",
+      "lessonId": "hist-greece-rome",
+      "difficulty": "hard",
+      "question": "This city's people were preserved as plaster casts made from hollows in the ash. Pliny the Younger described the disaster that destroyed it in 79 CE. For 10 points, name this Roman city buried by Mount Vesuvius.",
+      "powerIndex": 142,
+      "answer": "Pompeii",
+      "acceptable": []
+    },
+    {
+      "id": "hist-t-012",
+      "topic": "Ancient World",
+      "lessonId": "hist-greece-rome",
+      "difficulty": "hard",
+      "question": "This man was born Octavian and defeated Mark Antony and Cleopatra at the Battle of Actium. The month of August is named for him. For 10 points, name this first Roman emperor.",
+      "powerIndex": 153,
+      "answer": "Augustus",
+      "acceptable": [
+        "Octavian",
+        "Caesar Augustus"
+      ]
+    },
+    {
+      "id": "hist-t-013",
+      "topic": "Ancient World",
+      "lessonId": "hist-asia",
+      "difficulty": "easy",
+      "question": "This structure was built over many centuries, with most of its existing parts built by the Ming dynasty. It was begun by Qin Shi Huang to keep out northern invaders. For 10 points, name this very long wall in China.",
+      "powerIndex": 146,
+      "answer": "Great Wall of China",
+      "acceptable": [
+        "Great Wall"
+      ]
+    },
+    {
+      "id": "hist-t-014",
+      "topic": "Ancient World",
+      "lessonId": "hist-asia",
+      "difficulty": "medium",
+      "question": "This ruler's tomb near Xi'an is guarded by thousands of life-size clay soldiers called the Terracotta Army. For 10 points, name this ruler who unified China in 221 BCE and became its first emperor.",
+      "powerIndex": 90,
+      "answer": "Qin Shi Huang",
+      "acceptable": [
+        "Shi Huangdi",
+        "Qin Shi Huangdi",
+        "Ying Zheng"
+      ]
+    },
+    {
+      "id": "hist-t-015",
+      "topic": "Ancient World",
+      "lessonId": "hist-asia",
+      "difficulty": "medium",
+      "question": "This network of routes connected Chang'an with the Mediterranean world. It was opened by the Han dynasty, and Marco Polo traveled along it. For 10 points, name this trade route named after a luxurious Chinese cloth.",
+      "powerIndex": 190,
+      "answer": "Silk Road",
+      "acceptable": [
+        "Silk Route"
+      ]
+    },
+    {
+      "id": "hist-t-016",
+      "topic": "Ancient World",
+      "lessonId": "hist-asia",
+      "difficulty": "medium",
+      "question": "This thinker's sayings were collected by his students in the Analects. He taught filial piety, which means respect for one's parents and elders. For 10 points, name this Chinese philosopher who lived around 500 BCE.",
+      "powerIndex": 106,
+      "answer": "Confucius",
+      "acceptable": [
+        "Kongzi",
+        "Kong Fuzi"
+      ]
+    },
+    {
+      "id": "hist-t-017",
+      "topic": "Ancient World",
+      "lessonId": "hist-asia",
+      "difficulty": "hard",
+      "question": "This ruler was so horrified by the bloodshed of the Kalinga War that he gave up conquest. His edicts were carved on pillars across his Maurya Empire. For 10 points, name this Indian emperor who spread Buddhism.",
+      "powerIndex": 134,
+      "answer": "Ashoka",
+      "acceptable": [
+        "Asoka",
+        "Ashoka the Great"
+      ]
+    },
+    {
+      "id": "hist-t-018",
+      "topic": "Ancient World",
+      "lessonId": "hist-asia",
+      "difficulty": "hard",
+      "question": "This prince left his palace after seeing an old man, a sick man and a dead man. He reached enlightenment while sitting under a Bodhi tree. For 10 points, name this founder of Buddhism.",
+      "powerIndex": 126,
+      "answer": "Siddhartha Gautama",
+      "acceptable": [
+        "the Buddha",
+        "Buddha",
+        "Gautama Buddha",
+        "Siddhartha"
+      ]
+    },
+    {
+      "id": "hist-t-019",
+      "topic": "World History",
+      "lessonId": "hist-medieval",
+      "difficulty": "easy",
+      "question": "This document was sealed at Runnymede by King John in 1215. It said that even the king had to follow the law. For 10 points, name this English charter whose name means \"Great Charter.\"",
+      "powerIndex": 104,
+      "answer": "Magna Carta",
+      "acceptable": [
+        "Magna Charta"
+      ]
+    },
+    {
+      "id": "hist-t-020",
+      "topic": "World History",
+      "lessonId": "hist-medieval",
+      "difficulty": "easy",
+      "question": "This disease was caused by bacteria carried by fleas on rats. It swept Europe in the late 1340s and killed about one-third of the population. For 10 points, name this pandemic also known as the bubonic plague.",
+      "powerIndex": 112,
+      "answer": "Black Death",
+      "acceptable": [
+        "bubonic plague",
+        "the plague",
+        "Great Mortality"
+      ]
+    },
+    {
+      "id": "hist-t-021",
+      "topic": "World History",
+      "lessonId": "hist-medieval",
+      "difficulty": "medium",
+      "question": "This battle is shown on the Bayeux Tapestry, which depicts King Harold being struck in the eye by an arrow. It was won by William the Conqueror. For 10 points, name this 1066 battle that began the Norman conquest of England.",
+      "powerIndex": 121,
+      "answer": "Battle of Hastings",
+      "acceptable": [
+        "Hastings"
+      ]
+    },
+    {
+      "id": "hist-t-022",
+      "topic": "World History",
+      "lessonId": "hist-medieval",
+      "difficulty": "medium",
+      "question": "This woman heard voices of saints telling her to help the French. She helped end the Siege of Orléans during the Hundred Years' War. For 10 points, name this French heroine burned at the stake in 1431.",
+      "powerIndex": 93,
+      "answer": "Joan of Arc",
+      "acceptable": [
+        "Jeanne d'Arc",
+        "Maid of Orléans"
+      ]
+    },
+    {
+      "id": "hist-t-023",
+      "topic": "World History",
+      "lessonId": "hist-medieval",
+      "difficulty": "medium",
+      "question": "This ruler was born Temüjin and united the tribes of the Mongolian steppe in 1206. For 10 points, name this founder of the Mongol Empire.",
+      "powerIndex": 122,
+      "answer": "Genghis Khan",
+      "acceptable": [
+        "Chinggis Khan",
+        "Temüjin"
+      ]
+    },
+    {
+      "id": "hist-t-024",
+      "topic": "World History",
+      "lessonId": "hist-medieval",
+      "difficulty": "hard",
+      "question": "This ruler of the Mali Empire built the Djinguereber Mosque in Timbuktu. On his 1324 pilgrimage to Mecca, he gave away so much gold that its price fell in Cairo. For 10 points, name this king sometimes called the richest person in history.",
+      "powerIndex": 98,
+      "answer": "Mansa Musa",
+      "acceptable": [
+        "Musa I",
+        "Musa"
+      ]
+    },
+    {
+      "id": "hist-t-025",
+      "topic": "World History",
+      "lessonId": "hist-medieval",
+      "difficulty": "hard",
+      "question": "This city was protected by the Theodosian Walls and was home to the Hagia Sophia. It was captured by the Ottoman sultan Mehmed II in 1453. For 10 points, name this capital of the Byzantine Empire, now called Istanbul.",
+      "powerIndex": 132,
+      "answer": "Constantinople",
+      "acceptable": [
+        "Byzantium",
+        "Istanbul"
+      ]
+    },
+    {
+      "id": "hist-t-026",
+      "topic": "World History",
+      "lessonId": "hist-renaissance",
+      "difficulty": "easy",
+      "question": "This artist filled notebooks with mirror writing and designs for flying machines. He painted The Last Supper and the Mona Lisa. For 10 points, name this Italian Renaissance genius.",
+      "powerIndex": 116,
+      "answer": "Leonardo da Vinci",
+      "acceptable": [
+        "Leonardo",
+        "da Vinci"
+      ]
+    },
+    {
+      "id": "hist-t-027",
+      "topic": "World History",
+      "lessonId": "hist-renaissance",
+      "difficulty": "easy",
+      "question": "This explorer's ships were the Niña, the Pinta and the Santa María. Sailing for Spain in 1492, he reached islands in the Caribbean. For 10 points, name this Italian explorer.",
+      "powerIndex": 54,
+      "answer": "Christopher Columbus",
+      "acceptable": [
+        "Columbus",
+        "Cristoforo Colombo",
+        "Cristóbal Colón"
+      ]
+    },
+    {
+      "id": "hist-t-028",
+      "topic": "World History",
+      "lessonId": "hist-renaissance",
+      "difficulty": "medium",
+      "question": "This monk was declared an outlaw at the Diet of Worms. In 1517 he wrote the Ninety-five Theses attacking the sale of indulgences. For 10 points, name this German who began the Protestant Reformation.",
+      "powerIndex": 75,
+      "answer": "Martin Luther",
+      "acceptable": [
+        "Luther"
+      ]
+    },
+    {
+      "id": "hist-t-029",
+      "topic": "World History",
+      "lessonId": "hist-renaissance",
+      "difficulty": "medium",
+      "question": "This man's invention used movable metal type, and around 1455 he printed a famous Bible. For 10 points, name this German inventor of the printing press in Europe.",
+      "powerIndex": 136,
+      "answer": "Johannes Gutenberg",
+      "acceptable": [
+        "Gutenberg"
+      ]
+    },
+    {
+      "id": "hist-t-030",
+      "topic": "World History",
+      "lessonId": "hist-renaissance",
+      "difficulty": "medium",
+      "question": "This artist sculpted the Pietà and a 17-foot statue of David. He spent four years painting the ceiling of the Sistine Chapel. For 10 points, name this Italian artist.",
+      "powerIndex": 109,
+      "answer": "Michelangelo",
+      "acceptable": [
+        "Michelangelo Buonarroti"
+      ]
+    },
+    {
+      "id": "hist-t-031",
+      "topic": "World History",
+      "lessonId": "hist-renaissance",
+      "difficulty": "hard",
+      "question": "This explorer named the Pacific Ocean because it seemed peaceful. He was killed at the Battle of Mactan in the Philippines, but his crew finished the first trip around the world. For 10 points, name this Portuguese explorer.",
+      "powerIndex": 110,
+      "answer": "Ferdinand Magellan",
+      "acceptable": [
+        "Magellan",
+        "Fernão de Magalhães"
+      ]
+    },
+    {
+      "id": "hist-t-032",
+      "topic": "World History",
+      "lessonId": "hist-renaissance",
+      "difficulty": "hard",
+      "question": "This conquistador was helped by an interpreter named La Malinche and allied with the Tlaxcalans. He captured Moctezuma and conquered Tenochtitlan. For 10 points, name this Spaniard who conquered the Aztec Empire.",
+      "powerIndex": 108,
+      "answer": "Hernán Cortés",
+      "acceptable": [
+        "Cortés",
+        "Cortez",
+        "Hernando Cortés"
+      ]
+    },
+    {
+      "id": "hist-t-033",
+      "topic": "U.S. History",
+      "lessonId": "hist-us-founding",
+      "difficulty": "easy",
+      "question": "This document says that all men have the right to \"life, liberty and the pursuit of happiness.\" John Hancock signed it with very large letters. For 10 points, name this document adopted on July 4, 1776.",
+      "powerIndex": 188,
+      "answer": "Declaration of Independence",
+      "acceptable": []
+    },
+    {
+      "id": "hist-t-034",
+      "topic": "U.S. History",
+      "lessonId": "hist-us-founding",
+      "difficulty": "easy",
+      "question": "This man was the commander at Valley Forge and crossed the Delaware River on Christmas night in 1776. For 10 points, name this general who became the first President of the United States.",
+      "powerIndex": 149,
+      "answer": "George Washington",
+      "acceptable": [
+        "Washington"
+      ]
+    },
+    {
+      "id": "hist-t-035",
+      "topic": "U.S. History",
+      "lessonId": "hist-us-founding",
+      "difficulty": "medium",
+      "question": "This event was organized by the Sons of Liberty, some of them dressed as Mohawk people. Protesters dumped 342 chests of tea into a harbor in 1773. For 10 points, name this protest in Massachusetts.",
+      "powerIndex": 140,
+      "answer": "Boston Tea Party",
+      "acceptable": []
+    },
+    {
+      "id": "hist-t-036",
+      "topic": "U.S. History",
+      "lessonId": "hist-us-founding",
+      "difficulty": "medium",
+      "question": "This 1777 American victory saw British general John Burgoyne surrender. It convinced France to join the war as an ally. For 10 points, name this New York battle called the turning point of the Revolution.",
+      "powerIndex": 84,
       "answer": "Battles of Saratoga",
       "acceptable": [
         "Saratoga"
       ]
     },
     {
-      "id": "hist-t-002",
-      "topic": "World History",
-      "lessonId": "hist-ancient-egypt",
-      "difficulty": "easy",
-      "question": "This object was found in 1799 by French soldiers during Napoleon’s invasion. It carries a decree written in three scripts, including Demotic and Greek, which let Champollion decode hieroglyphics. For 10 points, name this stone slab now in the British Museum.",
-      "powerIndex": 151,
-      "answer": "Rosetta Stone",
+      "id": "hist-t-037",
+      "topic": "U.S. History",
+      "lessonId": "hist-us-founding",
+      "difficulty": "medium",
+      "question": "This man wrote many of the Federalist Papers and was the fourth President. He is called the \"Father of the Constitution\" and wrote the Bill of Rights. For 10 points, name this Virginian.",
+      "powerIndex": 91,
+      "answer": "James Madison",
+      "acceptable": [
+        "Madison"
+      ]
+    },
+    {
+      "id": "hist-t-038",
+      "topic": "U.S. History",
+      "lessonId": "hist-us-founding",
+      "difficulty": "hard",
+      "question": "This pamphlet, published anonymously in January 1776, argued that it was absurd for an island to rule a continent. It was written by Thomas Paine. For 10 points, name this pamphlet that urged independence from Britain.",
+      "powerIndex": 132,
+      "answer": "Common Sense",
       "acceptable": []
+    },
+    {
+      "id": "hist-t-039",
+      "topic": "U.S. History",
+      "lessonId": "hist-us-civil-war",
+      "difficulty": "easy",
+      "question": "This woman was called \"Moses\" by the people she helped escape. She led about 70 people to freedom on the Underground Railroad. For 10 points, name this conductor who escaped slavery in Maryland.",
+      "powerIndex": 104,
+      "answer": "Harriet Tubman",
+      "acceptable": [
+        "Tubman"
+      ]
+    },
+    {
+      "id": "hist-t-040",
+      "topic": "U.S. History",
+      "lessonId": "hist-us-civil-war",
+      "difficulty": "easy",
+      "question": "This speech was only about 270 words long and was given at a cemetery in Pennsylvania. It begins \"Four score and seven years ago.\" For 10 points, name this 1863 speech by Abraham Lincoln.",
+      "powerIndex": 96,
+      "answer": "Gettysburg Address",
+      "acceptable": []
+    },
+    {
+      "id": "hist-t-041",
+      "topic": "U.S. History",
+      "lessonId": "hist-us-civil-war",
+      "difficulty": "medium",
+      "question": "This deal cost about 15 million dollars and included the port of New Orleans. It was bought from Napoleon in 1803. For 10 points, name this land purchase that doubled the size of the United States.",
+      "powerIndex": 96,
+      "answer": "Louisiana Purchase",
+      "acceptable": []
+    },
+    {
+      "id": "hist-t-042",
+      "topic": "U.S. History",
+      "lessonId": "hist-us-civil-war",
+      "difficulty": "medium",
+      "question": "This 1863 order did not free enslaved people in border states loyal to the Union. It declared people enslaved in rebelling Confederate states to be free. For 10 points, name this proclamation issued by Abraham Lincoln.",
+      "powerIndex": 112,
+      "answer": "Emancipation Proclamation",
+      "acceptable": []
+    },
+    {
+      "id": "hist-t-043",
+      "topic": "U.S. History",
+      "lessonId": "hist-us-civil-war",
+      "difficulty": "hard",
+      "question": "This forced march followed the Indian Removal Act and the treaty of New Echota. About 4,000 Cherokee died on the way to Indian Territory. For 10 points, name this 1838 to 1839 forced removal.",
+      "powerIndex": 91,
+      "answer": "Trail of Tears",
+      "acceptable": []
+    },
+    {
+      "id": "hist-t-044",
+      "topic": "U.S. History",
+      "lessonId": "hist-us-civil-war",
+      "difficulty": "hard",
+      "question": "In this place, Wilmer McLean's parlor hosted a famous meeting in April 1865. Ulysses S. Grant accepted Robert E. Lee's surrender there. For 10 points, name this Virginia village where the Civil War effectively ended.",
+      "powerIndex": 102,
+      "answer": "Appomattox Court House",
+      "acceptable": [
+        "Appomattox"
+      ]
+    },
+    {
+      "id": "hist-t-045",
+      "topic": "Modern History",
+      "lessonId": "hist-modern",
+      "difficulty": "easy",
+      "question": "This event took place on December 7, 1941, a date Franklin Roosevelt said would \"live in infamy.\" Japanese planes attacked a U.S. naval base in Hawaii. For 10 points, name this attack that brought the U.S. into World War II.",
+      "powerIndex": 143,
+      "answer": "attack on Pearl Harbor",
+      "acceptable": [
+        "Pearl Harbor"
+      ]
+    },
+    {
+      "id": "hist-t-046",
+      "topic": "Modern History",
+      "lessonId": "hist-modern",
+      "difficulty": "easy",
+      "question": "This woman refused to give up her bus seat in Montgomery, Alabama, in 1955. Her arrest led to the Montgomery Bus Boycott. For 10 points, name this civil rights activist.",
+      "powerIndex": 97,
+      "answer": "Rosa Parks",
+      "acceptable": [
+        "Parks"
+      ]
+    },
+    {
+      "id": "hist-t-047",
+      "topic": "Modern History",
+      "lessonId": "hist-modern",
+      "difficulty": "medium",
+      "question": "This man's death led Austria-Hungary to declare war on Serbia. He was shot by Gavrilo Princip in Sarajevo in 1914. For 10 points, name this archduke whose assassination sparked World War I.",
+      "powerIndex": 96,
+      "answer": "Archduke Franz Ferdinand",
+      "acceptable": [
+        "Franz Ferdinand"
+      ]
+    },
+    {
+      "id": "hist-t-048",
+      "topic": "Modern History",
+      "lessonId": "hist-modern",
+      "difficulty": "medium",
+      "question": "This operation was code-named Overlord, and it included landings on beaches called Omaha and Utah. On June 6, 1944, Allied troops landed in Normandy, France. For 10 points, name this invasion.",
+      "powerIndex": 101,
+      "answer": "D-Day",
+      "acceptable": [
+        "Normandy landings",
+        "Operation Overlord"
+      ]
+    },
+    {
+      "id": "hist-t-049",
+      "topic": "Modern History",
+      "lessonId": "hist-modern",
+      "difficulty": "medium",
+      "question": "This structure was crossed at a famous gap called Checkpoint Charlie. President Reagan said, \"Mr. Gorbachev, tear down this wall.\" For 10 points, name this barrier that divided a German city until 1989.",
+      "powerIndex": 108,
+      "answer": "Berlin Wall",
+      "acceptable": []
+    },
+    {
+      "id": "hist-t-050",
+      "topic": "Modern History",
+      "lessonId": "hist-modern",
+      "difficulty": "hard",
+      "question": "This 1954 Supreme Court case was argued by Thurgood Marshall. Chief Justice Earl Warren wrote that \"separate educational facilities are inherently unequal,\" overturning Plessy v. Ferguson. For 10 points, name this case that ended legal segregation in public schools.",
+      "powerIndex": 168,
+      "answer": "Brown v. Board of Education",
+      "acceptable": [
+        "Brown v. Board",
+        "Brown v. Board of Education of Topeka"
+      ]
     }
   ],
   "bonuses": [
     {
       "id": "hist-b-001",
-      "topic": "World History",
-      "lessonId": "hist-ancient-egypt",
+      "topic": "Ancient World",
+      "lessonId": "hist-ancient",
       "difficulty": "easy",
       "leadin": "Answer these questions about ancient Egypt, for 10 points each.",
       "parts": [
         {
-          "question": "Egyptian farming depended on the yearly floods of this river, the longest in Africa.",
-          "answer": "Nile River",
-          "acceptable": []
+          "question": "Egyptian kings were called by this title.",
+          "answer": "pharaoh",
+          "acceptable": [
+            "pharaohs"
+          ]
         },
         {
-          "question": "This British archaeologist discovered the tomb of Tutankhamun in 1922.",
-          "answer": "Howard Carter",
-          "acceptable": []
-        },
-        {
-          "question": "The Great Pyramid of Giza was built for this pharaoh of the Fourth Dynasty.",
+          "question": "The Great Pyramid of Giza was built for this pharaoh.",
           "answer": "Khufu",
           "acceptable": [
             "Cheops"
+          ]
+        },
+        {
+          "question": "This Frenchman decoded hieroglyphics in 1822.",
+          "answer": "Jean-François Champollion",
+          "acceptable": [
+            "Champollion"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hist-b-002",
+      "topic": "Ancient World",
+      "lessonId": "hist-ancient",
+      "difficulty": "medium",
+      "leadin": "Answer these questions about Mesopotamia, for 10 points each.",
+      "parts": [
+        {
+          "question": "Mesopotamia lay between the Euphrates and this river.",
+          "answer": "Tigris River",
+          "acceptable": [
+            "Tigris"
+          ]
+        },
+        {
+          "question": "Sumerians built stepped temple towers called these.",
+          "answer": "ziggurats",
+          "acceptable": [
+            "ziggurat"
+          ]
+        },
+        {
+          "question": "This epic about a king of Uruk is one of the oldest stories ever written.",
+          "answer": "The Epic of Gilgamesh",
+          "acceptable": [
+            "Gilgamesh"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hist-b-003",
+      "topic": "Ancient World",
+      "lessonId": "hist-greece-rome",
+      "difficulty": "easy",
+      "leadin": "Answer these questions about ancient Greece, for 10 points each.",
+      "parts": [
+        {
+          "question": "This city-state developed the first democracy.",
+          "answer": "Athens",
+          "acceptable": []
+        },
+        {
+          "question": "This rival city-state was known for raising boys to be soldiers.",
+          "answer": "Sparta",
+          "acceptable": [
+            "Lacedaemon"
+          ]
+        },
+        {
+          "question": "The ancient Olympic Games began in 776 BCE in this place.",
+          "answer": "Olympia",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "hist-b-004",
+      "topic": "Ancient World",
+      "lessonId": "hist-greece-rome",
+      "difficulty": "medium",
+      "leadin": "Answer these questions about ancient Rome, for 10 points each.",
+      "parts": [
+        {
+          "question": "According to legend, Rome was founded by these twin brothers raised by a wolf.",
+          "answer": "Romulus and Remus",
+          "acceptable": []
+        },
+        {
+          "question": "These structures carried water into Roman cities.",
+          "answer": "aqueducts",
+          "acceptable": [
+            "aqueduct"
+          ]
+        },
+        {
+          "question": "Rome fought three Punic Wars against this North African city.",
+          "answer": "Carthage",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "hist-b-005",
+      "topic": "Ancient World",
+      "lessonId": "hist-greece-rome",
+      "difficulty": "hard",
+      "leadin": "Answer these questions about Greek philosophers and battles, for 10 points each.",
+      "parts": [
+        {
+          "question": "This student of Plato tutored Alexander the Great.",
+          "answer": "Aristotle",
+          "acceptable": []
+        },
+        {
+          "question": "A messenger supposedly ran from this battle site to Athens, inspiring a modern race.",
+          "answer": "Marathon",
+          "acceptable": [
+            "Battle of Marathon"
+          ]
+        },
+        {
+          "question": "This Roman amphitheater held gladiator fights and could seat about 50,000 people.",
+          "answer": "Colosseum",
+          "acceptable": [
+            "Flavian Amphitheatre"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hist-b-006",
+      "topic": "Ancient World",
+      "lessonId": "hist-asia",
+      "difficulty": "easy",
+      "leadin": "Name these Chinese inventions, for 10 points each.",
+      "parts": [
+        {
+          "question": "This explosive powder was first used in fireworks.",
+          "answer": "gunpowder",
+          "acceptable": []
+        },
+        {
+          "question": "This tool uses a magnetized needle to show direction.",
+          "answer": "compass",
+          "acceptable": []
+        },
+        {
+          "question": "Cai Lun is credited with inventing this writing material during the Han dynasty.",
+          "answer": "paper",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "hist-b-007",
+      "topic": "Ancient World",
+      "lessonId": "hist-asia",
+      "difficulty": "medium",
+      "leadin": "Answer these questions about ancient India, for 10 points each.",
+      "parts": [
+        {
+          "question": "Mohenjo-daro and Harappa were cities of this river valley civilization.",
+          "answer": "Indus Valley Civilization",
+          "acceptable": [
+            "Indus",
+            "Harappan civilization"
+          ]
+        },
+        {
+          "question": "This Indian empire, ruling about 320 to 550 CE, is remembered as a golden age.",
+          "answer": "Gupta Empire",
+          "acceptable": [
+            "Gupta"
+          ]
+        },
+        {
+          "question": "Indian mathematicians helped develop the idea of this number, which means nothing.",
+          "answer": "zero",
+          "acceptable": [
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hist-b-008",
+      "topic": "World History",
+      "lessonId": "hist-medieval",
+      "difficulty": "easy",
+      "leadin": "Answer these questions about the Middle Ages, for 10 points each.",
+      "parts": [
+        {
+          "question": "This system had lords give land to knights in exchange for military service.",
+          "answer": "feudalism",
+          "acceptable": [
+            "feudal system"
+          ]
+        },
+        {
+          "question": "Peasants bound to the land of a lord were called these.",
+          "answer": "serfs",
+          "acceptable": [
+            "serf"
+          ]
+        },
+        {
+          "question": "These religious wars were fought over control of the Holy Land.",
+          "answer": "Crusades",
+          "acceptable": [
+            "Crusade"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hist-b-009",
+      "topic": "World History",
+      "lessonId": "hist-medieval",
+      "difficulty": "medium",
+      "leadin": "Answer these questions about medieval rulers, for 10 points each.",
+      "parts": [
+        {
+          "question": "This Frankish king was crowned emperor by the Pope on Christmas Day, 800.",
+          "answer": "Charlemagne",
+          "acceptable": [
+            "Charles the Great",
+            "Charles I"
+          ]
+        },
+        {
+          "question": "This English king was forced to accept the Magna Carta.",
+          "answer": "King John",
+          "acceptable": [
+            "John",
+            "John Lackland"
+          ]
+        },
+        {
+          "question": "This Ottoman sultan conquered Constantinople in 1453.",
+          "answer": "Mehmed II",
+          "acceptable": [
+            "Mehmed the Conqueror",
+            "Mehmed"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hist-b-010",
+      "topic": "World History",
+      "lessonId": "hist-medieval",
+      "difficulty": "hard",
+      "leadin": "Answer these questions about medieval Asia and Africa, for 10 points each.",
+      "parts": [
+        {
+          "question": "In feudal Japan, this military leader held the real power, not the emperor.",
+          "answer": "shogun",
+          "acceptable": []
+        },
+        {
+          "question": "These Japanese warriors followed a code called bushido.",
+          "answer": "samurai",
+          "acceptable": []
+        },
+        {
+          "question": "Mansa Musa ruled this West African empire.",
+          "answer": "Mali Empire",
+          "acceptable": [
+            "Mali"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hist-b-011",
+      "topic": "World History",
+      "lessonId": "hist-renaissance",
+      "difficulty": "easy",
+      "leadin": "Answer these questions about the Renaissance, for 10 points each.",
+      "parts": [
+        {
+          "question": "The Renaissance began in this country.",
+          "answer": "Italy",
+          "acceptable": []
+        },
+        {
+          "question": "This banking family ruled Florence and supported many artists.",
+          "answer": "Medici family",
+          "acceptable": [
+            "Medici",
+            "House of Medici"
+          ]
+        },
+        {
+          "question": "The word Renaissance means this in French.",
+          "answer": "rebirth",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "hist-b-012",
+      "topic": "World History",
+      "lessonId": "hist-renaissance",
+      "difficulty": "medium",
+      "leadin": "Name these explorers, for 10 points each.",
+      "parts": [
+        {
+          "question": "This Portuguese explorer reached India in 1498 by sailing around Africa.",
+          "answer": "Vasco da Gama",
+          "acceptable": [
+            "da Gama"
+          ]
+        },
+        {
+          "question": "This Spaniard conquered the Inca Empire.",
+          "answer": "Francisco Pizarro",
+          "acceptable": [
+            "Pizarro"
+          ]
+        },
+        {
+          "question": "The movement of plants, animals and diseases between the Americas and Europe is called this exchange.",
+          "answer": "Columbian Exchange",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "hist-b-013",
+      "topic": "World History",
+      "lessonId": "hist-renaissance",
+      "difficulty": "hard",
+      "leadin": "Answer these questions about the Reformation, for 10 points each.",
+      "parts": [
+        {
+          "question": "Martin Luther posted his Ninety-five Theses in this German town.",
+          "answer": "Wittenberg",
+          "acceptable": []
+        },
+        {
+          "question": "Luther protested the sale of these, which promised to reduce punishment for sins.",
+          "answer": "indulgences",
+          "acceptable": [
+            "indulgence"
+          ]
+        },
+        {
+          "question": "This English king broke from the Catholic Church to form the Church of England.",
+          "answer": "Henry VIII",
+          "acceptable": [
+            "Henry the Eighth"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hist-b-014",
+      "topic": "U.S. History",
+      "lessonId": "hist-us-founding",
+      "difficulty": "easy",
+      "leadin": "Answer these questions about colonial America, for 10 points each.",
+      "parts": [
+        {
+          "question": "This Virginia settlement of 1607 was the first permanent English colony in America.",
+          "answer": "Jamestown",
+          "acceptable": []
+        },
+        {
+          "question": "The Pilgrims sailed to Plymouth in 1620 on this ship.",
+          "answer": "Mayflower",
+          "acceptable": []
+        },
+        {
+          "question": "This silversmith made a midnight ride in 1775 to warn that the British were coming.",
+          "answer": "Paul Revere",
+          "acceptable": [
+            "Revere"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hist-b-015",
+      "topic": "U.S. History",
+      "lessonId": "hist-us-founding",
+      "difficulty": "medium",
+      "leadin": "Answer these questions about the American Revolution, for 10 points each.",
+      "parts": [
+        {
+          "question": "The first shots of the war were fired in 1775 at Lexington and this town.",
+          "answer": "Concord",
+          "acceptable": []
+        },
+        {
+          "question": "The British surrendered at this Virginia town in 1781.",
+          "answer": "Yorktown",
+          "acceptable": []
+        },
+        {
+          "question": "This 1783 treaty ended the Revolutionary War.",
+          "answer": "Treaty of Paris",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "hist-b-016",
+      "topic": "U.S. History",
+      "lessonId": "hist-us-founding",
+      "difficulty": "hard",
+      "leadin": "Answer these questions about the early U.S. government, for 10 points each.",
+      "parts": [
+        {
+          "question": "This first constitution of the U.S. created a weak national government.",
+          "answer": "Articles of Confederation",
+          "acceptable": []
+        },
+        {
+          "question": "The first ten amendments to the Constitution are called this.",
+          "answer": "Bill of Rights",
+          "acceptable": []
+        },
+        {
+          "question": "This 1765 tax on paper goods led to the cry \"no taxation without representation.\"",
+          "answer": "Stamp Act",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "hist-b-017",
+      "topic": "U.S. History",
+      "lessonId": "hist-us-civil-war",
+      "difficulty": "easy",
+      "leadin": "Answer these questions about the Civil War, for 10 points each.",
+      "parts": [
+        {
+          "question": "The war began with an attack on this fort in Charleston Harbor.",
+          "answer": "Fort Sumter",
+          "acceptable": []
+        },
+        {
+          "question": "This man was president of the Confederacy.",
+          "answer": "Jefferson Davis",
+          "acceptable": [
+            "Davis"
+          ]
+        },
+        {
+          "question": "This amendment abolished slavery in the United States.",
+          "answer": "13th Amendment",
+          "acceptable": [
+            "Thirteenth Amendment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hist-b-018",
+      "topic": "U.S. History",
+      "lessonId": "hist-us-civil-war",
+      "difficulty": "medium",
+      "leadin": "Answer these questions about the fight against slavery, for 10 points each.",
+      "parts": [
+        {
+          "question": "This man escaped slavery and wrote a famous autobiography called the Narrative of his life.",
+          "answer": "Frederick Douglass",
+          "acceptable": [
+            "Douglass"
+          ]
+        },
+        {
+          "question": "Harriet Beecher Stowe wrote this 1852 antislavery novel.",
+          "answer": "Uncle Tom's Cabin",
+          "acceptable": []
+        },
+        {
+          "question": "In this 1857 case, the Supreme Court ruled that enslaved people were not citizens.",
+          "answer": "Dred Scott v. Sandford",
+          "acceptable": [
+            "Dred Scott decision",
+            "Dred Scott"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hist-b-019",
+      "topic": "Modern History",
+      "lessonId": "hist-modern",
+      "difficulty": "medium",
+      "leadin": "Answer these questions about World War II, for 10 points each.",
+      "parts": [
+        {
+          "question": "World War II began when Germany invaded this country in 1939.",
+          "answer": "Poland",
+          "acceptable": []
+        },
+        {
+          "question": "This British prime minister promised \"blood, toil, tears and sweat.\"",
+          "answer": "Winston Churchill",
+          "acceptable": [
+            "Churchill"
+          ]
+        },
+        {
+          "question": "Atomic bombs were dropped on Hiroshima and this other Japanese city.",
+          "answer": "Nagasaki",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "hist-b-020",
+      "topic": "Modern History",
+      "lessonId": "hist-modern",
+      "difficulty": "hard",
+      "leadin": "Answer these questions about the 20th century, for 10 points each.",
+      "parts": [
+        {
+          "question": "Franklin Roosevelt's programs to fight the Great Depression were called this.",
+          "answer": "New Deal",
+          "acceptable": []
+        },
+        {
+          "question": "This 1919 treaty ended World War I and blamed Germany.",
+          "answer": "Treaty of Versailles",
+          "acceptable": [
+            "Versailles"
+          ]
+        },
+        {
+          "question": "The Soviet Union launched this first artificial satellite in 1957.",
+          "answer": "Sputnik 1",
+          "acceptable": [
+            "Sputnik"
           ]
         }
       ]

@@ -2,34 +2,134 @@
   "id": "science",
   "name": "Science",
   "icon": "🔬",
-  "description": "Biology, chemistry, physics and earth science: the biggest category in most packets.",
+  "description": "Life science, chemistry, physics, earth science and space at the middle school level.",
   "lessons": [
     {
       "id": "sci-cells",
-      "title": "The Cell: Life’s Building Block",
+      "title": "Cells: The Building Blocks of Life",
       "topic": "Biology",
       "difficulty": "easy",
-      "body": "Every living thing is made of **cells**. The *cell theory* says that all living things are made of cells, the cell is the basic unit of life, and new cells come only from existing cells.\n\n## Two kinds of cells\n- **Prokaryotic** cells (bacteria and archaea) have no nucleus. Their DNA floats in the cytoplasm.\n- **Eukaryotic** cells (plants, animals, fungi, protists) keep their DNA inside a **nucleus**.\n\n## Organelles that show up in questions\n| Organelle | Job |\n|---|---|\n| Mitochondria | Make energy (ATP) through cellular respiration |\n| Ribosome | Build proteins |\n| Chloroplast | Photosynthesis (plants and algae only) |\n| Cell wall | Rigid outer layer (plants use cellulose) |\n| Golgi apparatus | Package and ship proteins |\n\n**Quiz bowl tip:** clues often start with an obscure detail (like \"cristae\") and end with \"powerhouse of the cell.\" Learn the early clues to buzz first.",
+      "body": "Every living thing is made of one or more **cells**. The *cell theory* says that all living things are made of cells, the cell is the basic unit of life, and all cells come from existing cells. Robert Hooke named cells in 1665 after looking at cork, and Anton van Leeuwenhoek was the first to see living single-celled organisms.\n\n**Prokaryotes** (like bacteria) have no nucleus. **Eukaryotes** (plants, animals, fungi, protists) keep their DNA inside a nucleus.\n\nKey organelles to know:\n- **Nucleus**: the control center that holds DNA.\n- **Mitochondria**: the \"powerhouse\" that releases energy from food in cellular respiration.\n- **Ribosomes**: build proteins.\n- **Cell membrane**: controls what enters and leaves.\n- **Chloroplasts** (plants only): carry out photosynthesis using the green pigment chlorophyll.\n- **Cell wall** (plants, made of cellulose): gives support.\n- **Vacuole**: stores water; plants have one large central vacuole.\n\nQuiz bowl tip: clues about \"powerhouse\" mean mitochondria, and clues about \"chlorophyll\" or \"thylakoids\" mean chloroplasts.",
       "keyFacts": [
-        "Robert Hooke named “cells” in 1665 after looking at cork.",
-        "Mitochondria have folded inner membranes called cristae and make ATP.",
-        "Chloroplasts contain the green pigment chlorophyll.",
-        "Prokaryotes like bacteria have no nucleus.",
-        "Plant cell walls are made mostly of cellulose."
+        "Robert Hooke coined the word 'cell' after viewing cork.",
+        "Mitochondria release energy through cellular respiration.",
+        "Chloroplasts contain chlorophyll and perform photosynthesis.",
+        "Prokaryotes such as bacteria lack a nucleus.",
+        "Plant cell walls are made of cellulose."
       ]
     },
     {
-      "id": "sci-periodic-table",
-      "title": "Reading the Periodic Table",
+      "id": "sci-body",
+      "title": "Human Body Systems",
+      "topic": "Biology",
+      "difficulty": "easy",
+      "body": "The human body is organized from cells to tissues to organs to **organ systems**.\n\n- **Circulatory system**: the heart pumps blood through arteries (away from the heart) and veins (back to the heart). The heart has four chambers: two atria and two ventricles. Red blood cells carry oxygen using hemoglobin.\n- **Respiratory system**: air enters the lungs and reaches tiny sacs called **alveoli**, where oxygen and carbon dioxide are exchanged. The diaphragm muscle helps you breathe.\n- **Digestive system**: food travels from the mouth through the esophagus, stomach, small intestine (where most nutrients are absorbed through villi) and large intestine. The liver makes bile.\n- **Nervous system**: the brain and spinal cord form the central nervous system. Nerve cells are called **neurons**. The cerebellum controls balance.\n- **Skeletal system**: adults have 206 bones. The femur (thigh bone) is the longest; the stapes in the ear is the smallest.\n- **Excretory system**: the kidneys filter blood and make urine.\n\nQuiz bowl tip: \"alveoli\" means lungs, \"nephrons\" means kidneys, \"villi\" means small intestine.",
+      "keyFacts": [
+        "The heart has four chambers: two atria and two ventricles.",
+        "Gas exchange happens in the alveoli of the lungs.",
+        "Adults have 206 bones; the femur is the longest.",
+        "Kidneys filter blood using units called nephrons.",
+        "Neurons are nerve cells."
+      ]
+    },
+    {
+      "id": "sci-genetics",
+      "title": "Genetics and Evolution",
+      "topic": "Biology",
+      "difficulty": "medium",
+      "body": "**Gregor Mendel**, an Austrian monk, is called the father of genetics. He bred **pea plants** and found that traits are passed on by factors we now call **genes**. Different versions of a gene are **alleles**. A **dominant** allele hides a **recessive** one. A **Punnett square** predicts offspring; crossing two Aa parents gives a 3:1 ratio of dominant to recessive traits.\n\nGenes are made of **DNA**, a double helix whose structure was described by James Watson and Francis Crick in 1953 using X-ray images from Rosalind Franklin. DNA has four bases: adenine, thymine, guanine, cytosine (A pairs with T, G pairs with C). Humans have 46 chromosomes (23 pairs).\n\n**Charles Darwin** sailed on HMS *Beagle* and studied finches and tortoises on the **Galápagos Islands**. In *On the Origin of Species* (1859) he proposed evolution by **natural selection**: individuals with helpful traits survive and reproduce more. Alfred Russel Wallace came up with the same idea independently.",
+      "keyFacts": [
+        "Gregor Mendel studied inheritance with pea plants.",
+        "Watson and Crick described the DNA double helix in 1953, using Rosalind Franklin's data.",
+        "In DNA, A pairs with T and G pairs with C.",
+        "Humans have 46 chromosomes.",
+        "Darwin's 'On the Origin of Species' (1859) introduced natural selection."
+      ]
+    },
+    {
+      "id": "sci-ecology",
+      "title": "Ecology and Plants",
+      "topic": "Biology",
+      "difficulty": "easy",
+      "body": "**Ecology** studies how living things interact with each other and their environment.\n\n- **Producers** (plants, algae) make food by **photosynthesis**: carbon dioxide + water + sunlight → glucose + oxygen.\n- **Consumers** eat other organisms: herbivores eat plants, carnivores eat animals, omnivores eat both.\n- **Decomposers** (fungi, bacteria) break down dead matter.\n- A **food chain** shows who eats whom; a **food web** connects many chains. Only about 10% of energy passes from one level to the next.\n\nRelationships: **mutualism** (both benefit, like bees and flowers), **commensalism** (one benefits, the other is unaffected), **parasitism** (one benefits, the other is harmed).\n\nPlants take in water through roots, move it through **xylem**, and move sugars through **phloem**. Water vapor leaves through leaf pores called **stomata** in **transpiration**.\n\nLarge regions with similar climate and life are **biomes**: tundra, taiga, desert, grassland, temperate forest, and tropical rainforest.",
+      "keyFacts": [
+        "Photosynthesis turns carbon dioxide and water into glucose and oxygen.",
+        "Decomposers like fungi break down dead organisms.",
+        "Mutualism benefits both partners; parasitism harms one.",
+        "Xylem carries water; phloem carries sugars.",
+        "Stomata are pores on leaves."
+      ]
+    },
+    {
+      "id": "sci-matter",
+      "title": "Matter and the Periodic Table",
       "topic": "Chemistry",
       "difficulty": "medium",
-      "body": "The **periodic table** arranges elements by **atomic number**, the number of protons in the nucleus. Dmitri **Mendeleev** published the first widely used version in 1869 and left gaps for elements not yet discovered, such as gallium.\n\n## Rows and columns\n- **Periods** are rows. Elements in the same period have the same number of electron shells.\n- **Groups** are columns. Elements in the same group react in similar ways.\n\n## Famous groups\n- **Group 1, alkali metals** (lithium, sodium, potassium): very reactive, react with water.\n- **Group 17, halogens** (fluorine, chlorine): very reactive nonmetals.\n- **Group 18, noble gases** (helium, neon, argon): full outer shells, almost never react.\n\nElement symbols that don’t match English names are a favorite clue: Na (sodium, from *natrium*), K (potassium), Fe (iron), Au (gold), Ag (silver), Pb (lead).",
+      "body": "Everything is made of **atoms**. An atom has a nucleus of **protons** (positive) and **neutrons** (neutral), surrounded by **electrons** (negative). The number of protons is the **atomic number** and decides which element it is. Atoms of the same element with different numbers of neutrons are **isotopes**.\n\n**Dmitri Mendeleev** created the periodic table in 1869 and left gaps for elements not yet discovered. Rows are **periods**; columns are **groups**. Group 1 holds the reactive **alkali metals** (sodium, potassium), group 17 the **halogens** (fluorine, chlorine), and group 18 the unreactive **noble gases** (helium, neon, argon).\n\nSymbols to know: H hydrogen (atomic number 1), He helium, C carbon, N nitrogen, O oxygen, Na sodium, Fe iron, Cu copper, Ag silver, Au gold, Pb lead, Hg mercury (a liquid metal).\n\nStates of matter: solid, liquid, gas, and plasma. Changing solid to gas directly is **sublimation** (dry ice). The **pH scale** runs 0 to 14: below 7 is acidic, 7 is neutral (pure water), above 7 is basic.",
       "keyFacts": [
-        "Atomic number = number of protons.",
-        "Mendeleev published his periodic table in 1869.",
-        "Noble gases (group 18) have full outer electron shells.",
-        "Au is gold, Ag is silver, Pb is lead, Fe is iron.",
-        "Hydrogen is element 1; helium is element 2."
+        "Atomic number equals the number of protons.",
+        "Mendeleev published the periodic table in 1869.",
+        "Noble gases are in group 18 and rarely react.",
+        "Au is gold, Fe is iron, Na is sodium, Pb is lead.",
+        "Sublimation is a solid turning directly into a gas.",
+        "pH 7 is neutral; lower is acidic, higher is basic."
+      ]
+    },
+    {
+      "id": "sci-forces",
+      "title": "Forces, Motion and Energy",
+      "topic": "Physics",
+      "difficulty": "medium",
+      "body": "**Isaac Newton** described three laws of motion:\n1. An object stays at rest or in motion unless a force acts on it (**inertia**).\n2. Force = mass × acceleration (**F = ma**).\n3. Every action has an equal and opposite reaction.\n\nForce is measured in **newtons**. **Gravity** pulls masses together; on Earth it accelerates objects at about 9.8 m/s². **Friction** opposes motion.\n\nSpeed is distance divided by time; **velocity** is speed with a direction. **Momentum** is mass × velocity.\n\n**Energy** is measured in **joules**. **Kinetic energy** is energy of motion; **potential energy** is stored energy (like a book on a high shelf). Energy is never created or destroyed, only changed (conservation of energy). **Power** is energy per time, measured in **watts**, named for James Watt.\n\nSimple machines: lever, pulley, wheel and axle, inclined plane, wedge, screw. Archimedes said that with a long enough lever he could move the world.",
+      "keyFacts": [
+        "Newton's second law is F = ma.",
+        "Force is measured in newtons, energy in joules, power in watts.",
+        "Kinetic energy is energy of motion; potential energy is stored energy.",
+        "There are six classic simple machines.",
+        "Gravity on Earth accelerates objects at about 9.8 m/s²."
+      ]
+    },
+    {
+      "id": "sci-waves",
+      "title": "Light, Sound and Electricity",
+      "topic": "Physics",
+      "difficulty": "medium",
+      "body": "**Waves** carry energy. **Wavelength** is the distance between crests; **frequency** is how many waves pass per second, measured in **hertz**.\n\n**Sound** is a longitudinal wave that needs a medium; it cannot travel through a vacuum. Its speed in air is about 343 m/s. Pitch depends on frequency. A **sonic boom** happens when something travels faster than sound. Bats and dolphins use **echolocation**.\n\n**Light** travels at about 300,000 km/s in a vacuum, the fastest speed possible. White light splits into a spectrum (ROY G BIV) through a **prism**, as Newton showed. Bending of light as it enters a new material is **refraction**; bouncing off a surface is **reflection**. The **electromagnetic spectrum** from longest to shortest wavelength: radio, microwave, infrared, visible, ultraviolet, X-ray, gamma ray.\n\n**Electricity**: current is measured in **amperes**, voltage in **volts** (after Alessandro Volta, inventor of the battery), resistance in **ohms**. **Ohm's law**: V = IR. In a **series circuit** there is one path; in a **parallel circuit** there are several. Benjamin Franklin's kite experiment linked lightning to electricity, and Michael Faraday discovered electromagnetic induction.",
+      "keyFacts": [
+        "Frequency is measured in hertz.",
+        "Sound cannot travel through a vacuum.",
+        "Refraction is the bending of light.",
+        "Ohm's law: V = IR.",
+        "Gamma rays have the shortest wavelength; radio waves the longest."
+      ]
+    },
+    {
+      "id": "sci-earth",
+      "title": "Earth Science: Rocks, Plates and Weather",
+      "topic": "Earth Science",
+      "difficulty": "easy",
+      "body": "Earth has layers: the thin **crust**, the thick **mantle**, the liquid **outer core**, and the solid **inner core** (mostly iron and nickel).\n\n**Plate tectonics**: the crust is broken into plates that move. Alfred Wegener proposed **continental drift** and named the supercontinent **Pangaea**. Plates collide at convergent boundaries (forming mountains like the Himalayas), separate at divergent boundaries (like the Mid-Atlantic Ridge), and slide past at transform boundaries (like the San Andreas Fault). The **Ring of Fire** circles the Pacific with many volcanoes and earthquakes. Earthquake strength is measured with a seismometer and reported on the moment magnitude or Richter scale.\n\nThree rock types: **igneous** (from cooled magma or lava, like granite and obsidian), **sedimentary** (layers pressed together, like sandstone and limestone; fossils are found here), and **metamorphic** (changed by heat and pressure, like marble from limestone). The **Mohs scale** ranks hardness from talc (1) to diamond (10).\n\nAtmosphere layers from the ground up: troposphere (where weather happens), stratosphere (holds the ozone layer), mesosphere, thermosphere, exosphere. The **water cycle** includes evaporation, condensation, and precipitation.",
+      "keyFacts": [
+        "Alfred Wegener proposed continental drift and the supercontinent Pangaea.",
+        "Igneous rock forms from cooled magma or lava.",
+        "Marble is metamorphosed limestone.",
+        "The Mohs scale runs from talc (1) to diamond (10).",
+        "Weather happens in the troposphere; the ozone layer is in the stratosphere."
+      ]
+    },
+    {
+      "id": "sci-space",
+      "title": "Astronomy and the Solar System",
+      "topic": "Astronomy",
+      "difficulty": "easy",
+      "body": "The **Sun** is a star made mostly of hydrogen and helium; it shines by **nuclear fusion**. The eight planets in order: **Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune** (\"My Very Excellent Mother Just Served Us Nachos\"). Pluto was reclassified as a **dwarf planet** in 2006.\n\n- **Mercury**: smallest planet, closest to the Sun.\n- **Venus**: hottest planet because of a thick carbon dioxide atmosphere; spins backwards.\n- **Mars**: the \"Red Planet\" (iron oxide); has Olympus Mons, the tallest volcano in the solar system.\n- **Jupiter**: largest planet; its **Great Red Spot** is a giant storm. Galileo discovered its four largest moons (Io, Europa, Ganymede, Callisto) in 1610.\n- **Saturn**: famous rings; its largest moon **Titan** has a thick atmosphere.\n- **Uranus**: tilted on its side. **Neptune**: windiest planet, found using math in 1846.\n\nThe **asteroid belt** lies between Mars and Jupiter. **Nicolaus Copernicus** proposed that planets orbit the Sun (heliocentric model). **Johannes Kepler** found that orbits are ellipses. A **light-year** is the distance light travels in a year. Apollo 11 landed on the Moon in 1969 with Neil Armstrong and Buzz Aldrin.",
+      "keyFacts": [
+        "Venus is the hottest planet; Mercury is the closest to the Sun.",
+        "Jupiter is the largest planet and has the Great Red Spot.",
+        "Galileo discovered Jupiter's four largest moons in 1610.",
+        "Copernicus proposed the heliocentric model.",
+        "Pluto became a dwarf planet in 2006.",
+        "Apollo 11 landed on the Moon in 1969."
       ]
     }
   ],
@@ -39,49 +139,1123 @@
       "topic": "Biology",
       "lessonId": "sci-cells",
       "difficulty": "easy",
-      "question": "The inner membrane of this organelle is folded into structures called cristae. This organelle has its own DNA, and it produces most of a cell’s ATP through cellular respiration. For 10 points, name this organelle called the “powerhouse of the cell.”",
-      "powerIndex": 110,
-      "answer": "mitochondria",
+      "question": "This organelle has an inner membrane folded into cristae, and it contains its own small loop of DNA. It carries out the Krebs cycle and makes most of a cell's ATP. For 10 points, name this organelle known as the \"powerhouse of the cell.\"",
+      "powerIndex": 163,
+      "answer": "mitochondrion",
       "acceptable": [
-        "mitochondrion"
+        "mitochondria"
       ]
     },
     {
       "id": "sci-t-002",
-      "topic": "Chemistry",
-      "lessonId": "sci-periodic-table",
+      "topic": "Biology",
+      "lessonId": "sci-cells",
+      "difficulty": "easy",
+      "question": "This organelle contains stacks of disks called thylakoids, and it is found in plant cells but not animal cells. It holds the green pigment chlorophyll. For 10 points, name this organelle where photosynthesis takes place.",
+      "powerIndex": 138,
+      "answer": "chloroplast",
+      "acceptable": [
+        "chloroplasts"
+      ]
+    },
+    {
+      "id": "sci-t-003",
+      "topic": "Biology",
+      "lessonId": "sci-cells",
       "difficulty": "medium",
-      "question": "This scientist predicted the properties of “eka-aluminium,” which turned out to be gallium. Element 101 is named for him, and in 1869 he published a table arranging elements by atomic weight. For 10 points, name this Russian chemist who created the periodic table.",
-      "powerIndex": 125,
+      "question": "This scientist wrote the book Micrographia in 1665. He also has a law named after him describing how springs stretch. While looking at thin slices of cork, he named the tiny boxes he saw after rooms in a monastery. For 10 points, name this English scientist who coined the term \"cell.\"",
+      "powerIndex": 149,
+      "answer": "Robert Hooke",
+      "acceptable": [
+        "Hooke"
+      ]
+    },
+    {
+      "id": "sci-t-004",
+      "topic": "Biology",
+      "lessonId": "sci-cells",
+      "difficulty": "medium",
+      "question": "These organisms include archaea, and their DNA floats in a region called the nucleoid. Many of them use whip-like flagella to move. Unlike eukaryotes, they lack membrane-bound organelles such as a nucleus. For 10 points, name this group of single-celled organisms that includes bacteria.",
+      "powerIndex": 160,
+      "answer": "prokaryotes",
+      "acceptable": [
+        "prokaryotic cells",
+        "prokaryota"
+      ]
+    },
+    {
+      "id": "sci-t-005",
+      "topic": "Biology",
+      "lessonId": "sci-cells",
+      "difficulty": "hard",
+      "question": "This structure can be described by the fluid mosaic model. It is made of a phospholipid bilayer with water-fearing tails pointing inward. It is selectively permeable, letting some substances pass but not others. For 10 points, name this boundary that surrounds every cell.",
+      "powerIndex": 143,
+      "answer": "cell membrane",
+      "acceptable": [
+        "plasma membrane",
+        "cytoplasmic membrane"
+      ]
+    },
+    {
+      "id": "sci-t-006",
+      "topic": "Biology",
+      "lessonId": "sci-body",
+      "difficulty": "easy",
+      "question": "This organ contains the sinoatrial node, which acts as a natural pacemaker. It has a left and right atrium and a left and right ventricle. For 10 points, name this four-chambered organ that pumps blood through the body.",
+      "powerIndex": 127,
+      "answer": "heart",
+      "acceptable": []
+    },
+    {
+      "id": "sci-t-007",
+      "topic": "Biology",
+      "lessonId": "sci-body",
+      "difficulty": "easy",
+      "question": "These organs contain about 300 million tiny air sacs called alveoli. The diaphragm contracts to help fill them with air. Bronchi carry air into these organs, where oxygen enters the blood. For 10 points, name these paired organs of the respiratory system.",
+      "powerIndex": 149,
+      "answer": "lungs",
+      "acceptable": [
+        "lung"
+      ]
+    },
+    {
+      "id": "sci-t-008",
+      "topic": "Biology",
+      "lessonId": "sci-body",
+      "difficulty": "medium",
+      "question": "This bone connects to the patella and tibia at the knee. It is the strongest bone in the body and the longest, running from the hip to the knee. For 10 points, name this thigh bone.",
+      "powerIndex": 101,
+      "answer": "femur",
+      "acceptable": []
+    },
+    {
+      "id": "sci-t-009",
+      "topic": "Biology",
+      "lessonId": "sci-body",
+      "difficulty": "medium",
+      "question": "These organs contain about a million filtering units called nephrons each. They send urine through tubes called ureters to the bladder. For 10 points, name these bean-shaped organs that filter waste from the blood.",
+      "powerIndex": 185,
+      "answer": "kidneys",
+      "acceptable": [
+        "kidney"
+      ]
+    },
+    {
+      "id": "sci-t-010",
+      "topic": "Biology",
+      "lessonId": "sci-body",
+      "difficulty": "medium",
+      "question": "These cells have long extensions called axons and branching dendrites. They send signals across gaps called synapses using chemicals called neurotransmitters. For 10 points, name these cells of the nervous system.",
+      "powerIndex": 139,
+      "answer": "neurons",
+      "acceptable": [
+        "nerve cells",
+        "neuron"
+      ]
+    },
+    {
+      "id": "sci-t-011",
+      "topic": "Biology",
+      "lessonId": "sci-body",
+      "difficulty": "hard",
+      "question": "This part of the brain sits below the occipital lobe, and its name means \"little brain\" in Latin. Damage to it can cause clumsy movements. For 10 points, name this part of the brain that coordinates balance and muscle movement.",
+      "powerIndex": 198,
+      "answer": "cerebellum",
+      "acceptable": []
+    },
+    {
+      "id": "sci-t-012",
+      "topic": "Biology",
+      "lessonId": "sci-genetics",
+      "difficulty": "easy",
+      "question": "This scientist found that crossing two hybrid plants gave a 3 to 1 ratio of traits such as purple and white flowers. He was a monk in what is now the Czech Republic who worked with pea plants. For 10 points, name this \"father of genetics.\"",
+      "powerIndex": 180,
+      "answer": "Gregor Mendel",
+      "acceptable": [
+        "Mendel"
+      ]
+    },
+    {
+      "id": "sci-t-013",
+      "topic": "Biology",
+      "lessonId": "sci-genetics",
+      "difficulty": "medium",
+      "question": "This molecule's structure was revealed in part by Rosalind Franklin's X-ray image called Photo 51. Its bases are adenine, thymine, guanine and cytosine. For 10 points, name this double-helix molecule that carries genetic information.",
+      "powerIndex": 142,
+      "answer": "DNA",
+      "acceptable": [
+        "deoxyribonucleic acid"
+      ]
+    },
+    {
+      "id": "sci-t-014",
+      "topic": "Biology",
+      "lessonId": "sci-genetics",
+      "difficulty": "medium",
+      "question": "This scientist traveled for five years aboard HMS Beagle. He studied the beaks of finches on the Galápagos Islands. For 10 points, name this English naturalist who wrote On the Origin of Species and proposed natural selection.",
+      "powerIndex": 96,
+      "answer": "Charles Darwin",
+      "acceptable": [
+        "Darwin"
+      ]
+    },
+    {
+      "id": "sci-t-015",
+      "topic": "Biology",
+      "lessonId": "sci-genetics",
+      "difficulty": "medium",
+      "question": "This diagram is named for a British geneticist and is drawn as a grid. Placing one parent's alleles across the top and the other's down the side lets you predict the chances of offspring traits. For 10 points, name this square used in genetics.",
+      "powerIndex": 153,
+      "answer": "Punnett square",
+      "acceptable": []
+    },
+    {
+      "id": "sci-t-016",
+      "topic": "Biology",
+      "lessonId": "sci-genetics",
+      "difficulty": "hard",
+      "question": "These structures are counted in a karyotype, and humans normally have 46 of them. Down syndrome results from an extra copy of number 21. They are made of DNA wrapped around proteins called histones. For 10 points, name these thread-like structures that carry genes.",
+      "powerIndex": 188,
+      "answer": "chromosomes",
+      "acceptable": [
+        "chromosome"
+      ]
+    },
+    {
+      "id": "sci-t-017",
+      "topic": "Biology",
+      "lessonId": "sci-ecology",
+      "difficulty": "easy",
+      "question": "This process takes place partly in the Calvin cycle. Its inputs are carbon dioxide, water and sunlight, and it produces glucose and oxygen. For 10 points, name this process plants use to make food.",
+      "powerIndex": 93,
+      "answer": "photosynthesis",
+      "acceptable": []
+    },
+    {
+      "id": "sci-t-018",
+      "topic": "Biology",
+      "lessonId": "sci-ecology",
+      "difficulty": "easy",
+      "question": "Clownfish and sea anemones share one example of this relationship, as do bees and flowers. In this kind of symbiosis, both organisms benefit. For 10 points, name this relationship that is contrasted with parasitism and commensalism.",
+      "powerIndex": 106,
+      "answer": "mutualism",
+      "acceptable": [
+        "mutualistic relationship",
+        "mutual symbiosis"
+      ]
+    },
+    {
+      "id": "sci-t-019",
+      "topic": "Biology",
+      "lessonId": "sci-ecology",
+      "difficulty": "medium",
+      "question": "This plant tissue is made of dead cells such as tracheids and vessel elements. It works with phloem in vascular plants, carrying water upward from the roots. For 10 points, name this tissue that forms the wood of trees.",
+      "powerIndex": 128,
+      "answer": "xylem",
+      "acceptable": []
+    },
+    {
+      "id": "sci-t-020",
+      "topic": "Biology",
+      "lessonId": "sci-ecology",
+      "difficulty": "medium",
+      "question": "This biome has permafrost and very short summers, and caribou and arctic foxes live there. Trees cannot grow in this cold, treeless biome. For 10 points, name this biome found near the Arctic Circle.",
+      "powerIndex": 116,
+      "answer": "tundra",
+      "acceptable": [
+        "arctic tundra"
+      ]
+    },
+    {
+      "id": "sci-t-021",
+      "topic": "Biology",
+      "lessonId": "sci-ecology",
+      "difficulty": "hard",
+      "question": "Mushrooms and many bacteria fill this role in an ecosystem. These organisms return nutrients like nitrogen to the soil by breaking down dead plants and animals. For 10 points, name this kind of organism that recycles dead matter.",
+      "powerIndex": 135,
+      "answer": "decomposers",
+      "acceptable": [
+        "decomposer",
+        "saprotrophs",
+        "detritivores"
+      ]
+    },
+    {
+      "id": "sci-t-022",
+      "topic": "Chemistry",
+      "lessonId": "sci-matter",
+      "difficulty": "easy",
+      "question": "This element's isotopes include deuterium and tritium. It has atomic number 1, and it is the most abundant element in the universe. For 10 points, name this lightest element with symbol H.",
+      "powerIndex": 92,
+      "answer": "hydrogen",
+      "acceptable": [
+        "H"
+      ]
+    },
+    {
+      "id": "sci-t-023",
+      "topic": "Chemistry",
+      "lessonId": "sci-matter",
+      "difficulty": "medium",
+      "question": "This scientist predicted the properties of an element he called eka-aluminium, later discovered as gallium. In 1869 he arranged the elements by atomic weight into the first periodic table. For 10 points, name this Russian chemist.",
+      "powerIndex": 172,
       "answer": "Dmitri Mendeleev",
       "acceptable": [
-        "Mendeleev"
+        "Mendeleev",
+        "Mendeleyev"
       ]
+    },
+    {
+      "id": "sci-t-024",
+      "topic": "Chemistry",
+      "lessonId": "sci-matter",
+      "difficulty": "medium",
+      "question": "This group includes radon, krypton and xenon. Neon from this group is used in glowing signs, and helium from it fills balloons. For 10 points, name this group 18 family of elements that almost never react.",
+      "powerIndex": 96,
+      "answer": "noble gases",
+      "acceptable": [
+        "inert gases"
+      ]
+    },
+    {
+      "id": "sci-t-025",
+      "topic": "Chemistry",
+      "lessonId": "sci-matter",
+      "difficulty": "medium",
+      "question": "This element is the only metal that is liquid at room temperature. It was once used in thermometers, and its symbol Hg comes from the Latin hydrargyrum. For 10 points, name this element that shares its name with the closest planet to the Sun.",
+      "powerIndex": 115,
+      "answer": "mercury",
+      "acceptable": [
+        "Hg"
+      ]
+    },
+    {
+      "id": "sci-t-026",
+      "topic": "Chemistry",
+      "lessonId": "sci-matter",
+      "difficulty": "hard",
+      "question": "Dry ice undergoes this process, as does frozen iodine when heated. Its opposite is deposition, which forms frost. For 10 points, name this change of state in which a solid turns directly into a gas.",
+      "powerIndex": 165,
+      "answer": "sublimation",
+      "acceptable": []
+    },
+    {
+      "id": "sci-t-027",
+      "topic": "Chemistry",
+      "lessonId": "sci-matter",
+      "difficulty": "hard",
+      "question": "These particles were discovered by J. J. Thomson using cathode ray tubes. In Bohr's model they orbit in energy levels or shells. For 10 points, name these negatively charged subatomic particles.",
+      "powerIndex": 154,
+      "answer": "electrons",
+      "acceptable": [
+        "electron"
+      ]
+    },
+    {
+      "id": "sci-t-028",
+      "topic": "Physics",
+      "lessonId": "sci-forces",
+      "difficulty": "easy",
+      "question": "This scientist's first law describes inertia. He supposedly began thinking about gravity after watching an apple fall from a tree. For 10 points, name this English scientist who wrote three laws of motion.",
+      "powerIndex": 106,
+      "answer": "Isaac Newton",
+      "acceptable": [
+        "Newton"
+      ]
+    },
+    {
+      "id": "sci-t-029",
+      "topic": "Physics",
+      "lessonId": "sci-forces",
+      "difficulty": "medium",
+      "question": "A ramp is one example of this kind of device, and so is a seesaw. The six classic types include the pulley, the wedge and the lever. For 10 points, name these basic devices that make work easier.",
+      "powerIndex": 125,
+      "answer": "simple machines",
+      "acceptable": [
+        "simple machine"
+      ]
+    },
+    {
+      "id": "sci-t-030",
+      "topic": "Physics",
+      "lessonId": "sci-forces",
+      "difficulty": "medium",
+      "question": "This quantity is calculated as one half mass times velocity squared. A rolling ball has this type of energy because it is moving. For 10 points, name this energy of motion, contrasted with potential energy.",
+      "powerIndex": 121,
+      "answer": "kinetic energy",
+      "acceptable": [
+        "kinetic"
+      ]
+    },
+    {
+      "id": "sci-t-031",
+      "topic": "Physics",
+      "lessonId": "sci-forces",
+      "difficulty": "medium",
+      "question": "This unit equals one joule per second. A light bulb's power is labeled in this unit, which is named for a Scottish inventor who improved the steam engine. For 10 points, name this SI unit of power.",
+      "powerIndex": 140,
+      "answer": "watt",
+      "acceptable": [
+        "watts"
+      ]
+    },
+    {
+      "id": "sci-t-032",
+      "topic": "Physics",
+      "lessonId": "sci-forces",
+      "difficulty": "hard",
+      "question": "This force is described by a coefficient that is usually higher when static than kinetic. It produces heat when you rub your hands together. For 10 points, name this force that opposes motion between surfaces.",
+      "powerIndex": 176,
+      "answer": "friction",
+      "acceptable": []
+    },
+    {
+      "id": "sci-t-033",
+      "topic": "Physics",
+      "lessonId": "sci-waves",
+      "difficulty": "easy",
+      "question": "This phenomenon makes a straw look bent in a glass of water. It happens because light changes speed when it enters a new material. For 10 points, name this bending of light, contrasted with reflection.",
+      "powerIndex": 93,
+      "answer": "refraction",
+      "acceptable": []
+    },
+    {
+      "id": "sci-t-034",
+      "topic": "Physics",
+      "lessonId": "sci-waves",
+      "difficulty": "medium",
+      "question": "This scientist built the voltaic pile, the first true battery, in 1800. He argued with Luigi Galvani about frog legs twitching. The unit of electric potential is named for him. For 10 points, name this Italian scientist honored by the volt.",
+      "powerIndex": 139,
+      "answer": "Alessandro Volta",
+      "acceptable": [
+        "Volta"
+      ]
+    },
+    {
+      "id": "sci-t-035",
+      "topic": "Physics",
+      "lessonId": "sci-waves",
+      "difficulty": "medium",
+      "question": "These waves have the shortest wavelength on the electromagnetic spectrum. They are given off by radioactive decay and are even more energetic than X-rays. For 10 points, name these rays named for a Greek letter.",
+      "powerIndex": 146,
+      "answer": "gamma rays",
+      "acceptable": [
+        "gamma radiation",
+        "gamma"
+      ]
+    },
+    {
+      "id": "sci-t-036",
+      "topic": "Physics",
+      "lessonId": "sci-waves",
+      "difficulty": "medium",
+      "question": "This unit measures how many waves pass a point each second. It is named for a German physicist who first produced radio waves in a lab. For 10 points, name this unit of frequency.",
+      "powerIndex": 160,
+      "answer": "hertz",
+      "acceptable": [
+        "Hz"
+      ]
+    },
+    {
+      "id": "sci-t-037",
+      "topic": "Physics",
+      "lessonId": "sci-waves",
+      "difficulty": "hard",
+      "question": "This law is often written V equals I times R. It relates voltage, current and resistance in a circuit. For 10 points, name this law named for a German physicist whose name is also the unit of resistance.",
+      "powerIndex": 77,
+      "answer": "Ohm's law",
+      "acceptable": []
+    },
+    {
+      "id": "sci-t-038",
+      "topic": "Earth Science",
+      "lessonId": "sci-earth",
+      "difficulty": "easy",
+      "question": "Obsidian and pumice are examples of this rock type. Granite is another example that forms when magma cools slowly underground. For 10 points, name this rock type whose name means \"from fire.\"",
+      "powerIndex": 94,
+      "answer": "igneous rock",
+      "acceptable": [
+        "igneous"
+      ]
+    },
+    {
+      "id": "sci-t-039",
+      "topic": "Earth Science",
+      "lessonId": "sci-earth",
+      "difficulty": "medium",
+      "question": "This scientist noticed that fossils of Mesosaurus were found in both South America and Africa. He named the supercontinent Pangaea. For 10 points, name this German scientist who proposed continental drift.",
+      "powerIndex": 122,
+      "answer": "Alfred Wegener",
+      "acceptable": [
+        "Wegener"
+      ]
+    },
+    {
+      "id": "sci-t-040",
+      "topic": "Earth Science",
+      "lessonId": "sci-earth",
+      "difficulty": "medium",
+      "question": "This scale includes fluorite at 4 and quartz at 7. It starts with talc at 1 and ends with diamond at 10. For 10 points, name this scale of mineral hardness.",
+      "powerIndex": 89,
+      "answer": "Mohs scale",
+      "acceptable": [
+        "Mohs hardness scale",
+        "Mohs"
+      ]
+    },
+    {
+      "id": "sci-t-041",
+      "topic": "Earth Science",
+      "lessonId": "sci-earth",
+      "difficulty": "medium",
+      "question": "This layer of the atmosphere contains the ozone layer and is where jet planes often fly. It lies just above the troposphere. For 10 points, name this second layer of the atmosphere.",
+      "powerIndex": 111,
+      "answer": "stratosphere",
+      "acceptable": []
+    },
+    {
+      "id": "sci-t-042",
+      "topic": "Earth Science",
+      "lessonId": "sci-earth",
+      "difficulty": "hard",
+      "question": "This feature runs about 1,200 kilometers through California. The Pacific Plate and North American Plate slide past each other along it in a transform boundary. For 10 points, name this fault that caused the 1906 earthquake in San Francisco.",
+      "powerIndex": 139,
+      "answer": "San Andreas Fault",
+      "acceptable": [
+        "San Andreas"
+      ]
+    },
+    {
+      "id": "sci-t-043",
+      "topic": "Astronomy",
+      "lessonId": "sci-space",
+      "difficulty": "easy",
+      "question": "This planet has a storm called the Great Red Spot. Galileo discovered four of its moons, including Ganymede, the largest moon in the solar system. For 10 points, name this largest planet.",
+      "powerIndex": 112,
+      "answer": "Jupiter",
+      "acceptable": []
+    },
+    {
+      "id": "sci-t-044",
+      "topic": "Astronomy",
+      "lessonId": "sci-space",
+      "difficulty": "easy",
+      "question": "This planet has the volcano Olympus Mons, and NASA rovers like Curiosity and Perseverance explore it. Its moons are Phobos and Deimos. For 10 points, name this \"Red Planet.\"",
+      "powerIndex": 159,
+      "answer": "Mars",
+      "acceptable": []
+    },
+    {
+      "id": "sci-t-045",
+      "topic": "Astronomy",
+      "lessonId": "sci-space",
+      "difficulty": "medium",
+      "question": "This planet rotates backwards compared to most planets, and a day on it is longer than its year. A runaway greenhouse effect makes it the hottest planet. For 10 points, name this second planet from the Sun.",
+      "powerIndex": 137,
+      "answer": "Venus",
+      "acceptable": []
+    },
+    {
+      "id": "sci-t-046",
+      "topic": "Astronomy",
+      "lessonId": "sci-space",
+      "difficulty": "medium",
+      "question": "This astronomer published On the Revolutions of the Heavenly Spheres in 1543. He proposed that the Earth orbits the Sun instead of the other way around. For 10 points, name this Polish astronomer of the heliocentric model.",
+      "powerIndex": 104,
+      "answer": "Nicolaus Copernicus",
+      "acceptable": [
+        "Copernicus"
+      ]
+    },
+    {
+      "id": "sci-t-047",
+      "topic": "Astronomy",
+      "lessonId": "sci-space",
+      "difficulty": "hard",
+      "question": "This object orbits in the Kuiper Belt and has a moon named Charon. The New Horizons probe flew past it in 2015. In 2006 it was reclassified as a dwarf planet. For 10 points, name this former ninth planet.",
+      "powerIndex": 114,
+      "answer": "Pluto",
+      "acceptable": []
     }
   ],
   "bonuses": [
     {
       "id": "sci-b-001",
-      "topic": "Chemistry",
-      "lessonId": "sci-periodic-table",
+      "topic": "Biology",
+      "lessonId": "sci-cells",
       "difficulty": "easy",
-      "leadin": "Answer these questions about groups of the periodic table, for 10 points each.",
+      "leadin": "Name these organelles of the cell, for 10 points each.",
       "parts": [
         {
-          "question": "Name the group 18 elements, such as neon and argon, that have full outer electron shells and rarely react.",
-          "answer": "noble gases",
-          "acceptable": [
-            "inert gases"
-          ]
-        },
-        {
-          "question": "This group 1 metal, with symbol Na, reacts violently with water and combines with chlorine to make table salt.",
-          "answer": "sodium",
+          "question": "This organelle holds the cell's DNA and is called the control center.",
+          "answer": "nucleus",
           "acceptable": []
         },
         {
-          "question": "Chlorine and fluorine belong to this group 17 family, whose name means “salt-former.”",
+          "question": "These small structures build proteins and can be found on the rough endoplasmic reticulum.",
+          "answer": "ribosomes",
+          "acceptable": [
+            "ribosome"
+          ]
+        },
+        {
+          "question": "Plant cells have one large central one of these structures used to store water.",
+          "answer": "vacuole",
+          "acceptable": [
+            "central vacuole"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sci-b-002",
+      "topic": "Biology",
+      "lessonId": "sci-cells",
+      "difficulty": "medium",
+      "leadin": "Answer these questions about the history of the microscope and cells, for 10 points each.",
+      "parts": [
+        {
+          "question": "This Dutch scientist made his own lenses and was the first to see bacteria, which he called \"animalcules.\"",
+          "answer": "Anton van Leeuwenhoek",
+          "acceptable": [
+            "Leeuwenhoek"
+          ]
+        },
+        {
+          "question": "Cell walls and chloroplasts are found in plant cells but not in the cells of this other kingdom of living things that includes humans.",
+          "answer": "animals",
+          "acceptable": [
+            "animal cells",
+            "Animalia"
+          ]
+        },
+        {
+          "question": "Plant cell walls are mostly made of this tough carbohydrate.",
+          "answer": "cellulose",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "sci-b-003",
+      "topic": "Biology",
+      "lessonId": "sci-body",
+      "difficulty": "easy",
+      "leadin": "Name these parts of the human body, for 10 points each.",
+      "parts": [
+        {
+          "question": "These blood vessels carry blood away from the heart.",
+          "answer": "arteries",
+          "acceptable": [
+            "artery"
+          ]
+        },
+        {
+          "question": "This dome-shaped muscle below the lungs helps you breathe.",
+          "answer": "diaphragm",
+          "acceptable": []
+        },
+        {
+          "question": "This organ, the largest internal organ, makes bile.",
+          "answer": "liver",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "sci-b-004",
+      "topic": "Biology",
+      "lessonId": "sci-body",
+      "difficulty": "medium",
+      "leadin": "Answer these questions about blood and digestion, for 10 points each.",
+      "parts": [
+        {
+          "question": "This iron-containing protein in red blood cells carries oxygen.",
+          "answer": "hemoglobin",
+          "acceptable": [
+            "haemoglobin"
+          ]
+        },
+        {
+          "question": "Most nutrients are absorbed in this organ, which is lined with finger-like villi.",
+          "answer": "small intestine",
+          "acceptable": []
+        },
+        {
+          "question": "This tube carries food from the mouth to the stomach.",
+          "answer": "esophagus",
+          "acceptable": [
+            "oesophagus",
+            "gullet"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sci-b-005",
+      "topic": "Biology",
+      "lessonId": "sci-genetics",
+      "difficulty": "medium",
+      "leadin": "Answer these questions about genetics, for 10 points each.",
+      "parts": [
+        {
+          "question": "Different versions of the same gene are called these.",
+          "answer": "alleles",
+          "acceptable": [
+            "allele"
+          ]
+        },
+        {
+          "question": "A trait that is hidden when a dominant allele is present is described with this word.",
+          "answer": "recessive",
+          "acceptable": []
+        },
+        {
+          "question": "In DNA, adenine always pairs with this base.",
+          "answer": "thymine",
+          "acceptable": [
+            "T"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sci-b-006",
+      "topic": "Biology",
+      "lessonId": "sci-genetics",
+      "difficulty": "hard",
+      "leadin": "Answer these questions about the discovery of DNA's structure, for 10 points each.",
+      "parts": [
+        {
+          "question": "This American scientist worked with Francis Crick to describe the double helix in 1953.",
+          "answer": "James Watson",
+          "acceptable": [
+            "Watson"
+          ]
+        },
+        {
+          "question": "This British scientist's X-ray image Photo 51 was key evidence for the double helix.",
+          "answer": "Rosalind Franklin",
+          "acceptable": [
+            "Franklin"
+          ]
+        },
+        {
+          "question": "This naturalist came up with natural selection at the same time as Darwin while working in Southeast Asia.",
+          "answer": "Alfred Russel Wallace",
+          "acceptable": [
+            "Wallace"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sci-b-007",
+      "topic": "Biology",
+      "lessonId": "sci-ecology",
+      "difficulty": "easy",
+      "leadin": "Answer these questions about food chains, for 10 points each.",
+      "parts": [
+        {
+          "question": "Animals that eat only plants are called this.",
+          "answer": "herbivores",
+          "acceptable": [
+            "herbivore"
+          ]
+        },
+        {
+          "question": "Organisms like plants that make their own food are called this.",
+          "answer": "producers",
+          "acceptable": [
+            "producer",
+            "autotrophs"
+          ]
+        },
+        {
+          "question": "About what percent of energy passes from one level of a food chain to the next?",
+          "answer": "10 percent",
+          "acceptable": [
+            "10",
+            "ten percent"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sci-b-008",
+      "topic": "Biology",
+      "lessonId": "sci-ecology",
+      "difficulty": "medium",
+      "leadin": "Answer these questions about plants, for 10 points each.",
+      "parts": [
+        {
+          "question": "These tiny pores on the underside of leaves let gases in and out.",
+          "answer": "stomata",
+          "acceptable": [
+            "stoma",
+            "stomates"
+          ]
+        },
+        {
+          "question": "This process is the loss of water vapor from a plant's leaves.",
+          "answer": "transpiration",
+          "acceptable": []
+        },
+        {
+          "question": "This tissue carries sugars from the leaves to the rest of the plant.",
+          "answer": "phloem",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "sci-b-009",
+      "topic": "Chemistry",
+      "lessonId": "sci-matter",
+      "difficulty": "easy",
+      "leadin": "Give the element with each chemical symbol, for 10 points each.",
+      "parts": [
+        {
+          "question": "Au",
+          "answer": "gold",
+          "acceptable": []
+        },
+        {
+          "question": "Fe",
+          "answer": "iron",
+          "acceptable": []
+        },
+        {
+          "question": "Na",
+          "answer": "sodium",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "sci-b-010",
+      "topic": "Chemistry",
+      "lessonId": "sci-matter",
+      "difficulty": "medium",
+      "leadin": "Answer these questions about atoms, for 10 points each.",
+      "parts": [
+        {
+          "question": "The number of these particles in the nucleus is an element's atomic number.",
+          "answer": "protons",
+          "acceptable": [
+            "proton"
+          ]
+        },
+        {
+          "question": "Atoms of the same element with different numbers of neutrons are called this.",
+          "answer": "isotopes",
+          "acceptable": [
+            "isotope"
+          ]
+        },
+        {
+          "question": "On the pH scale, pure water has this value.",
+          "answer": "7",
+          "acceptable": [
+            "seven"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sci-b-011",
+      "topic": "Chemistry",
+      "lessonId": "sci-matter",
+      "difficulty": "hard",
+      "leadin": "Name these groups of the periodic table, for 10 points each.",
+      "parts": [
+        {
+          "question": "Group 1, containing very reactive metals such as sodium and potassium.",
+          "answer": "alkali metals",
+          "acceptable": []
+        },
+        {
+          "question": "Group 17, containing fluorine and chlorine.",
           "answer": "halogens",
+          "acceptable": []
+        },
+        {
+          "question": "Group 2, containing calcium and magnesium.",
+          "answer": "alkaline earth metals",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "sci-b-012",
+      "topic": "Physics",
+      "lessonId": "sci-forces",
+      "difficulty": "easy",
+      "leadin": "Answer these questions about Newton's laws, for 10 points each.",
+      "parts": [
+        {
+          "question": "Newton's first law describes this tendency of objects to resist changes in motion.",
+          "answer": "inertia",
+          "acceptable": []
+        },
+        {
+          "question": "Newton's second law says force equals mass times this quantity.",
+          "answer": "acceleration",
+          "acceptable": []
+        },
+        {
+          "question": "Force is measured in this SI unit.",
+          "answer": "newtons",
+          "acceptable": [
+            "newton",
+            "N"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sci-b-013",
+      "topic": "Physics",
+      "lessonId": "sci-forces",
+      "difficulty": "medium",
+      "leadin": "Answer these questions about energy and motion, for 10 points each.",
+      "parts": [
+        {
+          "question": "A book on a high shelf has this kind of stored energy.",
+          "answer": "potential energy",
+          "acceptable": [
+            "gravitational potential energy",
+            "potential"
+          ]
+        },
+        {
+          "question": "This quantity equals mass times velocity.",
+          "answer": "momentum",
+          "acceptable": []
+        },
+        {
+          "question": "This Greek inventor said, \"Give me a place to stand, and I will move the Earth,\" about levers.",
+          "answer": "Archimedes",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "sci-b-014",
+      "topic": "Physics",
+      "lessonId": "sci-waves",
+      "difficulty": "easy",
+      "leadin": "Answer these questions about light and sound, for 10 points each.",
+      "parts": [
+        {
+          "question": "This triangular piece of glass splits white light into a rainbow.",
+          "answer": "prism",
+          "acceptable": []
+        },
+        {
+          "question": "Bats find prey by sending out sounds and listening for echoes, a process called this.",
+          "answer": "echolocation",
+          "acceptable": [
+            "biosonar"
+          ]
+        },
+        {
+          "question": "Sound cannot travel through this, a region with no matter at all.",
+          "answer": "vacuum",
+          "acceptable": [
+            "outer space"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sci-b-015",
+      "topic": "Physics",
+      "lessonId": "sci-waves",
+      "difficulty": "medium",
+      "leadin": "Answer these questions about electricity, for 10 points each.",
+      "parts": [
+        {
+          "question": "Electric current is measured in this unit.",
+          "answer": "amperes",
+          "acceptable": [
+            "amps",
+            "ampere",
+            "amp"
+          ]
+        },
+        {
+          "question": "In this type of circuit, there is only one path for current.",
+          "answer": "series circuit",
+          "acceptable": [
+            "series"
+          ]
+        },
+        {
+          "question": "This American flew a kite in a storm to show that lightning is electricity.",
+          "answer": "Benjamin Franklin",
+          "acceptable": [
+            "Franklin"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sci-b-016",
+      "topic": "Earth Science",
+      "lessonId": "sci-earth",
+      "difficulty": "easy",
+      "leadin": "Name these layers of the Earth, for 10 points each.",
+      "parts": [
+        {
+          "question": "The thin, rocky outer layer we live on.",
+          "answer": "crust",
+          "acceptable": []
+        },
+        {
+          "question": "The thickest layer, made of hot rock that flows slowly.",
+          "answer": "mantle",
+          "acceptable": []
+        },
+        {
+          "question": "The solid center of the Earth, made mostly of iron and nickel.",
+          "answer": "inner core",
+          "acceptable": [
+            "core"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sci-b-017",
+      "topic": "Earth Science",
+      "lessonId": "sci-earth",
+      "difficulty": "medium",
+      "leadin": "Answer these questions about rocks and weather, for 10 points each.",
+      "parts": [
+        {
+          "question": "Marble is a metamorphic rock formed from this sedimentary rock.",
+          "answer": "limestone",
+          "acceptable": []
+        },
+        {
+          "question": "Fossils are most often found in this type of rock.",
+          "answer": "sedimentary rock",
+          "acceptable": [
+            "sedimentary"
+          ]
+        },
+        {
+          "question": "In the water cycle, water vapor cooling into liquid droplets is called this.",
+          "answer": "condensation",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "sci-b-018",
+      "topic": "Earth Science",
+      "lessonId": "sci-earth",
+      "difficulty": "hard",
+      "leadin": "Answer these questions about plate tectonics, for 10 points each.",
+      "parts": [
+        {
+          "question": "This chain of volcanoes and earthquake zones circles the Pacific Ocean.",
+          "answer": "Ring of Fire",
+          "acceptable": [
+            "Pacific Ring of Fire"
+          ]
+        },
+        {
+          "question": "This underwater mountain range is a divergent boundary in the middle of the Atlantic.",
+          "answer": "Mid-Atlantic Ridge",
+          "acceptable": []
+        },
+        {
+          "question": "These mountains, including Mount Everest, formed when India collided with Asia.",
+          "answer": "Himalayas",
+          "acceptable": [
+            "Himalaya"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sci-b-019",
+      "topic": "Astronomy",
+      "lessonId": "sci-space",
+      "difficulty": "easy",
+      "leadin": "Answer these questions about the solar system, for 10 points each.",
+      "parts": [
+        {
+          "question": "This planet is closest to the Sun.",
+          "answer": "Mercury",
+          "acceptable": []
+        },
+        {
+          "question": "This planet is famous for its bright rings and has the moon Titan.",
+          "answer": "Saturn",
+          "acceptable": []
+        },
+        {
+          "question": "This belt of rocky objects lies between Mars and Jupiter.",
+          "answer": "asteroid belt",
+          "acceptable": [
+            "main belt"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sci-b-020",
+      "topic": "Astronomy",
+      "lessonId": "sci-space",
+      "difficulty": "medium",
+      "leadin": "Answer these questions about space exploration and astronomy, for 10 points each.",
+      "parts": [
+        {
+          "question": "This was the first person to walk on the Moon, in 1969.",
+          "answer": "Neil Armstrong",
+          "acceptable": [
+            "Armstrong"
+          ]
+        },
+        {
+          "question": "This German astronomer found that planets move in elliptical orbits.",
+          "answer": "Johannes Kepler",
+          "acceptable": [
+            "Kepler"
+          ]
+        },
+        {
+          "question": "This unit is the distance light travels in one year.",
+          "answer": "light-year",
+          "acceptable": [
+            "light year"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sci-b-021",
+      "topic": "Astronomy",
+      "lessonId": "sci-space",
+      "difficulty": "hard",
+      "leadin": "Answer these questions about the outer planets, for 10 points each.",
+      "parts": [
+        {
+          "question": "This planet is tilted on its side and was discovered by William Herschel.",
+          "answer": "Uranus",
+          "acceptable": []
+        },
+        {
+          "question": "This planet was found in 1846 after mathematicians predicted where it should be.",
+          "answer": "Neptune",
+          "acceptable": []
+        },
+        {
+          "question": "This moon of Jupiter may have a liquid water ocean under its icy crust.",
+          "answer": "Europa",
           "acceptable": []
         }
       ]

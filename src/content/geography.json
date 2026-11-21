@@ -200,7 +200,7 @@
       "lessonId": "geo-map-skills",
       "difficulty": "hard",
       "question": "This line runs through Mexico, the Sahara, India and southern China. The sun is directly overhead along it at noon on the June solstice. For 10 points, name this line at 23.5 degrees north latitude, the northern boundary of the tropics.",
-      "powerIndex": 169,
+      "powerIndex": 79,
       "answer": "Tropic of Cancer",
       "acceptable": []
     },
@@ -368,7 +368,7 @@
       "lessonId": "geo-lakes-seas",
       "difficulty": "medium",
       "question": "This waterway was completed by a French company led by Ferdinand de Lesseps in 1869. Egypt took control of it in 1956, starting an international crisis. For 10 points, name this canal that connects the Mediterranean Sea to the Red Sea.",
-      "powerIndex": 201,
+      "powerIndex": 112,
       "answer": "Suez Canal",
       "acceptable": []
     },
@@ -432,7 +432,7 @@
       "lessonId": "geo-capitals",
       "difficulty": "hard",
       "question": "This capital's Parliament Hill overlooks a river of the same name, and its Rideau Canal becomes a giant skating rink in winter. For 10 points, name this capital of Canada, in Ontario.",
-      "powerIndex": 163,
+      "powerIndex": 103,
       "answer": "Ottawa",
       "acceptable": []
     },
@@ -573,7 +573,7 @@
       "lessonId": "geo-asia-africa",
       "difficulty": "medium",
       "question": "This waterfall is called Mosi-oa-Tunya, \"the smoke that thunders.\" David Livingstone named it for his queen. For 10 points, name this waterfall on the Zambezi River between Zambia and Zimbabwe.",
-      "powerIndex": 150,
+      "powerIndex": 84,
       "answer": "Victoria Falls",
       "acceptable": []
     },
@@ -642,7 +642,7 @@
       "lessonId": "geo-americas",
       "difficulty": "hard",
       "question": "This waterfall drops about 979 meters from the top of a flat mountain called Auyán-tepui. It is named for an American pilot who landed on top of the mountain in 1937. For 10 points, name this waterfall in Venezuela, the tallest uninterrupted fall in the world.",
-      "powerIndex": 204,
+      "powerIndex": 108,
       "answer": "Angel Falls",
       "acceptable": [
         "Kerepakupai Merú"

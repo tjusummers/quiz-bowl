@@ -5,6 +5,20 @@
   "description": "Painting, sculpture, classical music and the artists behind them.",
   "lessons": [
     {
+      "id": "arts-basics",
+      "title": "Art Basics: Color, Media and Technique",
+      "topic": "Art Basics",
+      "difficulty": "easy",
+      "body": "Knowing the vocabulary of art helps you decode fine arts clues.\n\n## Color\n- **Primary colors** (in paint): **red, yellow and blue**. Mixing two primaries makes a **secondary color**: orange, green or purple.\n- **Complementary colors** sit opposite each other on the **color wheel**, like red and green or blue and orange.\n- **Warm colors** (red, orange, yellow) seem to come forward; **cool colors** (blue, green, purple) seem to move back.\n\n## Media\n- **Fresco:** painting on **wet plaster**, so the paint becomes part of the wall. The Sistine Chapel ceiling is a fresco.\n- **Tempera:** pigment mixed with **egg yolk**, used before oil paint became common.\n- **Oil paint:** dries slowly, so artists can blend colors. Jan van Eyck helped make it popular in the 1400s.\n- **Mosaic:** pictures made from small pieces of colored glass or stone called **tesserae**.\n\n## Subjects and techniques\n- A **portrait** shows a person; a **self-portrait** shows the artist; a **landscape** shows scenery; a **still life** shows objects like fruit and flowers.\n- **Linear perspective** makes a flat picture look deep. Lines meet at a **vanishing point** on the horizon. **Filippo Brunelleschi** worked it out in Renaissance Florence.\n- **Chiaroscuro** (Italian for \"light-dark\") uses strong contrasts of light and shadow.",
+      "keyFacts": [
+        "The primary colors in paint are red, yellow and blue.",
+        "Complementary colors are opposite each other on the color wheel.",
+        "A fresco is painted on wet plaster.",
+        "In linear perspective, lines meet at a vanishing point.",
+        "Chiaroscuro means strong contrast of light and dark."
+      ]
+    },
+    {
       "id": "arts-renaissance-painters",
       "title": "Renaissance Painters",
       "topic": "Painting",
@@ -19,6 +33,90 @@
       ]
     },
     {
+      "id": "arts-baroque",
+      "title": "Baroque and Dutch Masters",
+      "topic": "Painting",
+      "difficulty": "medium",
+      "body": "The **Baroque** period (about 1600 to 1750) loved drama, motion and dramatic light.\n\n- **Caravaggio** (Italy): painted ordinary-looking people in religious scenes, lit by spotlight-like beams against dark backgrounds. Example: *The Calling of Saint Matthew*.\n- **Peter Paul Rubens** (Flanders): huge, energetic paintings full of swirling figures.\n- **Diego Velázquez** (Spain): court painter to King Philip IV. In **Las Meninas**, the young princess Margarita stands with her maids while Velázquez paints himself at an easel. It hangs in the **Prado** in Madrid.\n\n## The Dutch Golden Age\n- **Rembrandt van Rijn** painted **The Night Watch**, a huge group portrait of a militia company, now in the **Rijksmuseum** in Amsterdam. He painted nearly 100 **self-portraits** over his life.\n- **Johannes Vermeer** of **Delft** painted quiet scenes of people in rooms lit by a window, such as **Girl with a Pearl Earring** and **The Milkmaid**. Only about 35 of his paintings survive.\n- Dutch artists also painted many **still lifes** and landscapes for middle-class buyers.\n\n**Tip:** if a clue mentions a dramatic spotlight effect called **tenebrism**, think Caravaggio.",
+      "keyFacts": [
+        "Rembrandt painted The Night Watch.",
+        "Vermeer painted Girl with a Pearl Earring and lived in Delft.",
+        "Velázquez painted Las Meninas, which hangs in the Prado.",
+        "Caravaggio used dramatic light against dark backgrounds.",
+        "The Baroque period ran roughly from 1600 to 1750."
+      ]
+    },
+    {
+      "id": "arts-impressionism",
+      "title": "Impressionism and After",
+      "topic": "Painting",
+      "difficulty": "medium",
+      "body": "In the 1870s, a group of French painters began painting outdoors with quick, visible brushstrokes to catch the changing **light**.\n\n- **Claude Monet**: his painting **Impression, Sunrise** gave the movement its name when a critic mocked it. He painted series of **haystacks**, **Rouen Cathedral** and the **water lilies** and Japanese bridge in his garden at **Giverny**.\n- **Pierre-Auguste Renoir**: happy crowds, as in **Luncheon of the Boating Party**.\n- **Edgar Degas**: **ballet dancers**, plus a sculpture called *Little Dancer Aged Fourteen*.\n- **Mary Cassatt**: an American in Paris who painted **mothers and children**.\n\n## Post-Impressionists\n- **Vincent van Gogh** (Dutch): thick, swirling brushstrokes. **The Starry Night** shows a swirling night sky over a village. He also painted **Sunflowers**, cut off part of his ear in **Arles**, and sold very few paintings while alive. His letters to his brother **Theo** tell his story.\n- **Georges Seurat**: **pointillism**, painting with tiny dots of color, as in **A Sunday on La Grande Jatte**.\n- **Paul Cézanne**: apples and Mont Sainte-Victoire; he is called the father of modern art.\n- **Paul Gauguin**: bright paintings of **Tahiti**.",
+      "keyFacts": [
+        "Monet's Impression, Sunrise gave Impressionism its name.",
+        "Monet painted water lilies in his garden at Giverny.",
+        "Degas is known for ballet dancers.",
+        "Van Gogh painted The Starry Night.",
+        "Seurat used tiny dots of color, called pointillism."
+      ]
+    },
+    {
+      "id": "arts-modern",
+      "title": "Modern Art Movements",
+      "topic": "Painting",
+      "difficulty": "hard",
+      "body": "In the 1900s, artists stopped trying to make paintings look like photographs.\n\n| Artist | Country | Movement | Famous work |\n|---|---|---|---|\n| **Henri Matisse** | France | **Fauvism** (\"wild beasts\"), bold colors | *The Dance*; paper cut-outs |\n| **Pablo Picasso** | Spain | **Cubism** (with Georges Braque) | **Guernica** |\n| **Salvador Dalí** | Spain | **Surrealism** (dreamlike scenes) | **The Persistence of Memory** (melting clocks) |\n| **Edvard Munch** | Norway | Expressionism | **The Scream** |\n| **Wassily Kandinsky** | Russia | Abstract art | Colorful shapes inspired by music |\n| **Frida Kahlo** | Mexico | Self-portraits | *The Two Fridas* |\n\n## More to know\n- **Picasso** went through a **Blue Period** of sad, blue-toned paintings. **Guernica** (1937), in black, white and gray, shows the bombing of a Basque town during the Spanish Civil War.\n- **Cubism** breaks objects into geometric shapes and shows them from several angles at once.\n- **Frida Kahlo** began painting while recovering from a bus accident. She married the muralist **Diego Rivera**, whose giant murals show Mexican history and workers.\n- **René Magritte** (Belgium) was another Surrealist: a pipe labeled \"This is not a pipe.\"",
+      "keyFacts": [
+        "Picasso and Braque founded Cubism.",
+        "Guernica shows the bombing of a Basque town in the Spanish Civil War.",
+        "Dalí's The Persistence of Memory has melting clocks.",
+        "Edvard Munch painted The Scream.",
+        "Frida Kahlo painted many self-portraits and married Diego Rivera."
+      ]
+    },
+    {
+      "id": "arts-american",
+      "title": "American Art",
+      "topic": "Painting",
+      "difficulty": "medium",
+      "body": "| Artist | Work | Remember |\n|---|---|---|\n| **Gilbert Stuart** | Portrait of George Washington | The unfinished version is the model for the face on the **$1 bill** |\n| **Emanuel Leutze** | **Washington Crossing the Delaware** | Washington stands in a rowboat on an icy river |\n| **Thomas Cole** | Landscapes of the Catskills | Founded the **Hudson River School** |\n| **James McNeill Whistler** | **Whistler's Mother** | Real title: *Arrangement in Grey and Black No. 1* |\n| **Grant Wood** | **American Gothic** | Farmer with a pitchfork beside a woman, in front of a house in Iowa |\n| **Edward Hopper** | **Nighthawks** | Lonely people in a diner late at night |\n| **Georgia O'Keeffe** | Giant flowers, cow skulls | Painted the deserts of **New Mexico** |\n| **Norman Rockwell** | *Saturday Evening Post* covers | Also *The Problem We All Live With*, about Ruby Bridges |\n| **Jackson Pollock** | Drip paintings | **Abstract Expressionism**; dripped paint on canvas on the floor |\n| **Andy Warhol** | **Campbell's Soup Cans**, Marilyn Monroe prints | **Pop Art**; \"15 minutes of fame\" |\n| **Roy Lichtenstein** | Comic-strip paintings | Pop Art made of printed-looking dots |\n\n**Tip:** *American Gothic* and *Nighthawks* both hang in the **Art Institute of Chicago**.",
+      "keyFacts": [
+        "Grant Wood painted American Gothic.",
+        "Edward Hopper painted Nighthawks.",
+        "Georgia O'Keeffe painted large flowers and New Mexico landscapes.",
+        "Jackson Pollock made drip paintings.",
+        "Andy Warhol painted Campbell's Soup Cans in the Pop Art style."
+      ]
+    },
+    {
+      "id": "arts-sculpture-architecture",
+      "title": "Sculpture and Architecture",
+      "topic": "Sculpture and Architecture",
+      "difficulty": "medium",
+      "body": "## Famous sculptures\n- **Venus de Milo**: an ancient Greek statue of Aphrodite, found on the island of Melos, missing both arms. It is in the **Louvre**.\n- **Winged Victory of Samothrace**: a headless statue of the goddess Nike, also in the Louvre.\n- **The Thinker**: by **Auguste Rodin**, a man resting his chin on his hand. It was first part of a huge door called *The Gates of Hell*.\n- **Statue of Liberty**: designed by **Frédéric Auguste Bartholdi**, with an iron frame by **Gustave Eiffel**. France gave it to the U.S.; it was dedicated in **1886**.\n\n## Architecture\n- **Greek columns** come in three orders: **Doric** (plain top), **Ionic** (scroll top) and **Corinthian** (leafy top). The **Parthenon** in Athens, a temple to Athena, uses Doric columns.\n- **Gothic cathedrals** such as **Notre-Dame de Paris** have pointed arches, **flying buttresses**, stained-glass rose windows and **gargoyles**.\n- The **Taj Mahal** in Agra, India, is a white marble tomb built by **Shah Jahan** for his wife Mumtaz Mahal.\n- **Frank Lloyd Wright** designed **Fallingwater**, a house built over a waterfall in Pennsylvania, and the spiral **Guggenheim Museum** in New York.\n- **Antoni Gaudí** designed the **Sagrada Família** church in **Barcelona**, under construction since 1882.\n- **Jørn Utzon** designed the **Sydney Opera House**, with roofs like sails.\n- **I. M. Pei** designed the glass **pyramid** at the Louvre.",
+      "keyFacts": [
+        "The Venus de Milo and Winged Victory are in the Louvre.",
+        "Auguste Rodin sculpted The Thinker.",
+        "The three Greek column orders are Doric, Ionic and Corinthian.",
+        "Flying buttresses support Gothic cathedrals.",
+        "Frank Lloyd Wright designed Fallingwater."
+      ]
+    },
+    {
+      "id": "arts-orchestra",
+      "title": "The Orchestra and Musical Terms",
+      "topic": "Music",
+      "difficulty": "easy",
+      "body": "A symphony orchestra has four **instrument families**.\n\n| Family | Instruments | How sound is made |\n|---|---|---|\n| **Strings** | violin, viola, **cello**, double bass, harp | Bowing or plucking strings |\n| **Woodwinds** | flute, piccolo, clarinet, **oboe**, bassoon | Blowing across a hole or through a reed |\n| **Brass** | trumpet, French horn, trombone, **tuba** | Buzzing lips into a mouthpiece |\n| **Percussion** | **timpani**, snare drum, cymbals, xylophone | Striking or shaking |\n\n- The **conductor** leads with a stick called a **baton**.\n- The **concertmaster** is the first-chair violinist. Before a concert, the **oboe** plays an A so everyone can tune.\n- The **piccolo** plays the highest notes; the **tuba** is the lowest brass instrument.\n\n## Pieces that teach the orchestra\n- **Sergei Prokofiev's** *Peter and the Wolf*: each character has an instrument. The bird is a flute, the duck an oboe, the cat a clarinet, the grandfather a bassoon, the wolf French horns, and Peter the strings.\n- **Camille Saint-Saëns's** *The Carnival of the Animals* includes \"The Swan\" for cello.\n- **Benjamin Britten's** *The Young Person's Guide to the Orchestra*.\n\n## Musical terms (Italian)\n| Term | Meaning |\n|---|---|\n| **forte** / **piano** | loud / soft |\n| **crescendo** | gradually louder |\n| **allegro** | fast |\n| **andante** | walking pace |\n| **adagio** | slow |",
+      "keyFacts": [
+        "The four orchestra families are strings, woodwinds, brass and percussion.",
+        "The oboe plays the A that the orchestra tunes to.",
+        "In Peter and the Wolf, the wolf is played by French horns.",
+        "Forte means loud; piano means soft.",
+        "A crescendo gets gradually louder."
+      ]
+    },
+    {
       "id": "arts-composers",
       "title": "Great Composers",
       "topic": "Music",
@@ -30,6 +128,20 @@
         "Tchaikovsky wrote The Nutcracker and Swan Lake.",
         "Vivaldi wrote The Four Seasons.",
         "Mozart was born in Salzburg, Austria."
+      ]
+    },
+    {
+      "id": "arts-more-music",
+      "title": "Opera, Waltzes and American Music",
+      "topic": "Music",
+      "difficulty": "hard",
+      "body": "## More classical composers\n- **George Frideric Handel**: German-born, worked in London. His oratorio **Messiah** contains the **\"Hallelujah\" chorus**, and audiences traditionally stand for it. He also wrote *Water Music*.\n- **Joseph Haydn**: \"father of the symphony,\" wrote over 100. His **\"Surprise\" Symphony** has a sudden loud chord to wake up the audience.\n- **Frédéric Chopin**: Polish composer who wrote almost only for **piano**, including the \"Minute Waltz.\"\n- **Johann Strauss II**: the \"Waltz King\" of Vienna; **The Blue Danube**.\n- **Edvard Grieg** (Norway): \"In the Hall of the Mountain King\" from *Peer Gynt*.\n- **Gustav Holst** (England): **The Planets**, a suite with a movement for each planet, like \"Mars, the Bringer of War.\"\n\n## Opera\n| Opera | Composer | Remember |\n|---|---|---|\n| **The Magic Flute** | Mozart | The Queen of the Night's high notes |\n| **Aida** | Giuseppe Verdi | Set in ancient Egypt |\n| **Carmen** | Georges Bizet | Set in Seville; the \"Toreador Song\" |\n| **The Ring of the Nibelung** | Richard Wagner | Four operas; \"Ride of the Valkyries\" |\n| **Madama Butterfly** | Giacomo Puccini | Set in Japan |\n\n## American music\n- **John Philip Sousa**: the \"March King\"; **The Stars and Stripes Forever** is the national march.\n- **Scott Joplin**: the \"King of Ragtime\"; **The Entertainer** and **Maple Leaf Rag**.\n- **George Gershwin**: **Rhapsody in Blue**, which opens with a sliding clarinet solo, and the opera *Porgy and Bess* (\"Summertime\").\n- **Aaron Copland**: **Appalachian Spring**, which uses the Shaker tune \"Simple Gifts.\"\n- **Louis Armstrong**: jazz trumpeter and singer nicknamed \"Satchmo.\"",
+      "keyFacts": [
+        "Handel's Messiah includes the 'Hallelujah' chorus.",
+        "Haydn's 'Surprise' Symphony has a sudden loud chord.",
+        "Chopin wrote mostly piano music.",
+        "Bizet wrote Carmen; Verdi wrote Aida.",
+        "Sousa is the 'March King'; Joplin is the 'King of Ragtime'."
       ]
     }
   ],
@@ -56,6 +168,526 @@
       "answer": "Ludwig van Beethoven",
       "acceptable": [
         "Beethoven"
+      ]
+    },
+    {
+      "id": "arts-t-003",
+      "topic": "Art Basics",
+      "lessonId": "arts-basics",
+      "difficulty": "easy",
+      "question": "Leonardo da Vinci avoided this technique for The Last Supper, which is one reason that mural flaked. Michelangelo used it on the Sistine Chapel ceiling, working fast before the plaster dried. For 10 points, name this technique of painting on wet plaster.",
+      "powerIndex": 176,
+      "answer": "fresco",
+      "acceptable": [
+        "buon fresco"
+      ]
+    },
+    {
+      "id": "arts-t-004",
+      "topic": "Art Basics",
+      "lessonId": "arts-basics",
+      "difficulty": "easy",
+      "question": "These colors cannot be made by mixing other paints. Mixing two of them makes orange, green or purple. For 10 points, name these three colors: red, yellow and blue.",
+      "powerIndex": 70,
+      "answer": "primary colors",
+      "acceptable": [
+        "primaries"
+      ]
+    },
+    {
+      "id": "arts-t-005",
+      "topic": "Art Basics",
+      "lessonId": "arts-basics",
+      "difficulty": "medium",
+      "question": "This technique was worked out by Filippo Brunelleschi in Florence. It uses a horizon line and a vanishing point to make a flat picture look deep. For 10 points, name this technique for showing depth.",
+      "powerIndex": 95,
+      "answer": "linear perspective",
+      "acceptable": [
+        "perspective"
+      ]
+    },
+    {
+      "id": "arts-t-006",
+      "topic": "Art Basics",
+      "lessonId": "arts-basics",
+      "difficulty": "hard",
+      "question": "Ancient Romans decorated floors with this art form, and the churches of Ravenna are famous for it. Its small pieces are called tesserae. For 10 points, name this art form made of small bits of glass or stone.",
+      "powerIndex": 126,
+      "answer": "mosaic",
+      "acceptable": [
+        "mosaics"
+      ]
+    },
+    {
+      "id": "arts-t-007",
+      "topic": "Painting",
+      "lessonId": "arts-renaissance-painters",
+      "difficulty": "easy",
+      "question": "This painting is protected by bulletproof glass, and it was stolen from the Louvre in 1911. Its subject is thought to be Lisa Gherardini, who has a mysterious smile. For 10 points, name this portrait by Leonardo da Vinci.",
+      "powerIndex": 145,
+      "answer": "Mona Lisa",
+      "acceptable": [
+        "La Gioconda",
+        "La Joconde"
+      ]
+    },
+    {
+      "id": "arts-t-008",
+      "topic": "Painting",
+      "lessonId": "arts-renaissance-painters",
+      "difficulty": "medium",
+      "question": "This painting is on a wall of a dining hall in Milan and began to flake soon after it was finished. It shows Judas clutching a bag of money as Jesus announces one of the twelve apostles will betray him. For 10 points, name this mural by Leonardo da Vinci.",
+      "powerIndex": 142,
+      "answer": "The Last Supper",
+      "acceptable": [
+        "Il Cenacolo",
+        "L'Ultima Cena"
+      ]
+    },
+    {
+      "id": "arts-t-009",
+      "topic": "Painting",
+      "lessonId": "arts-renaissance-painters",
+      "difficulty": "medium",
+      "question": "In this painting, a figure of Zephyr blows the title character toward shore, where a nymph waits with a cloak. The goddess stands on a giant scallop shell. For 10 points, name this painting by Sandro Botticelli.",
+      "powerIndex": 140,
+      "answer": "The Birth of Venus",
+      "acceptable": []
+    },
+    {
+      "id": "arts-t-010",
+      "topic": "Painting",
+      "lessonId": "arts-renaissance-painters",
+      "difficulty": "hard",
+      "question": "In this fresco, Heraclitus may have the face of Michelangelo, and the painter included himself near the right edge. At its center, Plato points up while Aristotle gestures toward the ground. For 10 points, name this Raphael painting of ancient philosophers.",
+      "powerIndex": 130,
+      "answer": "The School of Athens",
+      "acceptable": []
+    },
+    {
+      "id": "arts-t-011",
+      "topic": "Painting",
+      "lessonId": "arts-baroque",
+      "difficulty": "medium",
+      "question": "This painting was cut down on all sides to fit a wall in Amsterdam's town hall. Its title comes from dark varnish that made it look like a nighttime scene, and it shows Captain Frans Banninck Cocq's militia. For 10 points, name this painting by Rembrandt.",
+      "powerIndex": 168,
+      "answer": "The Night Watch",
+      "acceptable": [
+        "Militia Company of District II under the Command of Captain Frans Banninck Cocq"
+      ]
+    },
+    {
+      "id": "arts-t-012",
+      "topic": "Painting",
+      "lessonId": "arts-baroque",
+      "difficulty": "medium",
+      "question": "This painter's View of Delft shows his hometown, and in another of his works, a maid pours milk from a jug. For 10 points, name this Dutch painter of Girl with a Pearl Earring.",
+      "powerIndex": 90,
+      "answer": "Johannes Vermeer",
+      "acceptable": [
+        "Vermeer",
+        "Jan Vermeer"
+      ]
+    },
+    {
+      "id": "arts-t-013",
+      "topic": "Painting",
+      "lessonId": "arts-baroque",
+      "difficulty": "hard",
+      "question": "In this painting, the king and queen appear in a mirror on the back wall, and the artist stands at a huge canvas. The Infanta Margarita is surrounded by her ladies-in-waiting. For 10 points, name this painting by Diego Velázquez.",
+      "powerIndex": 117,
+      "answer": "Las Meninas",
+      "acceptable": [
+        "The Maids of Honour",
+        "The Ladies-in-Waiting"
+      ]
+    },
+    {
+      "id": "arts-t-014",
+      "topic": "Painting",
+      "lessonId": "arts-baroque",
+      "difficulty": "hard",
+      "question": "This artist's Calling of Saint Matthew shows a beam of light falling across a group of tax collectors. He was known for violence and fled Rome after killing a man. For 10 points, name this Italian painter known for tenebrism.",
+      "powerIndex": 148,
+      "answer": "Caravaggio",
+      "acceptable": [
+        "Michelangelo Merisi da Caravaggio"
+      ]
+    },
+    {
+      "id": "arts-t-015",
+      "topic": "Painting",
+      "lessonId": "arts-impressionism",
+      "difficulty": "easy",
+      "question": "This painter built a Japanese footbridge over a pond at his home in Giverny. A critic mocked his painting Impression, Sunrise, naming a movement. For 10 points, name this French painter of Water Lilies.",
+      "powerIndex": 105,
+      "answer": "Claude Monet",
+      "acceptable": [
+        "Monet"
+      ]
+    },
+    {
+      "id": "arts-t-016",
+      "topic": "Painting",
+      "lessonId": "arts-impressionism",
+      "difficulty": "easy",
+      "question": "This painting was made while its artist stayed at an asylum in Saint-Rémy. It shows a cypress tree and a village beneath a sky full of swirls. For 10 points, name this Vincent van Gogh painting of a night sky.",
+      "powerIndex": 134,
+      "answer": "The Starry Night",
+      "acceptable": []
+    },
+    {
+      "id": "arts-t-017",
+      "topic": "Painting",
+      "lessonId": "arts-impressionism",
+      "difficulty": "medium",
+      "question": "This artist's bronze sculpture of a young ballet student wears a real cloth tutu. He painted many dancers rehearsing at the Paris Opera. For 10 points, name this French artist of Little Dancer Aged Fourteen.",
+      "powerIndex": 123,
+      "answer": "Edgar Degas",
+      "acceptable": [
+        "Degas"
+      ]
+    },
+    {
+      "id": "arts-t-018",
+      "topic": "Painting",
+      "lessonId": "arts-impressionism",
+      "difficulty": "medium",
+      "question": "This painting includes a woman walking a monkey on a leash beside a river island near Paris. It took its artist two years to make out of tiny dots of color. For 10 points, name this pointillist painting by Georges Seurat.",
+      "powerIndex": 136,
+      "answer": "A Sunday on La Grande Jatte",
+      "acceptable": [
+        "A Sunday Afternoon on the Island of La Grande Jatte",
+        "La Grande Jatte"
+      ]
+    },
+    {
+      "id": "arts-t-019",
+      "topic": "Painting",
+      "lessonId": "arts-impressionism",
+      "difficulty": "hard",
+      "question": "This painter was born in Pittsburgh and was invited by Edgar Degas to show with the Impressionists. Her paintings, like The Child's Bath, often show mothers and children. For 10 points, name this American painter.",
+      "powerIndex": 119,
+      "answer": "Mary Cassatt",
+      "acceptable": [
+        "Cassatt"
+      ]
+    },
+    {
+      "id": "arts-t-020",
+      "topic": "Painting",
+      "lessonId": "arts-modern",
+      "difficulty": "easy",
+      "question": "This painting shows a figure on a bridge, holding its face against a blood-red sky. Several versions exist, and two were stolen and later recovered in Norway. For 10 points, name this Expressionist work by Edvard Munch.",
+      "powerIndex": 150,
+      "answer": "The Scream",
+      "acceptable": [
+        "Skrik"
+      ]
+    },
+    {
+      "id": "arts-t-021",
+      "topic": "Painting",
+      "lessonId": "arts-modern",
+      "difficulty": "medium",
+      "question": "This painting shows a screaming horse, a bull and a woman holding a dead child. Painted in black, white and gray, it responds to a 1937 bombing during the Spanish Civil War. For 10 points, name this Pablo Picasso painting named for a Basque town.",
+      "powerIndex": 135,
+      "answer": "Guernica",
+      "acceptable": []
+    },
+    {
+      "id": "arts-t-022",
+      "topic": "Painting",
+      "lessonId": "arts-modern",
+      "difficulty": "medium",
+      "question": "This painting features a strange creature with long eyelashes lying on a beach, and ants crawling on an orange watch. Its clocks seem to melt. For 10 points, name this Surrealist painting by Salvador Dalí.",
+      "powerIndex": 121,
+      "answer": "The Persistence of Memory",
+      "acceptable": []
+    },
+    {
+      "id": "arts-t-023",
+      "topic": "Painting",
+      "lessonId": "arts-modern",
+      "difficulty": "hard",
+      "question": "This artist lived in the Blue House in Coyoacán. She painted herself with a thick unibrow and showed two versions of herself holding hands in The Two Fridas. For 10 points, name this Mexican painter married to Diego Rivera.",
+      "powerIndex": 141,
+      "answer": "Frida Kahlo",
+      "acceptable": [
+        "Kahlo"
+      ]
+    },
+    {
+      "id": "arts-t-024",
+      "topic": "Painting",
+      "lessonId": "arts-modern",
+      "difficulty": "hard",
+      "question": "This artist made The Snail out of painted paper late in life when illness kept him in a wheelchair. A critic called him and his friends \"wild beasts.\" For 10 points, name this French leader of Fauvism.",
+      "powerIndex": 135,
+      "answer": "Henri Matisse",
+      "acceptable": [
+        "Matisse"
+      ]
+    },
+    {
+      "id": "arts-t-025",
+      "topic": "Painting",
+      "lessonId": "arts-american",
+      "difficulty": "easy",
+      "question": "The models for this painting were the artist's sister and his dentist. A house with a Gothic-style window stands behind the two figures, and a man holds a pitchfork. For 10 points, name this 1930 painting by Grant Wood.",
+      "powerIndex": 154,
+      "answer": "American Gothic",
+      "acceptable": []
+    },
+    {
+      "id": "arts-t-026",
+      "topic": "Painting",
+      "lessonId": "arts-american",
+      "difficulty": "medium",
+      "question": "This painting shows a diner on a corner with no visible door. Three customers and a worker sit under harsh light in an empty city late at night. For 10 points, name this 1942 painting by Edward Hopper.",
+      "powerIndex": 129,
+      "answer": "Nighthawks",
+      "acceptable": []
+    },
+    {
+      "id": "arts-t-027",
+      "topic": "Painting",
+      "lessonId": "arts-american",
+      "difficulty": "medium",
+      "question": "This artist made 32 canvases of the same product, one for each flavor sold at the time. He also made silkscreen prints of Marilyn Monroe. For 10 points, name this Pop artist of Campbell's Soup Cans.",
+      "powerIndex": 121,
+      "answer": "Andy Warhol",
+      "acceptable": [
+        "Warhol"
+      ]
+    },
+    {
+      "id": "arts-t-028",
+      "topic": "Painting",
+      "lessonId": "arts-american",
+      "difficulty": "hard",
+      "question": "This artist moved to Ghost Ranch in New Mexico, where she painted bleached cow skulls. She is best known for giant close-up paintings of flowers. For 10 points, name this American painter.",
+      "powerIndex": 136,
+      "answer": "Georgia O'Keeffe",
+      "acceptable": [
+        "O'Keeffe"
+      ]
+    },
+    {
+      "id": "arts-t-029",
+      "topic": "Painting",
+      "lessonId": "arts-american",
+      "difficulty": "hard",
+      "question": "This artist was nicknamed \"Jack the Dripper.\" He laid his canvases on the floor and flung paint onto them. For 10 points, name this Abstract Expressionist painter.",
+      "powerIndex": 89,
+      "answer": "Jackson Pollock",
+      "acceptable": [
+        "Pollock"
+      ]
+    },
+    {
+      "id": "arts-t-030",
+      "topic": "Sculpture and Architecture",
+      "lessonId": "arts-sculpture-architecture",
+      "difficulty": "easy",
+      "question": "The inside framework of this structure was designed by Gustave Eiffel. Its sculptor, Frédéric Auguste Bartholdi, may have based her face on his mother. For 10 points, name this copper statue given by France and dedicated in New York Harbor in 1886.",
+      "powerIndex": 143,
+      "answer": "Statue of Liberty",
+      "acceptable": [
+        "Liberty Enlightening the World",
+        "Lady Liberty"
+      ]
+    },
+    {
+      "id": "arts-t-031",
+      "topic": "Sculpture and Architecture",
+      "lessonId": "arts-sculpture-architecture",
+      "difficulty": "medium",
+      "question": "This sculpture was first meant to show the poet Dante sitting above The Gates of Hell. Its sculptor was Auguste Rodin. For 10 points, name this bronze statue of a man resting his chin on his hand.",
+      "powerIndex": 103,
+      "answer": "The Thinker",
+      "acceptable": [
+        "Le Penseur"
+      ]
+    },
+    {
+      "id": "arts-t-032",
+      "topic": "Sculpture and Architecture",
+      "lessonId": "arts-sculpture-architecture",
+      "difficulty": "medium",
+      "question": "This building in Agra was built by about 20,000 workers using white marble. Shah Jahan built it as a tomb for his wife Mumtaz Mahal. For 10 points, name this famous Indian monument.",
+      "powerIndex": 100,
+      "answer": "Taj Mahal",
+      "acceptable": []
+    },
+    {
+      "id": "arts-t-033",
+      "topic": "Sculpture and Architecture",
+      "lessonId": "arts-sculpture-architecture",
+      "difficulty": "hard",
+      "question": "This architect designed a spiral museum in New York and called his style \"organic architecture.\" One of his houses is built over a waterfall in Pennsylvania. For 10 points, name this architect of Fallingwater.",
+      "powerIndex": 130,
+      "answer": "Frank Lloyd Wright",
+      "acceptable": [
+        "Wright"
+      ]
+    },
+    {
+      "id": "arts-t-034",
+      "topic": "Sculpture and Architecture",
+      "lessonId": "arts-sculpture-architecture",
+      "difficulty": "hard",
+      "question": "This building has a façade showing the Nativity and is expected to have 18 spires when finished. Its architect, Antoni Gaudí, worked on it for over 40 years. For 10 points, name this unfinished church in Barcelona.",
+      "powerIndex": 111,
+      "answer": "Sagrada Família",
+      "acceptable": [
+        "Basílica de la Sagrada Família"
+      ]
+    },
+    {
+      "id": "arts-t-035",
+      "topic": "Music",
+      "lessonId": "arts-orchestra",
+      "difficulty": "easy",
+      "question": "This instrument's smaller cousin is the viola. Its lead player in an orchestra is called the concertmaster. For 10 points, name this highest-pitched member of the string family.",
+      "powerIndex": 92,
+      "answer": "violin",
+      "acceptable": []
+    },
+    {
+      "id": "arts-t-036",
+      "topic": "Music",
+      "lessonId": "arts-orchestra",
+      "difficulty": "medium",
+      "question": "This woodwind instrument uses a double reed and plays the A that the orchestra tunes to. In Peter and the Wolf, it plays the part of the duck. For 10 points, name this instrument.",
+      "powerIndex": 136,
+      "answer": "oboe",
+      "acceptable": []
+    },
+    {
+      "id": "arts-t-037",
+      "topic": "Music",
+      "lessonId": "arts-orchestra",
+      "difficulty": "medium",
+      "question": "In this piece, the cat is played by a clarinet and the grandfather by a bassoon, while French horns play the wolf. For 10 points, name this musical story by Sergei Prokofiev.",
+      "powerIndex": 108,
+      "answer": "Peter and the Wolf",
+      "acceptable": []
+    },
+    {
+      "id": "arts-t-038",
+      "topic": "Music",
+      "lessonId": "arts-orchestra",
+      "difficulty": "hard",
+      "question": "These large drums are also called kettledrums, and players can change their pitch using a foot pedal. For 10 points, name these drums, the most important percussion instruments in an orchestra.",
+      "powerIndex": 89,
+      "answer": "timpani",
+      "acceptable": [
+        "kettledrums",
+        "timpano"
+      ]
+    },
+    {
+      "id": "arts-t-039",
+      "topic": "Music",
+      "lessonId": "arts-composers",
+      "difficulty": "easy",
+      "question": "This composer's music includes the \"Dance of the Sugar Plum Fairy,\" and his 1812 Overture uses real cannons. For 10 points, name this Russian composer of The Nutcracker and Swan Lake.",
+      "powerIndex": 99,
+      "answer": "Pyotr Ilyich Tchaikovsky",
+      "acceptable": [
+        "Tchaikovsky"
+      ]
+    },
+    {
+      "id": "arts-t-040",
+      "topic": "Music",
+      "lessonId": "arts-composers",
+      "difficulty": "medium",
+      "question": "This composer worked for years as a church music director in Leipzig. He wrote six Brandenburg Concertos and is the most famous Baroque composer. For 10 points, name this German composer who had 20 children.",
+      "powerIndex": 82,
+      "answer": "Johann Sebastian Bach",
+      "acceptable": [
+        "J. S. Bach",
+        "Bach"
+      ]
+    },
+    {
+      "id": "arts-t-041",
+      "topic": "Music",
+      "lessonId": "arts-composers",
+      "difficulty": "medium",
+      "question": "This composer wrote \"Eine kleine Nachtmusik\" and started performing for royalty at age six. Born in Salzburg, he wrote The Marriage of Figaro. For 10 points, name this Austrian child prodigy.",
+      "powerIndex": 99,
+      "answer": "Wolfgang Amadeus Mozart",
+      "acceptable": [
+        "Mozart"
+      ]
+    },
+    {
+      "id": "arts-t-042",
+      "topic": "Music",
+      "lessonId": "arts-composers",
+      "difficulty": "hard",
+      "question": "Each of the four parts of this set of violin concertos comes with a poem that describes things like birdsong and a summer storm. For 10 points, name this work by Antonio Vivaldi named for the times of year.",
+      "powerIndex": 114,
+      "answer": "The Four Seasons",
+      "acceptable": [
+        "Le quattro stagioni"
+      ]
+    },
+    {
+      "id": "arts-t-043",
+      "topic": "Music",
+      "lessonId": "arts-more-music",
+      "difficulty": "easy",
+      "question": "This composer was called the \"March King\" and led the U.S. Marine Band. He wrote \"The Stars and Stripes Forever.\" For 10 points, name this American composer.",
+      "powerIndex": 80,
+      "answer": "John Philip Sousa",
+      "acceptable": [
+        "Sousa"
+      ]
+    },
+    {
+      "id": "arts-t-044",
+      "topic": "Music",
+      "lessonId": "arts-more-music",
+      "difficulty": "medium",
+      "question": "This work's first London audiences may have included King George II. Listeners traditionally stand for its \"Hallelujah\" chorus. For 10 points, name this oratorio by George Frideric Handel.",
+      "powerIndex": 106,
+      "answer": "Messiah",
+      "acceptable": []
+    },
+    {
+      "id": "arts-t-045",
+      "topic": "Music",
+      "lessonId": "arts-more-music",
+      "difficulty": "medium",
+      "question": "This opera's heroine works in a cigarette factory in Seville and sings the \"Habanera.\" The bullfighter Escamillo sings the \"Toreador Song.\" For 10 points, name this opera by Georges Bizet.",
+      "powerIndex": 122,
+      "answer": "Carmen",
+      "acceptable": []
+    },
+    {
+      "id": "arts-t-046",
+      "topic": "Music",
+      "lessonId": "arts-more-music",
+      "difficulty": "hard",
+      "question": "This piece begins with a clarinet sliding up from a low trill. Paul Whiteman's band premiered it in 1924, and it mixes classical music with jazz. For 10 points, name this piece by George Gershwin.",
+      "powerIndex": 139,
+      "answer": "Rhapsody in Blue",
+      "acceptable": []
+    },
+    {
+      "id": "arts-t-047",
+      "topic": "Music",
+      "lessonId": "arts-more-music",
+      "difficulty": "hard",
+      "question": "This composer's ragtime piece \"The Entertainer\" became famous again in the 1973 film The Sting. For 10 points, name this \"King of Ragtime\" who wrote the \"Maple Leaf Rag.\"",
+      "powerIndex": 74,
+      "answer": "Scott Joplin",
+      "acceptable": [
+        "Joplin"
       ]
     }
   ],
@@ -87,6 +719,559 @@
           "acceptable": [
             "Mozart"
           ]
+        }
+      ]
+    },
+    {
+      "id": "arts-b-002",
+      "topic": "Art Basics",
+      "lessonId": "arts-basics",
+      "difficulty": "easy",
+      "leadin": "Name these types of art, for 10 points each.",
+      "parts": [
+        {
+          "question": "A painting of objects like fruit, flowers and bowls.",
+          "answer": "still life",
+          "acceptable": []
+        },
+        {
+          "question": "A painting of an artist made by that artist.",
+          "answer": "self-portrait",
+          "acceptable": []
+        },
+        {
+          "question": "A painting of natural scenery like hills and rivers.",
+          "answer": "landscape",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "arts-b-003",
+      "topic": "Art Basics",
+      "lessonId": "arts-basics",
+      "difficulty": "medium",
+      "leadin": "Answer these questions about color, for 10 points each.",
+      "parts": [
+        {
+          "question": "Colors across from each other on the color wheel, such as red and green, have this name.",
+          "answer": "complementary colors",
+          "acceptable": [
+            "complements"
+          ]
+        },
+        {
+          "question": "Mixing blue and yellow paint makes this secondary color.",
+          "answer": "green",
+          "acceptable": []
+        },
+        {
+          "question": "This Italian term means a strong contrast of light and dark.",
+          "answer": "chiaroscuro",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "arts-b-004",
+      "topic": "Painting",
+      "lessonId": "arts-renaissance-painters",
+      "difficulty": "medium",
+      "leadin": "Name these Renaissance artists, for 10 points each.",
+      "parts": [
+        {
+          "question": "This painter of The School of Athens died at age 37.",
+          "answer": "Raphael",
+          "acceptable": [
+            "Raffaello Sanzio"
+          ]
+        },
+        {
+          "question": "This Florentine painter showed Venus on a shell.",
+          "answer": "Sandro Botticelli",
+          "acceptable": [
+            "Botticelli"
+          ]
+        },
+        {
+          "question": "This Flemish painter of the Arnolfini Portrait helped make oil paint popular.",
+          "answer": "Jan van Eyck",
+          "acceptable": [
+            "van Eyck"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arts-b-005",
+      "topic": "Painting",
+      "lessonId": "arts-baroque",
+      "difficulty": "medium",
+      "leadin": "Name the cities where you can see these paintings, for 10 points each.",
+      "parts": [
+        {
+          "question": "The Night Watch, in the Rijksmuseum.",
+          "answer": "Amsterdam",
+          "acceptable": []
+        },
+        {
+          "question": "Las Meninas, in the Prado.",
+          "answer": "Madrid",
+          "acceptable": []
+        },
+        {
+          "question": "The Mona Lisa, in the Louvre.",
+          "answer": "Paris",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "arts-b-006",
+      "topic": "Painting",
+      "lessonId": "arts-impressionism",
+      "difficulty": "medium",
+      "leadin": "Name these artists, for 10 points each.",
+      "parts": [
+        {
+          "question": "This painter of Luncheon of the Boating Party loved painting cheerful crowds.",
+          "answer": "Pierre-Auguste Renoir",
+          "acceptable": [
+            "Renoir"
+          ]
+        },
+        {
+          "question": "This painter left France to paint the people of Tahiti.",
+          "answer": "Paul Gauguin",
+          "acceptable": [
+            "Gauguin"
+          ]
+        },
+        {
+          "question": "This painter of many apples and Mont Sainte-Victoire is called the father of modern art.",
+          "answer": "Paul Cézanne",
+          "acceptable": [
+            "Cézanne",
+            "Cezanne"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arts-b-007",
+      "topic": "Painting",
+      "lessonId": "arts-impressionism",
+      "difficulty": "hard",
+      "leadin": "Answer these questions about Vincent van Gogh, for 10 points each.",
+      "parts": [
+        {
+          "question": "Name the brother who supported Vincent and received hundreds of letters from him.",
+          "answer": "Theo van Gogh",
+          "acceptable": [
+            "Theo"
+          ]
+        },
+        {
+          "question": "Name the yellow flowers that van Gogh painted in a famous series of vases.",
+          "answer": "sunflowers",
+          "acceptable": []
+        },
+        {
+          "question": "Name the town in southern France where he cut off part of his ear.",
+          "answer": "Arles",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "arts-b-008",
+      "topic": "Painting",
+      "lessonId": "arts-modern",
+      "difficulty": "medium",
+      "leadin": "Name the art movement linked to each artist, for 10 points each.",
+      "parts": [
+        {
+          "question": "Pablo Picasso and Georges Braque, who broke objects into geometric shapes.",
+          "answer": "Cubism",
+          "acceptable": []
+        },
+        {
+          "question": "Salvador Dalí and René Magritte, who painted dreamlike scenes.",
+          "answer": "Surrealism",
+          "acceptable": []
+        },
+        {
+          "question": "Andy Warhol and Roy Lichtenstein, who used images from ads and comics.",
+          "answer": "Pop Art",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "arts-b-009",
+      "topic": "Painting",
+      "lessonId": "arts-modern",
+      "difficulty": "hard",
+      "leadin": "Answer these questions about Pablo Picasso, for 10 points each.",
+      "parts": [
+        {
+          "question": "Name the period in which Picasso painted sad scenes in shades of one color.",
+          "answer": "Blue Period",
+          "acceptable": []
+        },
+        {
+          "question": "Name the French artist who helped Picasso invent Cubism.",
+          "answer": "Georges Braque",
+          "acceptable": [
+            "Braque"
+          ]
+        },
+        {
+          "question": "Name Picasso's home country.",
+          "answer": "Spain",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "arts-b-010",
+      "topic": "Painting",
+      "lessonId": "arts-american",
+      "difficulty": "medium",
+      "leadin": "Name these American artists, for 10 points each.",
+      "parts": [
+        {
+          "question": "This illustrator made over 300 covers for The Saturday Evening Post.",
+          "answer": "Norman Rockwell",
+          "acceptable": [
+            "Rockwell"
+          ]
+        },
+        {
+          "question": "This artist painted Arrangement in Grey and Black No. 1, a portrait of his mother.",
+          "answer": "James McNeill Whistler",
+          "acceptable": [
+            "Whistler"
+          ]
+        },
+        {
+          "question": "This artist founded the Hudson River School.",
+          "answer": "Thomas Cole",
+          "acceptable": [
+            "Cole"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arts-b-011",
+      "topic": "Painting",
+      "lessonId": "arts-american",
+      "difficulty": "hard",
+      "leadin": "Answer these questions about paintings of George Washington, for 10 points each.",
+      "parts": [
+        {
+          "question": "Name the painter of Washington Crossing the Delaware.",
+          "answer": "Emanuel Leutze",
+          "acceptable": [
+            "Leutze"
+          ]
+        },
+        {
+          "question": "Name the painter whose unfinished portrait of Washington appears on the dollar bill.",
+          "answer": "Gilbert Stuart",
+          "acceptable": [
+            "Stuart"
+          ]
+        },
+        {
+          "question": "Name the river in the Leutze painting, crossed on Christmas night 1776.",
+          "answer": "Delaware River",
+          "acceptable": [
+            "Delaware"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arts-b-012",
+      "topic": "Sculpture and Architecture",
+      "lessonId": "arts-sculpture-architecture",
+      "difficulty": "easy",
+      "leadin": "Name these Greek column styles, for 10 points each.",
+      "parts": [
+        {
+          "question": "The plainest style, with a simple cushion-shaped top, used on the Parthenon.",
+          "answer": "Doric",
+          "acceptable": []
+        },
+        {
+          "question": "This style has a top shaped like two scrolls.",
+          "answer": "Ionic",
+          "acceptable": []
+        },
+        {
+          "question": "This fanciest style has a top decorated with leaves.",
+          "answer": "Corinthian",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "arts-b-013",
+      "topic": "Sculpture and Architecture",
+      "lessonId": "arts-sculpture-architecture",
+      "difficulty": "medium",
+      "leadin": "Name these sculptures in the Louvre, for 10 points each.",
+      "parts": [
+        {
+          "question": "This armless statue of Aphrodite was found on the island of Melos.",
+          "answer": "Venus de Milo",
+          "acceptable": [
+            "Aphrodite of Milos"
+          ]
+        },
+        {
+          "question": "This headless statue of the goddess Nike stands at the top of a staircase.",
+          "answer": "Winged Victory of Samothrace",
+          "acceptable": [
+            "Nike of Samothrace",
+            "Winged Victory"
+          ]
+        },
+        {
+          "question": "Name the architect of the glass pyramid at the Louvre's entrance.",
+          "answer": "I. M. Pei",
+          "acceptable": [
+            "Pei",
+            "Ieoh Ming Pei"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arts-b-014",
+      "topic": "Sculpture and Architecture",
+      "lessonId": "arts-sculpture-architecture",
+      "difficulty": "hard",
+      "leadin": "Answer these questions about Gothic cathedrals, for 10 points each.",
+      "parts": [
+        {
+          "question": "Name the outside supports that let these cathedrals have tall, thin walls.",
+          "answer": "flying buttresses",
+          "acceptable": [
+            "buttresses"
+          ]
+        },
+        {
+          "question": "Name the carved stone monsters that act as rain spouts.",
+          "answer": "gargoyles",
+          "acceptable": []
+        },
+        {
+          "question": "Name the famous Gothic cathedral in Paris damaged by fire in 2019.",
+          "answer": "Notre-Dame de Paris",
+          "acceptable": [
+            "Notre-Dame",
+            "Notre Dame"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arts-b-015",
+      "topic": "Music",
+      "lessonId": "arts-orchestra",
+      "difficulty": "easy",
+      "leadin": "Name the instrument family of each instrument, for 10 points each.",
+      "parts": [
+        {
+          "question": "Trombone.",
+          "answer": "brass",
+          "acceptable": []
+        },
+        {
+          "question": "Clarinet.",
+          "answer": "woodwinds",
+          "acceptable": [
+            "woodwind"
+          ]
+        },
+        {
+          "question": "Cello.",
+          "answer": "strings",
+          "acceptable": [
+            "string"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arts-b-016",
+      "topic": "Music",
+      "lessonId": "arts-orchestra",
+      "difficulty": "medium",
+      "leadin": "Give the meaning of these musical terms, for 10 points each.",
+      "parts": [
+        {
+          "question": "Forte.",
+          "answer": "loud",
+          "acceptable": []
+        },
+        {
+          "question": "Crescendo.",
+          "answer": "gradually getting louder",
+          "acceptable": [
+            "getting louder"
+          ]
+        },
+        {
+          "question": "Adagio.",
+          "answer": "slow",
+          "acceptable": [
+            "slowly"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arts-b-017",
+      "topic": "Music",
+      "lessonId": "arts-composers",
+      "difficulty": "medium",
+      "leadin": "Answer these questions about Ludwig van Beethoven, for 10 points each.",
+      "parts": [
+        {
+          "question": "Beethoven's Ninth Symphony ends with this poem set to music.",
+          "answer": "\"Ode to Joy\"",
+          "acceptable": []
+        },
+        {
+          "question": "Beethoven lost this sense but kept composing.",
+          "answer": "hearing",
+          "acceptable": []
+        },
+        {
+          "question": "Name the German city where Beethoven was born.",
+          "answer": "Bonn",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "arts-b-018",
+      "topic": "Music",
+      "lessonId": "arts-more-music",
+      "difficulty": "medium",
+      "leadin": "Name these composers, for 10 points each.",
+      "parts": [
+        {
+          "question": "This Polish composer wrote almost only for the piano.",
+          "answer": "Frédéric Chopin",
+          "acceptable": [
+            "Chopin"
+          ]
+        },
+        {
+          "question": "This \"Waltz King\" wrote The Blue Danube.",
+          "answer": "Johann Strauss II",
+          "acceptable": [
+            "Johann Strauss",
+            "Strauss"
+          ]
+        },
+        {
+          "question": "This Norwegian composer wrote \"In the Hall of the Mountain King.\"",
+          "answer": "Edvard Grieg",
+          "acceptable": [
+            "Grieg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arts-b-019",
+      "topic": "Music",
+      "lessonId": "arts-more-music",
+      "difficulty": "hard",
+      "leadin": "Name the composers of these operas, for 10 points each.",
+      "parts": [
+        {
+          "question": "Aida, set in ancient Egypt.",
+          "answer": "Giuseppe Verdi",
+          "acceptable": [
+            "Verdi"
+          ]
+        },
+        {
+          "question": "Madama Butterfly, set in Japan.",
+          "answer": "Giacomo Puccini",
+          "acceptable": [
+            "Puccini"
+          ]
+        },
+        {
+          "question": "The Ring of the Nibelung, which includes \"Ride of the Valkyries.\"",
+          "answer": "Richard Wagner",
+          "acceptable": [
+            "Wagner"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arts-b-020",
+      "topic": "Music",
+      "lessonId": "arts-more-music",
+      "difficulty": "easy",
+      "leadin": "Answer these questions about American music, for 10 points each.",
+      "parts": [
+        {
+          "question": "Name the jazz trumpeter nicknamed \"Satchmo.\"",
+          "answer": "Louis Armstrong",
+          "acceptable": [
+            "Armstrong"
+          ]
+        },
+        {
+          "question": "Name the composer of Appalachian Spring.",
+          "answer": "Aaron Copland",
+          "acceptable": [
+            "Copland"
+          ]
+        },
+        {
+          "question": "Name the opera by George Gershwin that includes the song \"Summertime.\"",
+          "answer": "Porgy and Bess",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "arts-b-021",
+      "topic": "Music",
+      "lessonId": "arts-more-music",
+      "difficulty": "hard",
+      "leadin": "Answer these questions about Joseph Haydn, for 10 points each.",
+      "parts": [
+        {
+          "question": "Haydn is called the father of this kind of large orchestral work.",
+          "answer": "symphony",
+          "acceptable": [
+            "symphonies"
+          ]
+        },
+        {
+          "question": "Name his Symphony No. 94, which has a sudden loud chord in a quiet movement.",
+          "answer": "\"Surprise\" Symphony",
+          "acceptable": [
+            "Surprise"
+          ]
+        },
+        {
+          "question": "Name the country, also Mozart's homeland, where Haydn was born.",
+          "answer": "Austria",
+          "acceptable": []
         }
       ]
     }

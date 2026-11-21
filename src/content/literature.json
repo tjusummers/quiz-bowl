@@ -5,6 +5,20 @@
   "description": "Novels, plays, poems and the authors who wrote them.",
   "lessons": [
     {
+      "id": "lit-terms",
+      "title": "Literary Terms Every Reader Needs",
+      "topic": "Literary Elements",
+      "difficulty": "easy",
+      "body": "Quiz bowl literature questions often describe *how* a story is written. Knowing these words helps you understand clues and answer term questions.\n\n## Story parts\n- **Plot**: the events of a story. The **climax** is the turning point of highest tension; the **resolution** ties up loose ends.\n- **Protagonist**: the main character. **Antagonist**: the character or force working against the protagonist.\n- **Setting**: when and where a story happens.\n- **Theme**: the big message or idea, such as \"friendship is worth sacrifice.\"\n- **Point of view**: **first person** uses \"I\"; **third person** uses \"he,\" \"she\" or \"they.\"\n- **Foreshadowing**: hints about what will happen later.\n\n## Figurative language\n- **Simile**: compares using *like* or *as* (\"brave as a lion\").\n- **Metaphor**: compares directly (\"the classroom was a zoo\").\n- **Personification**: gives human traits to non-human things (\"the wind whispered\").\n- **Alliteration**: repeated starting sounds (\"Peter Piper picked\").\n- **Onomatopoeia**: words that sound like what they mean (\"buzz,\" \"sizzle\").\n- **Hyperbole**: extreme exaggeration (\"I've told you a million times\").\n- **Irony**: the opposite of what is expected.\n\n## Poetry forms\n- **Haiku**: Japanese form with lines of **5, 7 and 5 syllables**.\n- **Sonnet**: **14 lines**, often in iambic pentameter.\n- **Limerick**: a funny five-line poem with an AABBA rhyme.",
+      "keyFacts": [
+        "A simile uses 'like' or 'as'; a metaphor compares directly.",
+        "A haiku has three lines of 5, 7 and 5 syllables.",
+        "A sonnet has 14 lines.",
+        "The protagonist is the main character; the antagonist opposes them.",
+        "Onomatopoeia is a word that imitates a sound, like 'buzz'."
+      ]
+    },
+    {
       "id": "lit-shakespeare",
       "title": "Shakespeare’s Greatest Hits",
       "topic": "British Literature",
@@ -19,6 +33,21 @@
       ]
     },
     {
+      "id": "lit-british-novels",
+      "title": "Great British Novels",
+      "topic": "British Literature",
+      "difficulty": "medium",
+      "body": "British novels from the 1800s and 1900s are some of the most common quiz bowl answers.\n\n- **Charles Dickens** wrote about poor children and London life: **Oliver Twist** (\"Please, sir, I want some more\"), **A Christmas Carol** (Ebenezer **Scrooge**, Tiny Tim, Marley's ghost), **Great Expectations** (the orphan **Pip** and Miss Havisham) and **A Tale of Two Cities** (\"It was the best of times, it was the worst of times,\" set in London and Paris during the French Revolution).\n- **Jane Austen** wrote **Pride and Prejudice**, about Elizabeth Bennet and Mr. Darcy.\n- **Mary Shelley** wrote **Frankenstein** (1818). Victor Frankenstein is the scientist, *not* the creature.\n- **Robert Louis Stevenson** wrote **Treasure Island** (Jim Hawkins and pirate Long John Silver) and **Strange Case of Dr Jekyll and Mr Hyde**.\n- **Arthur Conan Doyle** created detective **Sherlock Holmes**, who lives at 221B Baker Street with Dr. Watson.\n- **George Orwell** wrote **Animal Farm** (pigs Napoleon and Snowball take over a farm; \"All animals are equal, but some animals are more equal than others\") and **1984** (Big Brother is watching you).\n- **William Golding** wrote **Lord of the Flies**: boys stranded on an island, with Ralph, Piggy, Jack and a conch shell.\n\n**Tip:** Dickens questions often start with minor characters. Learn one side character per book.",
+      "keyFacts": [
+        "Ebenezer Scrooge is the miser in A Christmas Carol.",
+        "Pip is the orphan hero of Great Expectations.",
+        "Victor Frankenstein is the scientist; the creature has no name.",
+        "Sherlock Holmes lives at 221B Baker Street.",
+        "In Animal Farm, the pig Napoleon becomes a dictator.",
+        "Ralph and Piggy use a conch shell in Lord of the Flies."
+      ]
+    },
+    {
       "id": "lit-american-novels",
       "title": "Classic American Novels",
       "topic": "American Literature",
@@ -30,6 +59,77 @@
         "Buck is the dog in The Call of the Wild.",
         "Atticus Finch is Scout’s father in To Kill a Mockingbird.",
         "Ponyboy Curtis narrates The Outsiders."
+      ]
+    },
+    {
+      "id": "lit-american-classics",
+      "title": "American Classics: Hawthorne to Steinbeck",
+      "topic": "American Literature",
+      "difficulty": "medium",
+      "body": "These American books show up at every level of quiz bowl.\n\n- **Washington Irving**: **\"The Legend of Sleepy Hollow\"** (schoolteacher **Ichabod Crane** and the Headless Horseman) and **\"Rip Van Winkle\"**, who sleeps for 20 years.\n- **Nathaniel Hawthorne**: **The Scarlet Letter**. In Puritan Boston, **Hester Prynne** must wear a red letter **\"A.\"** Her daughter is Pearl.\n- **Herman Melville**: **Moby-Dick**. It begins \"Call me Ishmael.\" **Captain Ahab** of the ship *Pequod* hunts a white whale that took his leg.\n- **John Steinbeck**: **Of Mice and Men** (George and Lennie dream of owning a farm) and **The Grapes of Wrath** (the Joad family flees the Dust Bowl for California).\n- **F. Scott Fitzgerald**: **The Great Gatsby**, narrated by **Nick Carraway**. Jay Gatsby stares at a **green light** across the water.\n- **Ray Bradbury**: **Fahrenheit 451**. Fireman **Guy Montag** burns books; the title is the temperature at which paper supposedly burns.\n- **Jack London**: **White Fang** (the opposite journey of *The Call of the Wild*: a wild wolf-dog becomes tame).",
+      "keyFacts": [
+        "Hester Prynne wears a scarlet 'A' in The Scarlet Letter.",
+        "Moby-Dick begins 'Call me Ishmael'; Captain Ahab hunts the whale.",
+        "George and Lennie are the friends in Of Mice and Men.",
+        "Nick Carraway narrates The Great Gatsby.",
+        "Guy Montag is the book-burning fireman in Fahrenheit 451."
+      ]
+    },
+    {
+      "id": "lit-poetry",
+      "title": "American Poets",
+      "topic": "Poetry",
+      "difficulty": "medium",
+      "body": "Poetry questions usually quote a famous line or describe a poem's subject.\n\n- **Robert Frost** (New England): **\"The Road Not Taken\"** (\"Two roads diverged in a yellow wood\") and **\"Stopping by Woods on a Snowy Evening\"** (\"And miles to go before I sleep\"). He read a poem at John F. Kennedy's inauguration.\n- **Emily Dickinson** (Amherst, Massachusetts): wrote nearly 1,800 short poems full of **dashes**, but fewer than a dozen were published while she lived. Famous lines: \"Because I could not stop for Death,\" and \"'Hope' is the thing with feathers.\"\n- **Edgar Allan Poe**: **\"The Raven\"**, where a bird repeats \"**Nevermore**.\" He also wrote spooky stories like **\"The Tell-Tale Heart\"** and is called the father of the detective story.\n- **Walt Whitman**: **Leaves of Grass** and **\"O Captain! My Captain!\"**, a poem mourning **Abraham Lincoln**. He wrote in **free verse** (no regular rhyme or meter).\n- **Henry Wadsworth Longfellow**: **\"Paul Revere's Ride\"** (\"Listen, my children, and you shall hear\") and **The Song of Hiawatha**.\n- **Langston Hughes**: leader of the **Harlem Renaissance**. His poem \"Harlem\" asks, \"What happens to a dream deferred?\"\n- **Maya Angelou**: \"Still I Rise\" and the memoir **I Know Why the Caged Bird Sings**.",
+      "keyFacts": [
+        "Robert Frost wrote 'The Road Not Taken'.",
+        "Emily Dickinson used many dashes and lived in Amherst, Massachusetts.",
+        "The raven in Poe's poem says 'Nevermore'.",
+        "Walt Whitman's 'O Captain! My Captain!' mourns Abraham Lincoln.",
+        "Langston Hughes was a leader of the Harlem Renaissance."
+      ]
+    },
+    {
+      "id": "lit-fantasy",
+      "title": "Fantasy and Classic Children's Books",
+      "topic": "Fantasy and Children's Books",
+      "difficulty": "easy",
+      "body": "Many quiz bowl favorites are fantasy stories you may have already read.\n\n- **J. R. R. Tolkien**: **The Hobbit** (Bilbo Baggins, the wizard Gandalf and the dragon **Smaug**) and **The Lord of the Rings** (Frodo carries the One Ring to Mount Doom).\n- **C. S. Lewis**: **The Chronicles of Narnia**. In *The Lion, the Witch and the Wardrobe*, the four **Pevensie** children (Peter, Susan, Edmund, Lucy) enter Narnia through a wardrobe. **Aslan** is the lion; the **White Witch** makes it \"always winter and never Christmas.\"\n- **Lewis Carroll**: **Alice's Adventures in Wonderland**: the White Rabbit, the Cheshire Cat, the Mad Hatter and the Queen of Hearts (\"Off with her head!\").\n- **L. Frank Baum**: **The Wonderful Wizard of Oz**: Dorothy, the Scarecrow, the Tin Woodman and the Cowardly Lion follow the yellow brick road to the Emerald City. (In the book, her slippers are silver, not ruby.)\n- **J. M. Barrie**: **Peter Pan**: Wendy, Tinker Bell, Captain Hook and Neverland.\n- **Madeleine L'Engle**: **A Wrinkle in Time**: Meg Murry travels by \"tesseract\" to rescue her father.\n- **Roald Dahl**: **Charlie and the Chocolate Factory**, **Matilda**, **James and the Giant Peach** and **The BFG**.\n- **J. K. Rowling**: the **Harry Potter** series, starting at Hogwarts School of Witchcraft and Wizardry.",
+      "keyFacts": [
+        "Smaug is the dragon in The Hobbit.",
+        "Aslan the lion rules Narnia; the Pevensies enter through a wardrobe.",
+        "Lewis Carroll wrote Alice's Adventures in Wonderland.",
+        "Dorothy's slippers are silver in L. Frank Baum's book.",
+        "Meg Murry travels by tesseract in A Wrinkle in Time.",
+        "Roald Dahl wrote Matilda and Charlie and the Chocolate Factory."
+      ]
+    },
+    {
+      "id": "lit-middle-grade",
+      "title": "Award-Winning Middle Grade Novels",
+      "topic": "Middle Grade and Young Adult",
+      "difficulty": "easy",
+      "body": "Middle school tournaments love books written for readers your age. Many have won the **Newbery Medal**, the top American award for children's books.\n\n| Book | Author | Main character and story |\n|---|---|---|\n| **The Giver** | Lois Lowry | Jonas becomes the Receiver of Memory in a community without color or pain |\n| **Number the Stars** | Lois Lowry | Annemarie helps her Jewish friend Ellen escape Nazi-occupied Denmark |\n| **Hatchet** | Gary Paulsen | Brian Robeson survives alone in the Canadian wilderness after a plane crash |\n| **Holes** | Louis Sachar | Stanley Yelnats digs holes at Camp Green Lake |\n| **Bridge to Terabithia** | Katherine Paterson | Jess and Leslie invent a secret kingdom in the woods |\n| **Island of the Blue Dolphins** | Scott O'Dell | Karana lives alone on an island off California |\n| **Where the Red Fern Grows** | Wilson Rawls | Billy raises two hounds, Old Dan and Little Ann |\n| **Wonder** | R. J. Palacio | Auggie Pullman starts fifth grade after years of homeschooling |\n| **Charlotte's Web** | E. B. White | The spider Charlotte saves the pig Wilbur by writing words in her web |\n\n**Tip:** Stanley Yelnats's name is a palindrome: it reads the same backward.",
+      "keyFacts": [
+        "Jonas is the Receiver of Memory in The Giver by Lois Lowry.",
+        "Brian Robeson survives with only a hatchet in Gary Paulsen's novel.",
+        "Stanley Yelnats digs holes at Camp Green Lake.",
+        "Charlotte writes 'Some Pig' in her web to save Wilbur.",
+        "The Newbery Medal honors the best American children's book each year."
+      ]
+    },
+    {
+      "id": "lit-world",
+      "title": "World Literature",
+      "topic": "World Literature",
+      "difficulty": "hard",
+      "body": "These books were written outside Britain and the United States but are famous everywhere.\n\n- **Miguel de Cervantes** (Spain): **Don Quixote**. An old man from La Mancha reads too many knight stories, attacks **windmills** thinking they are giants, and rides with his squire **Sancho Panza**.\n- **Victor Hugo** (France): **Les Misérables** (ex-convict **Jean Valjean** is chased by Inspector **Javert**) and **The Hunchback of Notre-Dame** (the bell-ringer **Quasimodo** and Esmeralda).\n- **Alexandre Dumas** (France): **The Three Musketeers** (d'Artagnan joins Athos, Porthos and Aramis: \"All for one, and one for all!\") and **The Count of Monte Cristo** (Edmond Dantès escapes prison and takes revenge).\n- **Jules Verne** (France): **Twenty Thousand Leagues Under the Seas** (Captain **Nemo** and the submarine *Nautilus*) and **Around the World in Eighty Days** (Phileas Fogg and his servant Passepartout).\n- **Hans Christian Andersen** (Denmark): fairy tales like \"The Little Mermaid,\" \"The Ugly Duckling\" and \"The Emperor's New Clothes.\"\n- **The Brothers Grimm** (Germany): collected folk tales such as \"Hansel and Gretel\" and \"Rapunzel.\"\n- **Anne Frank** (Netherlands): **The Diary of a Young Girl**, written while hiding from the Nazis in the \"Secret Annex\" in Amsterdam.\n- **Homer** (ancient Greece): the epic poems the **Iliad** and the **Odyssey**. (See the Mythology lessons for more.)",
+      "keyFacts": [
+        "Don Quixote attacks windmills; his squire is Sancho Panza.",
+        "Jean Valjean is chased by Javert in Les Misérables.",
+        "Captain Nemo commands the Nautilus in Jules Verne's novel.",
+        "Hans Christian Andersen was Danish and wrote 'The Ugly Duckling'.",
+        "Anne Frank hid in the Secret Annex in Amsterdam."
       ]
     }
   ],
@@ -53,6 +153,509 @@
       "powerIndex": 111,
       "answer": "To Kill a Mockingbird",
       "acceptable": []
+    },
+    {
+      "id": "lit-t-003",
+      "topic": "Literary Elements",
+      "lessonId": "lit-terms",
+      "difficulty": "easy",
+      "question": "This device appears in the phrase \"the wind howled through the trees,\" since wind cannot really howl. Robert Frost's woods might \"whisper\" thanks to this device. For 10 points, name this figure of speech that gives human qualities to non-human things.",
+      "powerIndex": 153,
+      "answer": "personification",
+      "acceptable": []
+    },
+    {
+      "id": "lit-t-004",
+      "topic": "Literary Elements",
+      "lessonId": "lit-terms",
+      "difficulty": "easy",
+      "question": "Words like \"sizzle,\" \"crash\" and \"buzz\" are examples of this device. Comic books use it in sound effects like \"POW\" and \"BAM.\" For 10 points, name this term for a word that imitates the sound it describes.",
+      "powerIndex": 119,
+      "answer": "onomatopoeia",
+      "acceptable": []
+    },
+    {
+      "id": "lit-t-005",
+      "topic": "Literary Elements",
+      "lessonId": "lit-terms",
+      "difficulty": "medium",
+      "question": "Basho wrote a famous one about a frog jumping into an old pond. This form traditionally includes a seasonal word called a kigo. Its three lines have 5, 7 and 5 syllables. For 10 points, name this short Japanese poetry form.",
+      "powerIndex": 131,
+      "answer": "haiku",
+      "acceptable": []
+    },
+    {
+      "id": "lit-t-006",
+      "topic": "Literary Elements",
+      "lessonId": "lit-terms",
+      "difficulty": "medium",
+      "question": "Shakespeare wrote 154 of these poems, and Petrarch popularized an Italian version of them. They are usually written in iambic pentameter, and the Shakespearean kind ends with a rhyming couplet. For 10 points, name this kind of 14-line poem.",
+      "powerIndex": 184,
+      "answer": "sonnet",
+      "acceptable": []
+    },
+    {
+      "id": "lit-t-007",
+      "topic": "Literary Elements",
+      "lessonId": "lit-terms",
+      "difficulty": "hard",
+      "question": "In O. Henry's \"The Gift of the Magi,\" a wife sells her hair to buy a watch chain while her husband sells his watch to buy her combs, an example of the situational type of this device. In the dramatic type, the audience knows something a character does not. For 10 points, name this device in which the opposite of what is expected happens.",
+      "powerIndex": 209,
+      "answer": "irony",
+      "acceptable": [
+        "situational irony",
+        "dramatic irony"
+      ]
+    },
+    {
+      "id": "lit-t-008",
+      "topic": "British Literature",
+      "lessonId": "lit-shakespeare",
+      "difficulty": "easy",
+      "question": "In this play, the heroine fakes her own death with a potion given to her by Friar Laurence. Mercutio is killed by Tybalt in a street fight in Verona. For 10 points, name this Shakespeare tragedy about two \"star-crossed lovers\" from the Montague and Capulet families.",
+      "powerIndex": 113,
+      "answer": "Romeo and Juliet",
+      "acceptable": []
+    },
+    {
+      "id": "lit-t-009",
+      "topic": "British Literature",
+      "lessonId": "lit-shakespeare",
+      "difficulty": "medium",
+      "question": "This character's friends Rosencrantz and Guildenstern are sent to spy on him. He stages a play called \"The Mousetrap\" and holds the skull of a jester named Yorick. For 10 points, name this Prince of Denmark who says \"To be, or not to be.\"",
+      "powerIndex": 155,
+      "answer": "Hamlet",
+      "acceptable": []
+    },
+    {
+      "id": "lit-t-010",
+      "topic": "British Literature",
+      "lessonId": "lit-shakespeare",
+      "difficulty": "medium",
+      "question": "In this play, a group of workmen rehearse a play about Pyramus and Thisbe. The fairy king Oberon quarrels with Titania, and the mischievous Puck gives Nick Bottom the head of a donkey. For 10 points, name this Shakespeare comedy set mostly in a forest near Athens.",
+      "powerIndex": 110,
+      "answer": "A Midsummer Night's Dream",
+      "acceptable": []
+    },
+    {
+      "id": "lit-t-011",
+      "topic": "British Literature",
+      "lessonId": "lit-shakespeare",
+      "difficulty": "hard",
+      "question": "This play's title character is warned to \"beware the Ides of March.\" Mark Antony gives a speech beginning \"Friends, Romans, countrymen,\" and the dying title character asks \"Et tu, Brute?\" For 10 points, name this Shakespeare play about a Roman leader stabbed by senators.",
+      "powerIndex": 123,
+      "answer": "Julius Caesar",
+      "acceptable": [
+        "The Tragedy of Julius Caesar"
+      ]
+    },
+    {
+      "id": "lit-t-012",
+      "topic": "British Literature",
+      "lessonId": "lit-british-novels",
+      "difficulty": "easy",
+      "question": "In this story, a man is visited by his dead partner Jacob Marley, who is wrapped in chains. He is shown the Cratchit family and the sickly Tiny Tim. For 10 points, name this Charles Dickens story in which Ebenezer Scrooge is visited by three ghosts.",
+      "powerIndex": 138,
+      "answer": "A Christmas Carol",
+      "acceptable": []
+    },
+    {
+      "id": "lit-t-013",
+      "topic": "British Literature",
+      "lessonId": "lit-british-novels",
+      "difficulty": "medium",
+      "question": "This character was raised by his sister and her husband, the blacksmith Joe Gargery. He helps the escaped convict Magwitch and falls for the cold Estella, who lives with Miss Havisham. For 10 points, name this orphan narrator of Dickens's Great Expectations.",
+      "powerIndex": 169,
+      "answer": "Pip",
+      "acceptable": [
+        "Philip Pirrip"
+      ]
+    },
+    {
+      "id": "lit-t-014",
+      "topic": "British Literature",
+      "lessonId": "lit-british-novels",
+      "difficulty": "medium",
+      "question": "In this novel, the horse Boxer works himself nearly to death and keeps saying \"I will work harder.\" The commandment \"Four legs good, two legs bad\" is changed after the pigs Napoleon and Snowball take over. For 10 points, name this George Orwell novel about animals that overthrow Farmer Jones.",
+      "powerIndex": 172,
+      "answer": "Animal Farm",
+      "acceptable": []
+    },
+    {
+      "id": "lit-t-015",
+      "topic": "British Literature",
+      "lessonId": "lit-british-novels",
+      "difficulty": "medium",
+      "question": "This character's friend Dr. Watson writes about his adventures, and his archenemy is Professor Moriarty. He solved The Hound of the Baskervilles and lives at 221B Baker Street. For 10 points, name this detective created by Arthur Conan Doyle.",
+      "powerIndex": 131,
+      "answer": "Sherlock Holmes",
+      "acceptable": [
+        "Holmes"
+      ]
+    },
+    {
+      "id": "lit-t-016",
+      "topic": "British Literature",
+      "lessonId": "lit-british-novels",
+      "difficulty": "hard",
+      "question": "In this novel, a boy's glasses are used to start a fire, and a pig's head on a stick is called the title figure. Ralph is elected leader because he blew a conch shell. For 10 points, name this William Golding novel about schoolboys stranded on an island.",
+      "powerIndex": 154,
+      "answer": "Lord of the Flies",
+      "acceptable": []
+    },
+    {
+      "id": "lit-t-017",
+      "topic": "British Literature",
+      "lessonId": "lit-british-novels",
+      "difficulty": "hard",
+      "question": "This book's narrator Robert Walton meets a dying man in the Arctic. The man tells how he built a creature from body parts that later kills his brother William and his bride Elizabeth. For 10 points, name this 1818 novel by Mary Shelley.",
+      "powerIndex": 172,
+      "answer": "Frankenstein",
+      "acceptable": [
+        "Frankenstein; or, The Modern Prometheus"
+      ]
+    },
+    {
+      "id": "lit-t-018",
+      "topic": "American Literature",
+      "lessonId": "lit-american-novels",
+      "difficulty": "easy",
+      "question": "In this novel, a boy fakes his own death and hides on Jackson's Island. He and a man escaping slavery named Jim float down the Mississippi River on a raft. For 10 points, name this Mark Twain novel narrated by a friend of Tom Sawyer.",
+      "powerIndex": 107,
+      "answer": "Adventures of Huckleberry Finn",
+      "acceptable": [
+        "Huckleberry Finn",
+        "Huck Finn"
+      ]
+    },
+    {
+      "id": "lit-t-019",
+      "topic": "American Literature",
+      "lessonId": "lit-american-novels",
+      "difficulty": "easy",
+      "question": "In this novel, one sister burns another's manuscript, and the youngest sister, Amy, later marries Laurie. Beth dies of illness, and Jo becomes a writer. For 10 points, name this Louisa May Alcott novel about the four March sisters.",
+      "powerIndex": 131,
+      "answer": "Little Women",
+      "acceptable": []
+    },
+    {
+      "id": "lit-t-020",
+      "topic": "American Literature",
+      "lessonId": "lit-american-novels",
+      "difficulty": "medium",
+      "question": "This dog's first owner is Judge Miller in California, but he is stolen and sold. He learns \"the law of club and fang,\" pulls a sled for John Thornton, and finally answers the call of the wolves. For 10 points, name this dog in Jack London's The Call of the Wild.",
+      "powerIndex": 140,
+      "answer": "Buck",
+      "acceptable": []
+    },
+    {
+      "id": "lit-t-021",
+      "topic": "American Literature",
+      "lessonId": "lit-american-novels",
+      "difficulty": "medium",
+      "question": "In this novel, Johnny and Ponyboy hide in an abandoned church after Johnny kills a Soc named Bob. Ponyboy's brothers are Darry and Sodapop. For 10 points, name this S. E. Hinton novel about the Greasers.",
+      "powerIndex": 130,
+      "answer": "The Outsiders",
+      "acceptable": []
+    },
+    {
+      "id": "lit-t-022",
+      "topic": "American Literature",
+      "lessonId": "lit-american-classics",
+      "difficulty": "easy",
+      "question": "This character competes with Brom Bones for the hand of Katrina Van Tassel. After a party, he is chased by a rider who throws a pumpkin at him. For 10 points, name this schoolteacher who flees the Headless Horseman in a Washington Irving story.",
+      "powerIndex": 127,
+      "answer": "Ichabod Crane",
+      "acceptable": [
+        "Ichabod"
+      ]
+    },
+    {
+      "id": "lit-t-023",
+      "topic": "American Literature",
+      "lessonId": "lit-american-classics",
+      "difficulty": "medium",
+      "question": "This novel's narrator meets the harpooner Queequeg at an inn in New Bedford. Captain Ahab nails a gold coin to the mast of the Pequod. For 10 points, name this Herman Melville novel that begins \"Call me Ishmael.\"",
+      "powerIndex": 126,
+      "answer": "Moby-Dick",
+      "acceptable": [
+        "The Whale"
+      ]
+    },
+    {
+      "id": "lit-t-024",
+      "topic": "American Literature",
+      "lessonId": "lit-american-classics",
+      "difficulty": "medium",
+      "question": "This woman refuses to name the father of her daughter Pearl, who is the minister Arthur Dimmesdale. She is shamed on a scaffold in Puritan Boston. For 10 points, name this heroine of The Scarlet Letter who must wear a red \"A.\"",
+      "powerIndex": 138,
+      "answer": "Hester Prynne",
+      "acceptable": [
+        "Hester"
+      ]
+    },
+    {
+      "id": "lit-t-025",
+      "topic": "American Literature",
+      "lessonId": "lit-american-classics",
+      "difficulty": "medium",
+      "question": "In this novel, the dog Candy owns is shot because it is old. One character accidentally kills Curley's wife, and the two main characters dream of tending rabbits on their own farm. For 10 points, name this John Steinbeck novel about George and Lennie.",
+      "powerIndex": 153,
+      "answer": "Of Mice and Men",
+      "acceptable": []
+    },
+    {
+      "id": "lit-t-026",
+      "topic": "American Literature",
+      "lessonId": "lit-american-classics",
+      "difficulty": "hard",
+      "question": "In this novel, the Mechanical Hound hunts people down, and a teenager named Clarisse asks the main character if he is happy. Guy Montag is a fireman who burns books. For 10 points, name this Ray Bradbury novel named for a temperature.",
+      "powerIndex": 128,
+      "answer": "Fahrenheit 451",
+      "acceptable": []
+    },
+    {
+      "id": "lit-t-027",
+      "topic": "American Literature",
+      "lessonId": "lit-american-classics",
+      "difficulty": "hard",
+      "question": "This novel is set in the towns of West Egg and East Egg on Long Island. A billboard shows the eyes of Doctor T. J. Eckleburg, and the title character stares at a green light at the end of Daisy's dock. For 10 points, name this F. Scott Fitzgerald novel narrated by Nick Carraway.",
+      "powerIndex": 161,
+      "answer": "The Great Gatsby",
+      "acceptable": []
+    },
+    {
+      "id": "lit-t-028",
+      "topic": "Poetry",
+      "lessonId": "lit-poetry",
+      "difficulty": "easy",
+      "question": "In this poem, the speaker is \"weak and weary\" over a \"volume of forgotten lore\" while mourning the lost Lenore. A bird perches on a bust of Pallas and repeats one word. For 10 points, name this Edgar Allan Poe poem in which a black bird says \"Nevermore.\"",
+      "powerIndex": 139,
+      "answer": "\"The Raven\"",
+      "acceptable": []
+    },
+    {
+      "id": "lit-t-029",
+      "topic": "Poetry",
+      "lessonId": "lit-poetry",
+      "difficulty": "easy",
+      "question": "This poet wrote \"Mending Wall,\" which says \"Good fences make good neighbors.\" In another poem, he stops in the woods on \"the darkest evening of the year.\" For 10 points, name this New England poet of \"The Road Not Taken.\"",
+      "powerIndex": 132,
+      "answer": "Robert Frost",
+      "acceptable": [
+        "Frost"
+      ]
+    },
+    {
+      "id": "lit-t-030",
+      "topic": "Poetry",
+      "lessonId": "lit-poetry",
+      "difficulty": "medium",
+      "question": "This poet wrote that \"Hope\" is \"the thing with feathers.\" Most of her nearly 1,800 poems were found by her sister after she died, and they use lots of dashes. For 10 points, name this poet from Amherst who wrote \"Because I could not stop for Death.\"",
+      "powerIndex": 150,
+      "answer": "Emily Dickinson",
+      "acceptable": [
+        "Dickinson"
+      ]
+    },
+    {
+      "id": "lit-t-031",
+      "topic": "Poetry",
+      "lessonId": "lit-poetry",
+      "difficulty": "medium",
+      "question": "This poet wrote \"I, Too\" and asked \"What happens to a dream deferred?\" His poem \"The Negro Speaks of Rivers\" mentions the Euphrates and the Mississippi. For 10 points, name this leading poet of the Harlem Renaissance.",
+      "powerIndex": 139,
+      "answer": "Langston Hughes",
+      "acceptable": [
+        "Hughes"
+      ]
+    },
+    {
+      "id": "lit-t-032",
+      "topic": "Poetry",
+      "lessonId": "lit-poetry",
+      "difficulty": "hard",
+      "question": "This poet's collection Leaves of Grass includes \"Song of Myself.\" He worked as a nurse during the Civil War and wrote \"O Captain! My Captain!\" after the death of Abraham Lincoln. For 10 points, name this American poet known for free verse.",
+      "powerIndex": 132,
+      "answer": "Walt Whitman",
+      "acceptable": [
+        "Whitman"
+      ]
+    },
+    {
+      "id": "lit-t-033",
+      "topic": "Fantasy and Children's Books",
+      "lessonId": "lit-fantasy",
+      "difficulty": "easy",
+      "question": "In this book, a creature named Gollum asks riddles in the dark and loses a magic ring. The wizard Gandalf sends the title character on a quest with thirteen dwarves to face the dragon Smaug. For 10 points, name this J. R. R. Tolkien book about Bilbo Baggins.",
+      "powerIndex": 183,
+      "answer": "The Hobbit",
+      "acceptable": [
+        "The Hobbit, or There and Back Again"
+      ]
+    },
+    {
+      "id": "lit-t-034",
+      "topic": "Fantasy and Children's Books",
+      "lessonId": "lit-fantasy",
+      "difficulty": "easy",
+      "question": "In this book, Edmund betrays his siblings for Turkish Delight. Mr. Tumnus the faun meets Lucy, and the White Witch makes it always winter. For 10 points, name this C. S. Lewis book in which the Pevensie children meet the lion Aslan.",
+      "powerIndex": 130,
+      "answer": "The Lion, the Witch and the Wardrobe",
+      "acceptable": []
+    },
+    {
+      "id": "lit-t-035",
+      "topic": "Fantasy and Children's Books",
+      "lessonId": "lit-fantasy",
+      "difficulty": "medium",
+      "question": "In this book, the title character plays croquet with flamingos and meets a caterpillar smoking a hookah. She attends a tea party with the Mad Hatter and the March Hare. For 10 points, name this Lewis Carroll book in which a girl follows a White Rabbit.",
+      "powerIndex": 156,
+      "answer": "Alice's Adventures in Wonderland",
+      "acceptable": [
+        "Alice in Wonderland"
+      ]
+    },
+    {
+      "id": "lit-t-036",
+      "topic": "Fantasy and Children's Books",
+      "lessonId": "lit-fantasy",
+      "difficulty": "medium",
+      "question": "In this book, Charles Wallace and Calvin O'Keefe join the main character on a trip to the planet Camazotz, which is ruled by the brain called IT. Mrs. Whatsit explains travel by tesseract. For 10 points, name this Madeleine L'Engle novel about Meg Murry.",
+      "powerIndex": 177,
+      "answer": "A Wrinkle in Time",
+      "acceptable": []
+    },
+    {
+      "id": "lit-t-037",
+      "topic": "Fantasy and Children's Books",
+      "lessonId": "lit-fantasy",
+      "difficulty": "hard",
+      "question": "In this book, a girl causes a glass of water to tip over with her mind. Her teacher Miss Honey is bullied by the headmistress Miss Trunchbull. For 10 points, name this Roald Dahl novel about a brilliant girl who loves to read.",
+      "powerIndex": 125,
+      "answer": "Matilda",
+      "acceptable": []
+    },
+    {
+      "id": "lit-t-038",
+      "topic": "Middle Grade and Young Adult",
+      "lessonId": "lit-middle-grade",
+      "difficulty": "easy",
+      "question": "This novel's main character carries Kate Barlow's lipstick tube and finds a buried chest. He climbs a mountain shaped like a thumb with his friend Zero. For 10 points, name this Louis Sachar novel in which Stanley Yelnats is sent to Camp Green Lake.",
+      "powerIndex": 146,
+      "answer": "Holes",
+      "acceptable": []
+    },
+    {
+      "id": "lit-t-039",
+      "topic": "Middle Grade and Young Adult",
+      "lessonId": "lit-middle-grade",
+      "difficulty": "easy",
+      "question": "This character uses a gift from his mother to make fire from sparks. He survives a moose attack and a tornado after his pilot dies of a heart attack. For 10 points, name this boy who survives in the Canadian wilderness in Gary Paulsen's Hatchet.",
+      "powerIndex": 135,
+      "answer": "Brian Robeson",
+      "acceptable": [
+        "Brian"
+      ]
+    },
+    {
+      "id": "lit-t-040",
+      "topic": "Middle Grade and Young Adult",
+      "lessonId": "lit-middle-grade",
+      "difficulty": "medium",
+      "question": "In this novel, people take a pill each morning to stop \"stirrings,\" and anyone who breaks the rules is \"released.\" At the Ceremony of Twelve, the main character is chosen to receive memories. For 10 points, name this Lois Lowry novel about Jonas.",
+      "powerIndex": 181,
+      "answer": "The Giver",
+      "acceptable": []
+    },
+    {
+      "id": "lit-t-041",
+      "topic": "Middle Grade and Young Adult",
+      "lessonId": "lit-middle-grade",
+      "difficulty": "medium",
+      "question": "In this book, Templeton the rat helps collect words like \"Terrific\" and \"Radiant.\" Fern Arable saves a runt pig named Wilbur. For 10 points, name this E. B. White book about a spider who writes in her web.",
+      "powerIndex": 117,
+      "answer": "Charlotte's Web",
+      "acceptable": []
+    },
+    {
+      "id": "lit-t-042",
+      "topic": "Middle Grade and Young Adult",
+      "lessonId": "lit-middle-grade",
+      "difficulty": "medium",
+      "question": "In this novel, a boy runs footraces at recess and shares art lessons with Miss Edmunds. He and his friend Leslie Burke swing on a rope across a creek to reach their imaginary kingdom. For 10 points, name this Katherine Paterson novel about Jess Aarons.",
+      "powerIndex": 174,
+      "answer": "Bridge to Terabithia",
+      "acceptable": []
+    },
+    {
+      "id": "lit-t-043",
+      "topic": "Middle Grade and Young Adult",
+      "lessonId": "lit-middle-grade",
+      "difficulty": "hard",
+      "question": "In this novel, a girl's sister Kirsti is given a seashell by a German soldier, and the family pretends a coffin holds Great-aunt Birte. Annemarie helps her friend Ellen Rosen escape to Sweden. For 10 points, name this Lois Lowry novel set in Nazi-occupied Denmark.",
+      "powerIndex": 162,
+      "answer": "Number the Stars",
+      "acceptable": []
+    },
+    {
+      "id": "lit-t-044",
+      "topic": "World Literature",
+      "lessonId": "lit-world",
+      "difficulty": "medium",
+      "question": "This character's horse is named Rocinante, and he chooses a farm girl named Dulcinea as his lady. He attacks windmills, thinking they are giants. For 10 points, name this man from La Mancha who rides with his squire Sancho Panza in a novel by Cervantes.",
+      "powerIndex": 108,
+      "answer": "Don Quixote",
+      "acceptable": [
+        "Don Quixote de la Mancha",
+        "Alonso Quixano"
+      ]
+    },
+    {
+      "id": "lit-t-045",
+      "topic": "World Literature",
+      "lessonId": "lit-world",
+      "difficulty": "medium",
+      "question": "This character is imprisoned for 19 years for stealing bread and later becomes mayor under the name Monsieur Madeleine. He adopts the orphan Cosette and is hunted by Inspector Javert. For 10 points, name this hero of Victor Hugo's Les Misérables.",
+      "powerIndex": 140,
+      "answer": "Jean Valjean",
+      "acceptable": [
+        "Valjean"
+      ]
+    },
+    {
+      "id": "lit-t-046",
+      "topic": "World Literature",
+      "lessonId": "lit-world",
+      "difficulty": "hard",
+      "question": "This character's submarine runs on electricity and battles a giant squid. Professor Aronnax and the harpooner Ned Land become his prisoners aboard the Nautilus. For 10 points, name this captain created by Jules Verne in Twenty Thousand Leagues Under the Seas.",
+      "powerIndex": 150,
+      "answer": "Captain Nemo",
+      "acceptable": [
+        "Nemo"
+      ]
+    },
+    {
+      "id": "lit-t-047",
+      "topic": "World Literature",
+      "lessonId": "lit-world",
+      "difficulty": "hard",
+      "question": "In this novel, a young Gascon arrives in Paris and fights duels against Cardinal Richelieu's guards. He befriends Athos, Porthos and Aramis. For 10 points, name this Alexandre Dumas novel whose heroes shout \"All for one, and one for all!\"",
+      "powerIndex": 120,
+      "answer": "The Three Musketeers",
+      "acceptable": []
+    },
+    {
+      "id": "lit-t-048",
+      "topic": "World Literature",
+      "lessonId": "lit-world",
+      "difficulty": "hard",
+      "question": "This author's fairy tales include \"The Snow Queen\" and \"The Steadfast Tin Soldier.\" In one of his stories, a weavers' trick is exposed when a child shouts that the Emperor is wearing nothing. For 10 points, name this Danish author of \"The Ugly Duckling.\"",
+      "powerIndex": 163,
+      "answer": "Hans Christian Andersen",
+      "acceptable": [
+        "Andersen"
+      ]
     }
   ],
   "bonuses": [
@@ -76,6 +679,531 @@
         {
           "question": "This author wrote The Call of the Wild, about a dog named Buck.",
           "answer": "Jack London",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "lit-b-002",
+      "topic": "Literary Elements",
+      "lessonId": "lit-terms",
+      "difficulty": "easy",
+      "leadin": "Identify these types of figurative language, for 10 points each.",
+      "parts": [
+        {
+          "question": "\"Her smile was as bright as the sun\" uses this comparison with \"like\" or \"as.\"",
+          "answer": "simile",
+          "acceptable": []
+        },
+        {
+          "question": "\"Time is a thief\" uses this direct comparison without \"like\" or \"as.\"",
+          "answer": "metaphor",
+          "acceptable": []
+        },
+        {
+          "question": "\"I'm so hungry I could eat a horse\" uses this kind of extreme exaggeration.",
+          "answer": "hyperbole",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "lit-b-003",
+      "topic": "Literary Elements",
+      "lessonId": "lit-terms",
+      "difficulty": "medium",
+      "leadin": "Answer these questions about the parts of a story, for 10 points each.",
+      "parts": [
+        {
+          "question": "This term names the main character of a story.",
+          "answer": "protagonist",
+          "acceptable": []
+        },
+        {
+          "question": "This term names the turning point, or moment of highest tension, in a plot.",
+          "answer": "climax",
+          "acceptable": []
+        },
+        {
+          "question": "This term names hints an author gives about events that will happen later.",
+          "answer": "foreshadowing",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "lit-b-004",
+      "topic": "British Literature",
+      "lessonId": "lit-shakespeare",
+      "difficulty": "medium",
+      "leadin": "Name these Shakespeare characters, for 10 points each.",
+      "parts": [
+        {
+          "question": "This wife of a Scottish general sleepwalks and cries \"Out, damned spot!\"",
+          "answer": "Lady Macbeth",
+          "acceptable": []
+        },
+        {
+          "question": "This sprite serves Prospero in The Tempest.",
+          "answer": "Ariel",
+          "acceptable": []
+        },
+        {
+          "question": "This young woman in Hamlet goes mad and drowns.",
+          "answer": "Ophelia",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "lit-b-005",
+      "topic": "British Literature",
+      "lessonId": "lit-british-novels",
+      "difficulty": "medium",
+      "leadin": "Name these Charles Dickens novels, for 10 points each.",
+      "parts": [
+        {
+          "question": "This novel begins \"It was the best of times, it was the worst of times.\"",
+          "answer": "A Tale of Two Cities",
+          "acceptable": []
+        },
+        {
+          "question": "In this novel, an orphan asks for more gruel and joins Fagin's gang of pickpockets.",
+          "answer": "Oliver Twist",
+          "acceptable": []
+        },
+        {
+          "question": "In this novel, Miss Havisham still wears her wedding dress years after being left at the altar.",
+          "answer": "Great Expectations",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "lit-b-006",
+      "topic": "British Literature",
+      "lessonId": "lit-british-novels",
+      "difficulty": "hard",
+      "leadin": "Name these British authors, for 10 points each.",
+      "parts": [
+        {
+          "question": "This author wrote Pride and Prejudice, about Elizabeth Bennet and Mr. Darcy.",
+          "answer": "Jane Austen",
+          "acceptable": [
+            "Austen"
+          ]
+        },
+        {
+          "question": "This Scottish author wrote Treasure Island and Strange Case of Dr Jekyll and Mr Hyde.",
+          "answer": "Robert Louis Stevenson",
+          "acceptable": [
+            "Stevenson"
+          ]
+        },
+        {
+          "question": "This author wrote Animal Farm and 1984.",
+          "answer": "George Orwell",
+          "acceptable": [
+            "Orwell",
+            "Eric Blair"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lit-b-007",
+      "topic": "American Literature",
+      "lessonId": "lit-american-novels",
+      "difficulty": "easy",
+      "leadin": "Answer these questions about To Kill a Mockingbird, for 10 points each.",
+      "parts": [
+        {
+          "question": "Name the lawyer father of Scout and Jem.",
+          "answer": "Atticus Finch",
+          "acceptable": [
+            "Atticus"
+          ]
+        },
+        {
+          "question": "Name the mysterious neighbor who leaves gifts in a tree and saves the children.",
+          "answer": "Boo Radley",
+          "acceptable": [
+            "Arthur Radley",
+            "Boo"
+          ]
+        },
+        {
+          "question": "Name the author of To Kill a Mockingbird.",
+          "answer": "Harper Lee",
+          "acceptable": [
+            "Lee"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lit-b-008",
+      "topic": "American Literature",
+      "lessonId": "lit-american-classics",
+      "difficulty": "medium",
+      "leadin": "Name these American authors, for 10 points each.",
+      "parts": [
+        {
+          "question": "This author wrote \"Rip Van Winkle\" and \"The Legend of Sleepy Hollow.\"",
+          "answer": "Washington Irving",
+          "acceptable": [
+            "Irving"
+          ]
+        },
+        {
+          "question": "This author wrote The Grapes of Wrath, about the Joad family in the Dust Bowl.",
+          "answer": "John Steinbeck",
+          "acceptable": [
+            "Steinbeck"
+          ]
+        },
+        {
+          "question": "This author wrote The Scarlet Letter.",
+          "answer": "Nathaniel Hawthorne",
+          "acceptable": [
+            "Hawthorne"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lit-b-009",
+      "topic": "American Literature",
+      "lessonId": "lit-american-classics",
+      "difficulty": "hard",
+      "leadin": "Answer these questions about Moby-Dick, for 10 points each.",
+      "parts": [
+        {
+          "question": "Name the narrator, who tells us to \"Call me\" by his name.",
+          "answer": "Ishmael",
+          "acceptable": []
+        },
+        {
+          "question": "Name the captain who lost his leg to the white whale.",
+          "answer": "Captain Ahab",
+          "acceptable": [
+            "Ahab"
+          ]
+        },
+        {
+          "question": "Name the whaling ship that Ahab commands.",
+          "answer": "the Pequod",
+          "acceptable": [
+            "Pequod"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lit-b-010",
+      "topic": "Poetry",
+      "lessonId": "lit-poetry",
+      "difficulty": "easy",
+      "leadin": "Name these poems from a line, for 10 points each.",
+      "parts": [
+        {
+          "question": "\"Two roads diverged in a yellow wood.\"",
+          "answer": "\"The Road Not Taken\"",
+          "acceptable": []
+        },
+        {
+          "question": "\"Listen, my children, and you shall hear / Of the midnight ride of...\"",
+          "answer": "\"Paul Revere's Ride\"",
+          "acceptable": []
+        },
+        {
+          "question": "\"Quoth the Raven, 'Nevermore.'\"",
+          "answer": "\"The Raven\"",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "lit-b-011",
+      "topic": "Poetry",
+      "lessonId": "lit-poetry",
+      "difficulty": "medium",
+      "leadin": "Name these poets, for 10 points each.",
+      "parts": [
+        {
+          "question": "This poet wrote \"O Captain! My Captain!\" and Leaves of Grass.",
+          "answer": "Walt Whitman",
+          "acceptable": [
+            "Whitman"
+          ]
+        },
+        {
+          "question": "This poet wrote The Song of Hiawatha and \"Paul Revere's Ride.\"",
+          "answer": "Henry Wadsworth Longfellow",
+          "acceptable": [
+            "Longfellow"
+          ]
+        },
+        {
+          "question": "This poet wrote \"Still I Rise\" and the memoir I Know Why the Caged Bird Sings.",
+          "answer": "Maya Angelou",
+          "acceptable": [
+            "Angelou"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lit-b-012",
+      "topic": "Fantasy and Children's Books",
+      "lessonId": "lit-fantasy",
+      "difficulty": "easy",
+      "leadin": "Answer these questions about The Wonderful Wizard of Oz, for 10 points each.",
+      "parts": [
+        {
+          "question": "Name the girl from Kansas who is carried to Oz by a cyclone.",
+          "answer": "Dorothy Gale",
+          "acceptable": [
+            "Dorothy"
+          ]
+        },
+        {
+          "question": "Name the city Dorothy reaches by following the yellow brick road.",
+          "answer": "Emerald City",
+          "acceptable": [
+            "City of Emeralds"
+          ]
+        },
+        {
+          "question": "Name the author of the book.",
+          "answer": "L. Frank Baum",
+          "acceptable": [
+            "Baum",
+            "Lyman Frank Baum"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lit-b-013",
+      "topic": "Fantasy and Children's Books",
+      "lessonId": "lit-fantasy",
+      "difficulty": "medium",
+      "leadin": "Name these characters from fantasy classics, for 10 points each.",
+      "parts": [
+        {
+          "question": "This pirate captain of Neverland lost his hand to a crocodile.",
+          "answer": "Captain Hook",
+          "acceptable": [
+            "James Hook",
+            "Hook"
+          ]
+        },
+        {
+          "question": "This grinning cat in Wonderland can disappear until only its smile remains.",
+          "answer": "Cheshire Cat",
+          "acceptable": []
+        },
+        {
+          "question": "This hobbit carries the One Ring to Mount Doom in The Lord of the Rings.",
+          "answer": "Frodo Baggins",
+          "acceptable": [
+            "Frodo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lit-b-014",
+      "topic": "Middle Grade and Young Adult",
+      "lessonId": "lit-middle-grade",
+      "difficulty": "easy",
+      "leadin": "Name the authors of these middle grade novels, for 10 points each.",
+      "parts": [
+        {
+          "question": "The Giver and Number the Stars.",
+          "answer": "Lois Lowry",
+          "acceptable": [
+            "Lowry"
+          ]
+        },
+        {
+          "question": "Hatchet.",
+          "answer": "Gary Paulsen",
+          "acceptable": [
+            "Paulsen"
+          ]
+        },
+        {
+          "question": "Holes.",
+          "answer": "Louis Sachar",
+          "acceptable": [
+            "Sachar"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lit-b-015",
+      "topic": "Middle Grade and Young Adult",
+      "lessonId": "lit-middle-grade",
+      "difficulty": "medium",
+      "leadin": "Answer these questions about novels with animal heroes, for 10 points each.",
+      "parts": [
+        {
+          "question": "In Where the Red Fern Grows, Billy's two hounds are Old Dan and this smaller, smarter dog.",
+          "answer": "Little Ann",
+          "acceptable": []
+        },
+        {
+          "question": "In Island of the Blue Dolphins, this girl lives alone on an island for years.",
+          "answer": "Karana",
+          "acceptable": [
+            "Won-a-pa-lei"
+          ]
+        },
+        {
+          "question": "This medal, given each year by the American Library Association, honors the best children's book.",
+          "answer": "Newbery Medal",
+          "acceptable": [
+            "John Newbery Medal"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lit-b-016",
+      "topic": "World Literature",
+      "lessonId": "lit-world",
+      "difficulty": "medium",
+      "leadin": "Name these French authors, for 10 points each.",
+      "parts": [
+        {
+          "question": "This author wrote Les Misérables and The Hunchback of Notre-Dame.",
+          "answer": "Victor Hugo",
+          "acceptable": [
+            "Hugo"
+          ]
+        },
+        {
+          "question": "This author wrote Around the World in Eighty Days.",
+          "answer": "Jules Verne",
+          "acceptable": [
+            "Verne"
+          ]
+        },
+        {
+          "question": "This author wrote The Count of Monte Cristo.",
+          "answer": "Alexandre Dumas",
+          "acceptable": [
+            "Dumas"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lit-b-017",
+      "topic": "World Literature",
+      "lessonId": "lit-world",
+      "difficulty": "hard",
+      "leadin": "Answer these questions about famous books from Europe, for 10 points each.",
+      "parts": [
+        {
+          "question": "Name the gentleman who bets he can travel around the world in 80 days.",
+          "answer": "Phileas Fogg",
+          "acceptable": [
+            "Fogg"
+          ]
+        },
+        {
+          "question": "Name the city where Anne Frank's family hid in the Secret Annex.",
+          "answer": "Amsterdam",
+          "acceptable": []
+        },
+        {
+          "question": "Name the bell-ringer of Notre-Dame who loves Esmeralda.",
+          "answer": "Quasimodo",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "lit-b-018",
+      "topic": "British Literature",
+      "lessonId": "lit-shakespeare",
+      "difficulty": "hard",
+      "leadin": "Answer these questions about Shakespeare's life and theater, for 10 points each.",
+      "parts": [
+        {
+          "question": "Name the London theater, shaped like an O, where many of his plays were performed.",
+          "answer": "Globe Theatre",
+          "acceptable": [
+            "The Globe"
+          ]
+        },
+        {
+          "question": "Name his hometown on the River Avon.",
+          "answer": "Stratford-upon-Avon",
+          "acceptable": [
+            "Stratford"
+          ]
+        },
+        {
+          "question": "Name the play in which the magician Prospero rules an island with the creature Caliban.",
+          "answer": "The Tempest",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "lit-b-019",
+      "topic": "American Literature",
+      "lessonId": "lit-american-classics",
+      "difficulty": "easy",
+      "leadin": "Answer these questions about famous American story characters, for 10 points each.",
+      "parts": [
+        {
+          "question": "This man from a Washington Irving story sleeps for 20 years in the Catskill Mountains.",
+          "answer": "Rip Van Winkle",
+          "acceptable": []
+        },
+        {
+          "question": "In Of Mice and Men, this large, gentle man loves to pet soft things.",
+          "answer": "Lennie Small",
+          "acceptable": [
+            "Lennie"
+          ]
+        },
+        {
+          "question": "This mysterious millionaire throws huge parties in a Fitzgerald novel.",
+          "answer": "Jay Gatsby",
+          "acceptable": [
+            "Gatsby",
+            "James Gatz"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lit-b-020",
+      "topic": "World Literature",
+      "lessonId": "lit-world",
+      "difficulty": "easy",
+      "leadin": "Name these fairy tales, for 10 points each.",
+      "parts": [
+        {
+          "question": "In this Andersen tale, a sea creature trades her voice for legs.",
+          "answer": "\"The Little Mermaid\"",
+          "acceptable": []
+        },
+        {
+          "question": "In this Grimm tale, two children find a witch's house made of gingerbread.",
+          "answer": "\"Hansel and Gretel\"",
+          "acceptable": []
+        },
+        {
+          "question": "In this Grimm tale, a girl with very long hair is locked in a tower.",
+          "answer": "\"Rapunzel\"",
           "acceptable": []
         }
       ]

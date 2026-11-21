@@ -5,6 +5,20 @@
   "description": "Countries, capitals, rivers, mountains and where things are on the map.",
   "lessons": [
     {
+      "id": "geo-map-skills",
+      "title": "Map Skills: Continents, Oceans and Coordinates",
+      "topic": "Map Skills",
+      "difficulty": "easy",
+      "body": "Every geography question builds on knowing how to read a world map.\n\n## Continents and oceans\n- **Seven continents**, largest to smallest: **Asia**, Africa, North America, South America, Antarctica, Europe, **Australia**.\n- **Five oceans**: **Pacific** (largest and deepest), Atlantic, Indian, Southern and **Arctic** (smallest).\n\n## Latitude and longitude\n- **Latitude** lines (also called **parallels**) run east-west and measure distance **north or south** of the **Equator** (0°). The North Pole is 90° N.\n- **Longitude** lines (also called **meridians**) run north-south and measure distance **east or west** of the **Prime Meridian** (0°), which passes through **Greenwich**, in London.\n- A location is written latitude first: New York City is about 41° N, 74° W.\n\n## Special lines\n| Line | Latitude or longitude | Notes |\n|---|---|---|\n| Equator | 0° latitude | Splits Northern and Southern Hemispheres |\n| Tropic of Cancer | 23.5° N | Northern edge of the tropics |\n| Tropic of Capricorn | 23.5° S | Southern edge of the tropics |\n| Arctic Circle | about 66.5° N | Sun doesn't set at midsummer |\n| International Date Line | about 180° | Cross it and the date changes |\n\n**Map tools:** a **compass rose** shows directions; a **scale** shows distance; a **legend** (or key) explains symbols.",
+      "keyFacts": [
+        "Asia is the largest continent; Australia is the smallest.",
+        "The Pacific is the largest ocean; the Arctic is the smallest.",
+        "Latitude measures north-south from the Equator; longitude measures east-west from the Prime Meridian.",
+        "The Prime Meridian passes through Greenwich, England.",
+        "The Tropic of Cancer is at 23.5 degrees north."
+      ]
+    },
+    {
       "id": "geo-rivers",
       "title": "Great Rivers of the World",
       "topic": "Physical Geography",
@@ -19,6 +33,34 @@
       ]
     },
     {
+      "id": "geo-mountains-deserts",
+      "title": "Mountains and Deserts",
+      "topic": "Physical Geography",
+      "difficulty": "medium",
+      "body": "## Mountains\n| Mountain | Range | Location | Remember |\n|---|---|---|---|\n| **Mount Everest** | Himalayas | Nepal and China | Highest on Earth (8,849 m); first climbed by **Edmund Hillary and Tenzing Norgay** in 1953 |\n| **K2** | Karakoram | Pakistan and China | Second highest |\n| **Aconcagua** | **Andes** | Argentina | Highest in the Americas |\n| **Denali** | Alaska Range | Alaska | Highest in North America; the U.S. government calls it **Mount McKinley** again since 2025 |\n| **Kilimanjaro** | (volcano) | **Tanzania** | Highest in Africa |\n| **Mont Blanc** | Alps | France and Italy | Highest in the Alps |\n\nThe **Andes** are the world's longest mountain range on land. The **Ural Mountains** split Europe from Asia.\n\n## Deserts\nA desert is defined by **low rainfall**, not heat.\n- **Antarctica** is the largest desert of all (a cold desert).\n- The **Sahara** in North Africa is the largest **hot** desert.\n- The **Atacama** in **Chile** is the driest non-polar place on Earth.\n- The **Gobi** is in **Mongolia and China**; dinosaur eggs were found there.\n- The **Kalahari** is in southern Africa (Botswana).\n- **Death Valley** in California's Mojave Desert has the lowest point in North America and one of the highest temperatures ever recorded.",
+      "keyFacts": [
+        "Mount Everest is the world's highest mountain, on the Nepal-China border.",
+        "Kilimanjaro, in Tanzania, is Africa's highest mountain.",
+        "The Andes are the longest mountain range on land.",
+        "The Sahara is the largest hot desert; Antarctica is the largest desert overall.",
+        "The Atacama in Chile is the driest non-polar desert."
+      ]
+    },
+    {
+      "id": "geo-lakes-seas",
+      "title": "Lakes, Seas and Canals",
+      "topic": "Physical Geography",
+      "difficulty": "medium",
+      "body": "## Record-setting lakes\n- **Caspian Sea**: the largest lake in the world by area, bordered by Russia, Kazakhstan, Turkmenistan, Iran and Azerbaijan.\n- **Lake Baikal** (Siberia, Russia): the **deepest** and **oldest** lake; it holds about a fifth of the world's unfrozen fresh surface water.\n- **Lake Superior**: the largest of the **Great Lakes**. Remember the Great Lakes with **HOMES**: Huron, Ontario, Michigan, Erie, Superior. Lake Michigan is the only one entirely inside the U.S.\n- **Lake Victoria**: Africa's largest lake and a source of the Nile.\n- **Lake Titicaca**: on the border of **Peru and Bolivia**, the highest lake that large boats can travel on.\n- **Dead Sea**: between Israel and Jordan, the **lowest point on land**. It is so salty that people float easily.\n\n## Waterways that connect the world\n- **Suez Canal** (Egypt, opened 1869): links the **Mediterranean Sea** and the **Red Sea**, so ships don't sail around Africa.\n- **Panama Canal** (opened 1914): links the **Atlantic and Pacific** oceans using locks.\n- **Strait of Gibraltar**: separates **Spain** from **Morocco** and connects the Mediterranean to the Atlantic.\n- **Bosporus**: runs through **Istanbul**, separating Europe from Asia.\n- **Niagara Falls**: on the Niagara River between Lake Erie and Lake Ontario, on the U.S.-Canada border.",
+      "keyFacts": [
+        "The Caspian Sea is the world's largest lake.",
+        "Lake Baikal is the world's deepest lake.",
+        "HOMES: Huron, Ontario, Michigan, Erie, Superior.",
+        "The Suez Canal connects the Mediterranean and Red Seas.",
+        "The Dead Sea shore is the lowest point on land."
+      ]
+    },
+    {
       "id": "geo-capitals",
       "title": "Tricky World Capitals",
       "topic": "Countries and Capitals",
@@ -30,6 +72,62 @@
         "Brasília became Brazil’s capital in 1960.",
         "Ankara, not Istanbul, is the capital of Turkey.",
         "South Africa has three capital cities."
+      ]
+    },
+    {
+      "id": "geo-us",
+      "title": "United States Geography",
+      "topic": "U.S. Geography",
+      "difficulty": "easy",
+      "body": "## Record-holding states\n- **Alaska** is the largest state. The U.S. bought it from **Russia** in **1867**; critics called it \"Seward's Folly.\"\n- **Texas** is second largest; **California** has the most people.\n- **Rhode Island** is the smallest state.\n- **Hawaii** became the **50th** state in 1959 and is the only state made of islands.\n- At the **Four Corners**, Utah, Colorado, Arizona and New Mexico meet.\n\n## Capitals that trick people\n| State | Capital (not...) |\n|---|---|\n| California | **Sacramento** (not Los Angeles) |\n| New York | **Albany** (not New York City) |\n| Florida | **Tallahassee** (not Miami) |\n| Texas | **Austin** (not Houston) |\n| Illinois | **Springfield** (not Chicago) |\n| Pennsylvania | **Harrisburg** (not Philadelphia) |\n\n## Landmarks\n- **Grand Canyon** (Arizona): carved by the **Colorado River**.\n- **Yellowstone** (mostly Wyoming): the world's first national park (1872), home of the geyser **Old Faithful**.\n- **Mount Rushmore** (South Dakota): Washington, Jefferson, Theodore Roosevelt and Lincoln carved in the Black Hills.\n- **Great Salt Lake** (Utah) and **Chesapeake Bay** (Maryland and Virginia), the largest U.S. estuary.\n- The **Mississippi** and **Missouri** rivers together form one of the world's longest river systems.",
+      "keyFacts": [
+        "Alaska is the largest state; Rhode Island is the smallest.",
+        "Hawaii became the 50th state in 1959.",
+        "Four Corners joins Utah, Colorado, Arizona and New Mexico.",
+        "The Colorado River carved the Grand Canyon.",
+        "Yellowstone was the world's first national park."
+      ]
+    },
+    {
+      "id": "geo-europe",
+      "title": "Exploring Europe",
+      "topic": "World Regions",
+      "difficulty": "medium",
+      "body": "Europe is small but packed with countries, so it appears often.\n\n- **Russia** is the world's **largest country**. It stretches across Europe and Asia; the **Ural Mountains** mark the divide.\n- **Vatican City**, inside Rome, is the **smallest country**. **Monaco** is second smallest.\n- The **Iberian Peninsula** holds **Spain** and **Portugal**. The **Pyrenees** separate Spain from France.\n- **Italy** is shaped like a boot. The islands of **Sicily** and **Sardinia** belong to it.\n- **Scandinavia**: Norway, Sweden and Denmark. Norway's coast is cut by deep valleys of seawater called **fjords**.\n- **Iceland** is the \"land of fire and ice,\" with volcanoes, glaciers and geysers. Its capital, **Reykjavík**, is the world's northernmost national capital.\n- The **Netherlands** has its capital in **Amsterdam**, but the government meets in **The Hague**. Much of the country lies below sea level behind dikes.\n- **Switzerland** is landlocked in the **Alps** and has four national languages.\n\n## River cities\n| City | River |\n|---|---|\n| London | **Thames** |\n| Paris | **Seine** |\n| Rome | **Tiber** |\n| Cologne | **Rhine** |\n| Budapest | **Danube** |",
+      "keyFacts": [
+        "Russia is the world's largest country by area.",
+        "Vatican City is the world's smallest country.",
+        "Spain and Portugal share the Iberian Peninsula.",
+        "Norway's coastline is famous for fjords.",
+        "Paris is on the Seine; London is on the Thames."
+      ]
+    },
+    {
+      "id": "geo-asia-africa",
+      "title": "Asia and Africa",
+      "topic": "World Regions",
+      "difficulty": "medium",
+      "body": "## Asia\n- **India** passed **China** in 2023 as the country with the most people. Both have more than 1.4 billion.\n- **Japan** has four main islands: **Honshu** (largest, with Tokyo), Hokkaido, Kyushu and Shikoku. **Mount Fuji** is its tallest peak.\n- **Indonesia** is the world's largest archipelago, with more than 17,000 islands.\n- The **Ganges** is a sacred river in Hinduism. The **Mekong** flows through six countries in Southeast Asia.\n- The **Himalayas** were formed when India crashed into Asia.\n- **Mongolia** is the most sparsely populated country, with lots of grassland called **steppe**.\n\n## Africa\n- Africa has **54 countries**. **Algeria** is the largest by area, and **Nigeria** has the most people.\n- **Madagascar**, off the southeast coast, is home to **lemurs** found nowhere else.\n- **Victoria Falls**, on the **Zambezi River** between Zambia and Zimbabwe, is called \"the smoke that thunders.\"\n- The **Nile** has two branches, the **White Nile** and **Blue Nile**, that meet in Khartoum, Sudan.\n- The **Sahel** is a dry strip south of the Sahara.\n- Ships sailing from Europe to Asia once rounded the **Cape of Good Hope** in South Africa.",
+      "keyFacts": [
+        "India has the world's largest population, passing China in 2023.",
+        "Honshu is Japan's largest island.",
+        "Indonesia has more than 17,000 islands.",
+        "Algeria is Africa's largest country by area; Nigeria has the most people.",
+        "Victoria Falls is on the Zambezi River."
+      ]
+    },
+    {
+      "id": "geo-americas",
+      "title": "North and South America",
+      "topic": "World Regions",
+      "difficulty": "hard",
+      "body": "## North America\n- **Canada** is the world's **second-largest** country. Most people in the province of **Quebec** speak **French**.\n- **Greenland** is the world's **largest island**. It is part of the Kingdom of **Denmark**.\n- **Mexico City** was built on the site of **Tenochtitlan**, the Aztec capital, on a dried-up lake.\n- The **Isthmus of Panama** connects North and South America.\n\n## South America\n- **Brazil** is the largest country in South America and the only one where **Portuguese** is the main language.\n- The **Amazon rainforest** is the world's largest tropical rainforest, mostly in Brazil.\n- **Chile** is extremely long and thin, squeezed between the Andes and the Pacific.\n- **Patagonia** is a cold, windy region at the southern tip, shared by Argentina and Chile.\n- The **Galápagos Islands** belong to **Ecuador**. Charles Darwin studied their finches and giant tortoises.\n- **Angel Falls** in **Venezuela** is the world's tallest uninterrupted waterfall.\n- **Machu Picchu** is an Inca city high in the Andes of **Peru**.\n- **Ecuador** is named for the **Equator**, which crosses it. Its capital, **Quito**, sits high in the Andes.",
+      "keyFacts": [
+        "Canada is the world's second-largest country by area.",
+        "Greenland is the world's largest island and belongs to Denmark.",
+        "Brazil is the only South American country where Portuguese is the main language.",
+        "The Galápagos Islands belong to Ecuador.",
+        "Angel Falls in Venezuela is the tallest uninterrupted waterfall."
       ]
     }
   ],
@@ -53,6 +151,515 @@
       "powerIndex": 137,
       "answer": "Canberra",
       "acceptable": []
+    },
+    {
+      "id": "geo-t-003",
+      "topic": "Map Skills",
+      "lessonId": "geo-map-skills",
+      "difficulty": "easy",
+      "question": "This ocean contains the Mariana Trench and the islands of Hawaii. Ferdinand Magellan named it for its calm waters, and it is the largest ocean on Earth. For 10 points, name this ocean between Asia and the Americas.",
+      "powerIndex": 124,
+      "answer": "Pacific Ocean",
+      "acceptable": [
+        "Pacific"
+      ]
+    },
+    {
+      "id": "geo-t-004",
+      "topic": "Map Skills",
+      "lessonId": "geo-map-skills",
+      "difficulty": "easy",
+      "question": "This line passes through Ecuador, Kenya and Indonesia. Places along it have about 12 hours of daylight all year, and it sits at zero degrees latitude. For 10 points, name this imaginary line halfway between the North and South Poles.",
+      "powerIndex": 127,
+      "answer": "Equator",
+      "acceptable": []
+    },
+    {
+      "id": "geo-t-005",
+      "topic": "Map Skills",
+      "lessonId": "geo-map-skills",
+      "difficulty": "medium",
+      "question": "A line at 0 degrees of this measurement passes through the Royal Observatory in Greenwich. These lines are also called meridians, and they meet at the poles. For 10 points, name this measure of how far east or west a place is.",
+      "powerIndex": 150,
+      "answer": "longitude",
+      "acceptable": []
+    },
+    {
+      "id": "geo-t-006",
+      "topic": "Map Skills",
+      "lessonId": "geo-map-skills",
+      "difficulty": "medium",
+      "question": "This continent has no permanent residents, and the Treaty that shares its name sets it aside for science. Its highest point is the Vinson Massif, and it contains the South Pole. For 10 points, name this icy southernmost continent.",
+      "powerIndex": 165,
+      "answer": "Antarctica",
+      "acceptable": []
+    },
+    {
+      "id": "geo-t-007",
+      "topic": "Map Skills",
+      "lessonId": "geo-map-skills",
+      "difficulty": "hard",
+      "question": "This line runs through Mexico, the Sahara, India and southern China. The sun is directly overhead along it at noon on the June solstice. For 10 points, name this line at 23.5 degrees north latitude, the northern boundary of the tropics.",
+      "powerIndex": 169,
+      "answer": "Tropic of Cancer",
+      "acceptable": []
+    },
+    {
+      "id": "geo-t-008",
+      "topic": "Map Skills",
+      "lessonId": "geo-map-skills",
+      "difficulty": "hard",
+      "question": "This line zigzags to avoid splitting the island nation of Kiribati and runs mostly through the Pacific. It roughly follows 180 degrees longitude. For 10 points, name this line where travelers gain or lose a calendar day.",
+      "powerIndex": 122,
+      "answer": "International Date Line",
+      "acceptable": [
+        "Date Line"
+      ]
+    },
+    {
+      "id": "geo-t-009",
+      "topic": "Physical Geography",
+      "lessonId": "geo-rivers",
+      "difficulty": "easy",
+      "question": "This river's mouth forms a giant delta in Egypt, and the city of Khartoum sits where its two branches meet. Lake Nasser was formed by the Aswan High Dam on this river. For 10 points, name this river that flows north through Africa.",
+      "powerIndex": 137,
+      "answer": "Nile River",
+      "acceptable": [
+        "Nile"
+      ]
+    },
+    {
+      "id": "geo-t-010",
+      "topic": "Physical Geography",
+      "lessonId": "geo-rivers",
+      "difficulty": "medium",
+      "question": "Explorer Francisco de Orellana named this river after warrior women of Greek myth. Its basin holds the world's largest rainforest, and it carries more water than any other river. For 10 points, name this South American river that flows through Manaus, Brazil.",
+      "powerIndex": 118,
+      "answer": "Amazon River",
+      "acceptable": [
+        "Amazon"
+      ]
+    },
+    {
+      "id": "geo-t-011",
+      "topic": "Physical Geography",
+      "lessonId": "geo-rivers",
+      "difficulty": "medium",
+      "question": "This river flows past Memphis, St. Louis and Baton Rouge. Its source is Lake Itasca in Minnesota, and it reaches the Gulf near New Orleans. For 10 points, name this river that Mark Twain piloted steamboats on.",
+      "powerIndex": 126,
+      "answer": "Mississippi River",
+      "acceptable": [
+        "Mississippi"
+      ]
+    },
+    {
+      "id": "geo-t-012",
+      "topic": "Physical Geography",
+      "lessonId": "geo-rivers",
+      "difficulty": "hard",
+      "question": "This river passes through Wuhan and reaches the sea at Shanghai. The Three Gorges Dam, the world's largest power station, stands on it. For 10 points, name this longest river in Asia.",
+      "powerIndex": 68,
+      "answer": "Yangtze River",
+      "acceptable": [
+        "Chang Jiang",
+        "Yangtze",
+        "Changjiang"
+      ]
+    },
+    {
+      "id": "geo-t-013",
+      "topic": "Physical Geography",
+      "lessonId": "geo-mountains-deserts",
+      "difficulty": "easy",
+      "question": "Climbers on this mountain cross the Khumbu Icefall, and its Tibetan name is Chomolungma. Tenzing Norgay and Edmund Hillary first reached its summit in 1953. For 10 points, name this mountain in the Himalayas, the tallest on Earth.",
+      "powerIndex": 107,
+      "answer": "Mount Everest",
+      "acceptable": [
+        "Everest",
+        "Sagarmatha",
+        "Chomolungma"
+      ]
+    },
+    {
+      "id": "geo-t-014",
+      "topic": "Physical Geography",
+      "lessonId": "geo-mountains-deserts",
+      "difficulty": "easy",
+      "question": "This desert's Tuareg people are known as \"blue men\" for their dyed robes. It covers much of Algeria, Libya and Egypt. For 10 points, name this largest hot desert on Earth, in North Africa.",
+      "powerIndex": 110,
+      "answer": "Sahara Desert",
+      "acceptable": [
+        "Sahara"
+      ]
+    },
+    {
+      "id": "geo-t-015",
+      "topic": "Physical Geography",
+      "lessonId": "geo-mountains-deserts",
+      "difficulty": "medium",
+      "question": "This mountain's snowy cap has shrunk greatly over the last century. It has three volcanic cones, including Kibo, and stands near the border with Kenya. For 10 points, name this mountain in Tanzania, the highest in Africa.",
+      "powerIndex": 144,
+      "answer": "Mount Kilimanjaro",
+      "acceptable": [
+        "Kilimanjaro"
+      ]
+    },
+    {
+      "id": "geo-t-016",
+      "topic": "Physical Geography",
+      "lessonId": "geo-mountains-deserts",
+      "difficulty": "medium",
+      "question": "This mountain range is home to the llama, the alpaca and the city of La Paz. It runs through seven countries and includes Aconcagua. For 10 points, name this longest mountain range on land, along the west coast of South America.",
+      "powerIndex": 121,
+      "answer": "Andes Mountains",
+      "acceptable": [
+        "Andes"
+      ]
+    },
+    {
+      "id": "geo-t-017",
+      "topic": "Physical Geography",
+      "lessonId": "geo-mountains-deserts",
+      "difficulty": "hard",
+      "question": "Some weather stations in this desert have never recorded rain, and NASA tests Mars rovers there. It sits between the Andes and the Pacific. For 10 points, name this desert in northern Chile, the driest non-polar place on Earth.",
+      "powerIndex": 130,
+      "answer": "Atacama Desert",
+      "acceptable": [
+        "Atacama"
+      ]
+    },
+    {
+      "id": "geo-t-018",
+      "topic": "Physical Geography",
+      "lessonId": "geo-mountains-deserts",
+      "difficulty": "hard",
+      "question": "Roy Chapman Andrews found the first known nests of dinosaur eggs in this desert in the 1920s. It lies on a high plateau that is very cold in winter, in Mongolia and northern China. For 10 points, name this Asian desert.",
+      "powerIndex": 151,
+      "answer": "Gobi Desert",
+      "acceptable": [
+        "Gobi"
+      ]
+    },
+    {
+      "id": "geo-t-019",
+      "topic": "Physical Geography",
+      "lessonId": "geo-lakes-seas",
+      "difficulty": "easy",
+      "question": "This body of water lies about 430 meters below sea level, the lowest land point on Earth. It is about ten times saltier than the ocean, so swimmers float easily. For 10 points, name this lake between Israel and Jordan.",
+      "powerIndex": 138,
+      "answer": "Dead Sea",
+      "acceptable": []
+    },
+    {
+      "id": "geo-t-020",
+      "topic": "Physical Geography",
+      "lessonId": "geo-lakes-seas",
+      "difficulty": "medium",
+      "question": "This lake is home to the nerpa, the only seal that lives only in fresh water. Over a mile deep, it is the deepest lake in the world. For 10 points, name this lake in Siberia.",
+      "powerIndex": 105,
+      "answer": "Lake Baikal",
+      "acceptable": [
+        "Baikal"
+      ]
+    },
+    {
+      "id": "geo-t-021",
+      "topic": "Physical Geography",
+      "lessonId": "geo-lakes-seas",
+      "difficulty": "medium",
+      "question": "This waterway was completed by a French company led by Ferdinand de Lesseps in 1869. Egypt took control of it in 1956, starting an international crisis. For 10 points, name this canal that connects the Mediterranean Sea to the Red Sea.",
+      "powerIndex": 201,
+      "answer": "Suez Canal",
+      "acceptable": []
+    },
+    {
+      "id": "geo-t-022",
+      "topic": "Physical Geography",
+      "lessonId": "geo-lakes-seas",
+      "difficulty": "medium",
+      "question": "This body of water borders five countries, including Iran and Kazakhstan, and is the source of most of the world's caviar. Though it is called a sea, it is the largest lake on Earth. For 10 points, name this body of water east of the Caucasus Mountains.",
+      "powerIndex": 155,
+      "answer": "Caspian Sea",
+      "acceptable": []
+    },
+    {
+      "id": "geo-t-023",
+      "topic": "Physical Geography",
+      "lessonId": "geo-lakes-seas",
+      "difficulty": "hard",
+      "question": "The Uros people live on floating islands made of reeds on this lake. It sits about 3,800 meters above sea level on the border of Peru and Bolivia. For 10 points, name this lake, the largest in South America.",
+      "powerIndex": 128,
+      "answer": "Lake Titicaca",
+      "acceptable": [
+        "Titicaca"
+      ]
+    },
+    {
+      "id": "geo-t-024",
+      "topic": "Countries and Capitals",
+      "lessonId": "geo-capitals",
+      "difficulty": "easy",
+      "question": "This city's landmarks include the Kremlin and Red Square, where St. Basil's Cathedral stands with its onion domes. For 10 points, name this capital of Russia.",
+      "powerIndex": 101,
+      "answer": "Moscow",
+      "acceptable": []
+    },
+    {
+      "id": "geo-t-025",
+      "topic": "Countries and Capitals",
+      "lessonId": "geo-capitals",
+      "difficulty": "medium",
+      "question": "This planned capital near the center of its country officially replaced Lagos in 1991. The huge Aso Rock towers over it. For 10 points, name this capital of Nigeria.",
+      "powerIndex": 95,
+      "answer": "Abuja",
+      "acceptable": []
+    },
+    {
+      "id": "geo-t-026",
+      "topic": "Countries and Capitals",
+      "lessonId": "geo-capitals",
+      "difficulty": "medium",
+      "question": "This capital was designed by Lúcio Costa and Oscar Niemeyer, and from above it looks like an airplane. It replaced Rio de Janeiro in 1960. For 10 points, name this planned capital of Brazil.",
+      "powerIndex": 114,
+      "answer": "Brasília",
+      "acceptable": [
+        "Brasilia"
+      ]
+    },
+    {
+      "id": "geo-t-027",
+      "topic": "Countries and Capitals",
+      "lessonId": "geo-capitals",
+      "difficulty": "hard",
+      "question": "This capital's Parliament Hill overlooks a river of the same name, and its Rideau Canal becomes a giant skating rink in winter. For 10 points, name this capital of Canada, in Ontario.",
+      "powerIndex": 163,
+      "answer": "Ottawa",
+      "acceptable": []
+    },
+    {
+      "id": "geo-t-028",
+      "topic": "U.S. Geography",
+      "lessonId": "geo-us",
+      "difficulty": "easy",
+      "question": "This state's Denali, which the U.S. government again calls Mount McKinley, is the highest point in North America. Secretary of State William Seward bought it from Russia in 1867. For 10 points, name this largest U.S. state.",
+      "powerIndex": 162,
+      "answer": "Alaska",
+      "acceptable": []
+    },
+    {
+      "id": "geo-t-029",
+      "topic": "U.S. Geography",
+      "lessonId": "geo-us",
+      "difficulty": "easy",
+      "question": "This landmark's Phantom Ranch can be reached only by foot, mule or raft. It lies mostly in Arizona and was carved by the Colorado River. For 10 points, name this huge canyon.",
+      "powerIndex": 90,
+      "answer": "Grand Canyon",
+      "acceptable": []
+    },
+    {
+      "id": "geo-t-030",
+      "topic": "U.S. Geography",
+      "lessonId": "geo-us",
+      "difficulty": "medium",
+      "question": "This park's Old Faithful erupts about every 90 minutes, and its Grand Prismatic Spring is rainbow-colored. Signed into law in 1872, it was the world's first national park. For 10 points, name this park mostly in Wyoming.",
+      "powerIndex": 125,
+      "answer": "Yellowstone National Park",
+      "acceptable": [
+        "Yellowstone"
+      ]
+    },
+    {
+      "id": "geo-t-031",
+      "topic": "U.S. Geography",
+      "lessonId": "geo-us",
+      "difficulty": "medium",
+      "question": "This state's capital, Providence, sits at the head of Narragansett Bay. Though its full name used to include \"Providence Plantations,\" it is the smallest state in area. For 10 points, name this New England state.",
+      "powerIndex": 140,
+      "answer": "Rhode Island",
+      "acceptable": []
+    },
+    {
+      "id": "geo-t-032",
+      "topic": "U.S. Geography",
+      "lessonId": "geo-us",
+      "difficulty": "hard",
+      "question": "This city became its state's capital in 1854, a few years after gold was found at nearby Sutter's Mill. It sits where the American River meets a river of the same name. For 10 points, name this capital of California.",
+      "powerIndex": 150,
+      "answer": "Sacramento",
+      "acceptable": []
+    },
+    {
+      "id": "geo-t-033",
+      "topic": "World Regions",
+      "lessonId": "geo-europe",
+      "difficulty": "easy",
+      "question": "This country's islands include Sicily and Sardinia, and the Apennine Mountains run down its center. Its shape is often compared to a boot. For 10 points, name this European country with Rome as its capital.",
+      "powerIndex": 132,
+      "answer": "Italy",
+      "acceptable": []
+    },
+    {
+      "id": "geo-t-034",
+      "topic": "World Regions",
+      "lessonId": "geo-europe",
+      "difficulty": "medium",
+      "question": "This country is home to the Sognefjord, and it is called the \"Land of the Midnight Sun\" because the sun doesn't set in summer. Its capital is Oslo. For 10 points, name this Scandinavian country famous for fjords.",
+      "powerIndex": 141,
+      "answer": "Norway",
+      "acceptable": []
+    },
+    {
+      "id": "geo-t-035",
+      "topic": "World Regions",
+      "lessonId": "geo-europe",
+      "difficulty": "medium",
+      "question": "This country has about 130 volcanoes and heats most of its homes with water from underground hot springs. Its capital, Reykjavík, is the northernmost national capital. For 10 points, name this island nation in the North Atlantic.",
+      "powerIndex": 118,
+      "answer": "Iceland",
+      "acceptable": []
+    },
+    {
+      "id": "geo-t-036",
+      "topic": "World Regions",
+      "lessonId": "geo-europe",
+      "difficulty": "medium",
+      "question": "This country covers less than half a square kilometer. It has its own Swiss Guard, and its leader is the Pope. For 10 points, name this smallest country in the world, inside Rome.",
+      "powerIndex": 104,
+      "answer": "Vatican City",
+      "acceptable": [
+        "Holy See",
+        "the Vatican"
+      ]
+    },
+    {
+      "id": "geo-t-037",
+      "topic": "World Regions",
+      "lessonId": "geo-europe",
+      "difficulty": "hard",
+      "question": "The highest point of this country's European part is only about 320 meters tall, and about a quarter of it lies below sea level. Its government sits in The Hague, but its capital is Amsterdam. For 10 points, name this country known for dikes, tulips and windmills.",
+      "powerIndex": 151,
+      "answer": "Netherlands",
+      "acceptable": [
+        "Holland",
+        "The Netherlands"
+      ]
+    },
+    {
+      "id": "geo-t-038",
+      "topic": "World Regions",
+      "lessonId": "geo-asia-africa",
+      "difficulty": "easy",
+      "question": "This island nation's highest peak is Mount Fuji, and its main islands include Hokkaido and Honshu. For 10 points, name this Asian country whose capital is Tokyo.",
+      "powerIndex": 90,
+      "answer": "Japan",
+      "acceptable": [
+        "Nippon",
+        "Nihon"
+      ]
+    },
+    {
+      "id": "geo-t-039",
+      "topic": "World Regions",
+      "lessonId": "geo-asia-africa",
+      "difficulty": "easy",
+      "question": "This island is the fourth largest on Earth, and its animals include fossas and many kinds of lemurs. For 10 points, name this island nation off the southeast coast of Africa.",
+      "powerIndex": 92,
+      "answer": "Madagascar",
+      "acceptable": []
+    },
+    {
+      "id": "geo-t-040",
+      "topic": "World Regions",
+      "lessonId": "geo-asia-africa",
+      "difficulty": "medium",
+      "question": "This waterfall is called Mosi-oa-Tunya, \"the smoke that thunders.\" David Livingstone named it for his queen. For 10 points, name this waterfall on the Zambezi River between Zambia and Zimbabwe.",
+      "powerIndex": 150,
+      "answer": "Victoria Falls",
+      "acceptable": []
+    },
+    {
+      "id": "geo-t-041",
+      "topic": "World Regions",
+      "lessonId": "geo-asia-africa",
+      "difficulty": "hard",
+      "question": "This country is the world's largest island nation, with more than 17,000 islands, including Java, Sumatra and Bali. For 10 points, name this Southeast Asian country, home to more Muslims than any other.",
+      "powerIndex": 97,
+      "answer": "Indonesia",
+      "acceptable": []
+    },
+    {
+      "id": "geo-t-042",
+      "topic": "World Regions",
+      "lessonId": "geo-asia-africa",
+      "difficulty": "hard",
+      "question": "This river flows from the Himalayas past the holy city of Varanasi, where Hindu pilgrims bathe on its stone steps. It ends in a huge delta in Bangladesh. For 10 points, name this sacred river of India.",
+      "powerIndex": 141,
+      "answer": "Ganges River",
+      "acceptable": [
+        "Ganges",
+        "Ganga"
+      ]
+    },
+    {
+      "id": "geo-t-043",
+      "topic": "World Regions",
+      "lessonId": "geo-americas",
+      "difficulty": "medium",
+      "question": "This country has the most people of any Portuguese-speaking nation. Its largest city is São Paulo, and it contains most of the Amazon rainforest. For 10 points, name this largest country in South America.",
+      "powerIndex": 126,
+      "answer": "Brazil",
+      "acceptable": [
+        "Brasil"
+      ]
+    },
+    {
+      "id": "geo-t-044",
+      "topic": "World Regions",
+      "lessonId": "geo-americas",
+      "difficulty": "medium",
+      "question": "This island is about 80 percent covered by an ice sheet, and its capital is Nuuk. It belongs to the Kingdom of Denmark. For 10 points, name this largest island in the world.",
+      "powerIndex": 110,
+      "answer": "Greenland",
+      "acceptable": [
+        "Kalaallit Nunaat"
+      ]
+    },
+    {
+      "id": "geo-t-045",
+      "topic": "World Regions",
+      "lessonId": "geo-americas",
+      "difficulty": "hard",
+      "question": "These islands are home to marine iguanas and blue-footed boobies. Charles Darwin visited them aboard HMS Beagle and studied their finches. For 10 points, name these Pacific islands that belong to Ecuador.",
+      "powerIndex": 104,
+      "answer": "Galápagos Islands",
+      "acceptable": [
+        "Galapagos"
+      ]
+    },
+    {
+      "id": "geo-t-046",
+      "topic": "World Regions",
+      "lessonId": "geo-americas",
+      "difficulty": "hard",
+      "question": "This waterfall drops about 979 meters from the top of a flat mountain called Auyán-tepui. It is named for an American pilot who landed on top of the mountain in 1937. For 10 points, name this waterfall in Venezuela, the tallest uninterrupted fall in the world.",
+      "powerIndex": 204,
+      "answer": "Angel Falls",
+      "acceptable": [
+        "Kerepakupai Merú"
+      ]
+    },
+    {
+      "id": "geo-t-047",
+      "topic": "World Regions",
+      "lessonId": "geo-americas",
+      "difficulty": "hard",
+      "question": "This city was built over an island in Lake Texcoco, where the Aztecs saw an eagle perched on a cactus. For 10 points, name this capital city of Mexico, once called Tenochtitlan.",
+      "powerIndex": 94,
+      "answer": "Mexico City",
+      "acceptable": [
+        "Ciudad de México",
+        "CDMX"
+      ]
     }
   ],
   "bonuses": [
@@ -77,6 +684,517 @@
           "question": "This city replaced Istanbul as the capital of Turkey in 1923.",
           "answer": "Ankara",
           "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "geo-b-002",
+      "topic": "Map Skills",
+      "lessonId": "geo-map-skills",
+      "difficulty": "easy",
+      "leadin": "Answer these questions about map basics, for 10 points each.",
+      "parts": [
+        {
+          "question": "Name the largest continent.",
+          "answer": "Asia",
+          "acceptable": []
+        },
+        {
+          "question": "Name the smallest ocean, centered on the North Pole.",
+          "answer": "Arctic Ocean",
+          "acceptable": [
+            "Arctic"
+          ]
+        },
+        {
+          "question": "Name the part of a map that explains what its symbols mean.",
+          "answer": "legend",
+          "acceptable": [
+            "key",
+            "map key"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-b-003",
+      "topic": "Map Skills",
+      "lessonId": "geo-map-skills",
+      "difficulty": "medium",
+      "leadin": "Answer these questions about latitude and longitude, for 10 points each.",
+      "parts": [
+        {
+          "question": "Lines of latitude are also called by this name because they never meet.",
+          "answer": "parallels",
+          "acceptable": []
+        },
+        {
+          "question": "Name the 0 degree line of longitude.",
+          "answer": "Prime Meridian",
+          "acceptable": [
+            "Greenwich Meridian"
+          ]
+        },
+        {
+          "question": "Name the line at 23.5 degrees south, the southern edge of the tropics.",
+          "answer": "Tropic of Capricorn",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "geo-b-004",
+      "topic": "Physical Geography",
+      "lessonId": "geo-rivers",
+      "difficulty": "medium",
+      "leadin": "Name these rivers from cities that sit on them, for 10 points each.",
+      "parts": [
+        {
+          "question": "London.",
+          "answer": "Thames River",
+          "acceptable": [
+            "Thames"
+          ]
+        },
+        {
+          "question": "Baghdad.",
+          "answer": "Tigris River",
+          "acceptable": [
+            "Tigris"
+          ]
+        },
+        {
+          "question": "Cairo.",
+          "answer": "Nile River",
+          "acceptable": [
+            "Nile"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-b-005",
+      "topic": "Physical Geography",
+      "lessonId": "geo-mountains-deserts",
+      "difficulty": "medium",
+      "leadin": "Name these mountain ranges, for 10 points each.",
+      "parts": [
+        {
+          "question": "This range in Europe includes Mont Blanc and the Matterhorn.",
+          "answer": "Alps",
+          "acceptable": []
+        },
+        {
+          "question": "This range forms the traditional boundary between Europe and Asia.",
+          "answer": "Ural Mountains",
+          "acceptable": [
+            "Urals"
+          ]
+        },
+        {
+          "question": "This range in western North America includes Pikes Peak.",
+          "answer": "Rocky Mountains",
+          "acceptable": [
+            "Rockies"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-b-006",
+      "topic": "Physical Geography",
+      "lessonId": "geo-mountains-deserts",
+      "difficulty": "hard",
+      "leadin": "Name these deserts, for 10 points each.",
+      "parts": [
+        {
+          "question": "This desert in southern Africa covers much of Botswana.",
+          "answer": "Kalahari Desert",
+          "acceptable": [
+            "Kalahari"
+          ]
+        },
+        {
+          "question": "This U.S. desert contains Death Valley and Las Vegas.",
+          "answer": "Mojave Desert",
+          "acceptable": [
+            "Mojave"
+          ]
+        },
+        {
+          "question": "This continent is the largest desert on Earth.",
+          "answer": "Antarctica",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "geo-b-007",
+      "topic": "Physical Geography",
+      "lessonId": "geo-lakes-seas",
+      "difficulty": "easy",
+      "leadin": "Answer these questions about the Great Lakes, for 10 points each.",
+      "parts": [
+        {
+          "question": "This largest Great Lake borders Minnesota, Wisconsin and Michigan.",
+          "answer": "Lake Superior",
+          "acceptable": [
+            "Superior"
+          ]
+        },
+        {
+          "question": "This is the only Great Lake entirely inside the United States.",
+          "answer": "Lake Michigan",
+          "acceptable": [
+            "Michigan"
+          ]
+        },
+        {
+          "question": "Niagara Falls lies on the river connecting Lake Ontario to this shallowest Great Lake.",
+          "answer": "Lake Erie",
+          "acceptable": [
+            "Erie"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-b-008",
+      "topic": "Physical Geography",
+      "lessonId": "geo-lakes-seas",
+      "difficulty": "hard",
+      "leadin": "Name these narrow waterways, for 10 points each.",
+      "parts": [
+        {
+          "question": "This strait separates Spain from Morocco.",
+          "answer": "Strait of Gibraltar",
+          "acceptable": [
+            "Gibraltar"
+          ]
+        },
+        {
+          "question": "This strait runs through Istanbul and connects the Black Sea to the Sea of Marmara.",
+          "answer": "Bosporus",
+          "acceptable": [
+            "Bosphorus",
+            "Istanbul Strait"
+          ]
+        },
+        {
+          "question": "This canal, opened in 1914, lets ships cross Central America.",
+          "answer": "Panama Canal",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "geo-b-009",
+      "topic": "Countries and Capitals",
+      "lessonId": "geo-capitals",
+      "difficulty": "easy",
+      "leadin": "Name the capitals of these countries, for 10 points each.",
+      "parts": [
+        {
+          "question": "Egypt.",
+          "answer": "Cairo",
+          "acceptable": []
+        },
+        {
+          "question": "Japan.",
+          "answer": "Tokyo",
+          "acceptable": []
+        },
+        {
+          "question": "Argentina.",
+          "answer": "Buenos Aires",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "geo-b-010",
+      "topic": "Countries and Capitals",
+      "lessonId": "geo-capitals",
+      "difficulty": "hard",
+      "leadin": "Name the capitals of these countries, for 10 points each.",
+      "parts": [
+        {
+          "question": "Pakistan.",
+          "answer": "Islamabad",
+          "acceptable": []
+        },
+        {
+          "question": "Switzerland.",
+          "answer": "Bern",
+          "acceptable": [
+            "Berne"
+          ]
+        },
+        {
+          "question": "Kenya.",
+          "answer": "Nairobi",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "geo-b-011",
+      "topic": "U.S. Geography",
+      "lessonId": "geo-us",
+      "difficulty": "easy",
+      "leadin": "Name the capitals of these U.S. states, for 10 points each.",
+      "parts": [
+        {
+          "question": "New York.",
+          "answer": "Albany",
+          "acceptable": []
+        },
+        {
+          "question": "Texas.",
+          "answer": "Austin",
+          "acceptable": []
+        },
+        {
+          "question": "Florida.",
+          "answer": "Tallahassee",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "geo-b-012",
+      "topic": "U.S. Geography",
+      "lessonId": "geo-us",
+      "difficulty": "medium",
+      "leadin": "Answer these questions about U.S. landmarks, for 10 points each.",
+      "parts": [
+        {
+          "question": "Mount Rushmore is in this state's Black Hills.",
+          "answer": "South Dakota",
+          "acceptable": []
+        },
+        {
+          "question": "Name any two of the four states that meet at Four Corners.",
+          "answer": "any two of Arizona, Colorado, New Mexico and Utah",
+          "acceptable": []
+        },
+        {
+          "question": "Name the 50th state, which joined the Union in 1959.",
+          "answer": "Hawaii",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "geo-b-013",
+      "topic": "World Regions",
+      "lessonId": "geo-europe",
+      "difficulty": "easy",
+      "leadin": "Name these European countries, for 10 points each.",
+      "parts": [
+        {
+          "question": "This country shares the Iberian Peninsula with Spain.",
+          "answer": "Portugal",
+          "acceptable": []
+        },
+        {
+          "question": "This landlocked Alpine country has four national languages and is famous for neutrality.",
+          "answer": "Switzerland",
+          "acceptable": []
+        },
+        {
+          "question": "This country is the largest in the world and stretches from Europe to the Pacific.",
+          "answer": "Russia",
+          "acceptable": [
+            "Russian Federation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-b-014",
+      "topic": "World Regions",
+      "lessonId": "geo-europe",
+      "difficulty": "medium",
+      "leadin": "Name the rivers that flow through these European cities, for 10 points each.",
+      "parts": [
+        {
+          "question": "Paris.",
+          "answer": "Seine River",
+          "acceptable": [
+            "Seine"
+          ]
+        },
+        {
+          "question": "Rome.",
+          "answer": "Tiber River",
+          "acceptable": [
+            "Tiber"
+          ]
+        },
+        {
+          "question": "Cologne, Germany.",
+          "answer": "Rhine River",
+          "acceptable": [
+            "Rhine"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-b-015",
+      "topic": "World Regions",
+      "lessonId": "geo-asia-africa",
+      "difficulty": "medium",
+      "leadin": "Answer these questions about Africa, for 10 points each.",
+      "parts": [
+        {
+          "question": "Name the most populous country in Africa.",
+          "answer": "Nigeria",
+          "acceptable": []
+        },
+        {
+          "question": "Name the largest country in Africa by area.",
+          "answer": "Algeria",
+          "acceptable": []
+        },
+        {
+          "question": "Name the city in Sudan where the White Nile and Blue Nile meet.",
+          "answer": "Khartoum",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "geo-b-016",
+      "topic": "World Regions",
+      "lessonId": "geo-asia-africa",
+      "difficulty": "hard",
+      "leadin": "Answer these questions about Asia, for 10 points each.",
+      "parts": [
+        {
+          "question": "Name the country that passed China in 2023 to have the world's largest population.",
+          "answer": "India",
+          "acceptable": []
+        },
+        {
+          "question": "Name Japan's largest island, home to Tokyo and Osaka.",
+          "answer": "Honshu",
+          "acceptable": []
+        },
+        {
+          "question": "Name the river that flows through Laos, Cambodia and Vietnam to a large delta.",
+          "answer": "Mekong River",
+          "acceptable": [
+            "Mekong"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-b-017",
+      "topic": "World Regions",
+      "lessonId": "geo-americas",
+      "difficulty": "medium",
+      "leadin": "Name these South American countries, for 10 points each.",
+      "parts": [
+        {
+          "question": "Machu Picchu, the Inca mountain city, is in this country.",
+          "answer": "Peru",
+          "acceptable": []
+        },
+        {
+          "question": "This long, thin country lies between the Andes and the Pacific.",
+          "answer": "Chile",
+          "acceptable": []
+        },
+        {
+          "question": "This country is named for the line of latitude that crosses it.",
+          "answer": "Ecuador",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "geo-b-018",
+      "topic": "World Regions",
+      "lessonId": "geo-americas",
+      "difficulty": "hard",
+      "leadin": "Answer these questions about Canada, for 10 points each.",
+      "parts": [
+        {
+          "question": "Name the French-speaking province whose largest city is Montreal.",
+          "answer": "Quebec",
+          "acceptable": []
+        },
+        {
+          "question": "Name the province on the Pacific coast whose largest city is Vancouver.",
+          "answer": "British Columbia",
+          "acceptable": []
+        },
+        {
+          "question": "Canada ranks at this position among the world's countries by area.",
+          "answer": "second",
+          "acceptable": [
+            "2nd",
+            "2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-b-019",
+      "topic": "Physical Geography",
+      "lessonId": "geo-mountains-deserts",
+      "difficulty": "easy",
+      "leadin": "Name the highest mountain on each of these continents, for 10 points each.",
+      "parts": [
+        {
+          "question": "Asia.",
+          "answer": "Mount Everest",
+          "acceptable": [
+            "Everest"
+          ]
+        },
+        {
+          "question": "Africa.",
+          "answer": "Mount Kilimanjaro",
+          "acceptable": [
+            "Kilimanjaro"
+          ]
+        },
+        {
+          "question": "South America.",
+          "answer": "Aconcagua",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "geo-b-020",
+      "topic": "U.S. Geography",
+      "lessonId": "geo-us",
+      "difficulty": "hard",
+      "leadin": "Answer these questions about the geography of the American West, for 10 points each.",
+      "parts": [
+        {
+          "question": "Name the salty lake in Utah left over from ancient Lake Bonneville.",
+          "answer": "Great Salt Lake",
+          "acceptable": []
+        },
+        {
+          "question": "Name the national park in California that has the lowest point in North America.",
+          "answer": "Death Valley National Park",
+          "acceptable": [
+            "Death Valley"
+          ]
+        },
+        {
+          "question": "Name the river that carved the Grand Canyon.",
+          "answer": "Colorado River",
+          "acceptable": [
+            "Colorado"
+          ]
         }
       ]
     }

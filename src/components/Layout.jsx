@@ -3,7 +3,9 @@ import { NavLink, Outlet, useLocation } from 'react-router-dom';
 
 export default function Layout() {
   const { pathname } = useLocation();
-  useEffect(() => window.scrollTo(0, 0), [pathname]);
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [pathname]);
 
   return (
     <div className="app">
@@ -13,7 +15,8 @@ export default function Layout() {
         </NavLink>
         <nav className="site-nav" aria-label="Main">
           <NavLink to="/" end>Subjects</NavLink>
-          {/* Quiz and Review links go here. */}
+          <NavLink to="/quiz">Quiz</NavLink>
+          <NavLink to="/review">Review</NavLink>
         </nav>
       </header>
       <main className="site-main">

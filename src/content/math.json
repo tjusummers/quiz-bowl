@@ -1,0 +1,90 @@
+{
+  "id": "math",
+  "name": "Math",
+  "icon": "➗",
+  "description": "Quick computation, number facts and famous mathematicians.",
+  "lessons": [
+    {
+      "id": "math-primes",
+      "title": "Prime Numbers",
+      "topic": "Number Theory",
+      "difficulty": "easy",
+      "body": "A **prime number** has exactly two factors: 1 and itself. The first primes are 2, 3, 5, 7, 11, 13, 17, 19, 23, 29.\n\n- **1 is not prime** (it has only one factor).\n- **2 is the only even prime.**\n- A number bigger than 1 that is not prime is **composite**.\n- Every whole number greater than 1 can be written as a product of primes in exactly one way (the **Fundamental Theorem of Arithmetic**). Example: 60 = 2 × 2 × 3 × 5.\n- **Euclid** proved there are infinitely many primes.\n- The **Sieve of Eratosthenes** finds primes by crossing out multiples.\n\n**Quick test:** to check if n is prime, you only need to try dividing by primes up to √n.",
+      "keyFacts": [
+        "1 is neither prime nor composite.",
+        "2 is the only even prime number.",
+        "Euclid proved there are infinitely many primes.",
+        "The Sieve of Eratosthenes finds primes by crossing out multiples.",
+        "There are 25 primes less than 100."
+      ]
+    },
+    {
+      "id": "math-geometry-basics",
+      "title": "Area, Angles and Pi",
+      "topic": "Geometry",
+      "difficulty": "medium",
+      "body": "Quiz bowl math is about speed. Memorize these:\n\n- Angles in a **triangle** add to **180°**; in a quadrilateral, **360°**. In any polygon with n sides, the interior angles add to **(n − 2) × 180°**.\n- **Pythagorean theorem:** in a right triangle, a² + b² = c². Common triples: 3-4-5, 5-12-13, 8-15-17.\n- **Circle:** circumference = 2πr, area = πr². **π ≈ 3.14159**.\n- **Triangle area** = ½ × base × height.\n\n**Example:** a right triangle has legs 6 and 8. The hypotenuse is √(36 + 64) = √100 = 10 (a 3-4-5 triangle doubled).",
+      "keyFacts": [
+        "Triangle angles add to 180 degrees.",
+        "Polygon interior angles add to (n − 2) × 180 degrees.",
+        "a² + b² = c² for right triangles.",
+        "Area of a circle is π r squared.",
+        "Pi is about 3.14159."
+      ]
+    }
+  ],
+  "tossups": [
+    {
+      "id": "math-t-001",
+      "topic": "Number Theory",
+      "lessonId": "math-primes",
+      "difficulty": "easy",
+      "question": "Euclid proved that there are infinitely many of these numbers. The Sieve of Eratosthenes finds them, and the only even one is 2. For 10 points, name these whole numbers greater than 1 whose only factors are 1 and themselves.",
+      "powerIndex": 100,
+      "answer": "prime numbers",
+      "acceptable": [
+        "primes"
+      ]
+    },
+    {
+      "id": "math-t-002",
+      "topic": "Geometry",
+      "lessonId": "math-geometry-basics",
+      "difficulty": "medium",
+      "question": "For 10 points, what is the sum, in degrees, of the interior angles of a hexagon?",
+      "powerIndex": null,
+      "answer": "720 degrees",
+      "acceptable": [
+        "720"
+      ]
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "math-b-001",
+      "topic": "Geometry",
+      "lessonId": "math-geometry-basics",
+      "difficulty": "medium",
+      "leadin": "Answer these quick geometry questions, for 10 points each.",
+      "parts": [
+        {
+          "question": "A right triangle has legs 5 and 12. How long is its hypotenuse?",
+          "answer": "13",
+          "acceptable": []
+        },
+        {
+          "question": "What is the area of a circle with radius 3? Leave your answer in terms of pi.",
+          "answer": "9π",
+          "acceptable": [
+            "9 pi"
+          ]
+        },
+        {
+          "question": "Two angles of a triangle are 50 and 60 degrees. How many degrees is the third angle?",
+          "answer": "70",
+          "acceptable": []
+        }
+      ]
+    }
+  ]
+}

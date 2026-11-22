@@ -1,0 +1,94 @@
+{
+  "id": "fine-arts",
+  "name": "Fine Arts",
+  "icon": "🎨",
+  "description": "Painting, sculpture, classical music and the artists behind them.",
+  "lessons": [
+    {
+      "id": "arts-renaissance-painters",
+      "title": "Renaissance Painters",
+      "topic": "Painting",
+      "difficulty": "easy",
+      "body": "The **Renaissance** (“rebirth”) began in Italy in the 1400s.\n\n- **Leonardo da Vinci** painted the **Mona Lisa** (in the Louvre, Paris) and **The Last Supper** (on a wall in Milan). He also filled notebooks with inventions and anatomy drawings.\n- **Michelangelo** painted the **Sistine Chapel ceiling**, including *The Creation of Adam*, and sculpted **David** and the **Pietà**.\n- **Raphael** painted **The School of Athens**, showing Plato and Aristotle at the center.\n- **Sandro Botticelli** painted **The Birth of Venus**, where the goddess stands on a scallop shell.\n\n**Tip:** link each artist to one painting and one city.",
+      "keyFacts": [
+        "The Mona Lisa hangs in the Louvre in Paris.",
+        "The Last Supper is a wall painting in Milan.",
+        "Michelangelo painted the Sistine Chapel ceiling and sculpted David.",
+        "Raphael painted The School of Athens.",
+        "Botticelli’s Venus stands on a scallop shell."
+      ]
+    },
+    {
+      "id": "arts-composers",
+      "title": "Great Composers",
+      "topic": "Music",
+      "difficulty": "medium",
+      "body": "Classical music questions often name a famous piece and ask for the composer.\n\n- **Johann Sebastian Bach** (Baroque): the *Brandenburg Concertos*.\n- **Wolfgang Amadeus Mozart** (Classical): child prodigy from Salzburg; operas *The Magic Flute* and *The Marriage of Figaro*.\n- **Ludwig van Beethoven**: kept composing after going deaf. His **Symphony No. 5** begins “da-da-da-DUM,” and his **Symphony No. 9** ends with the “Ode to Joy.”\n- **Pyotr Ilyich Tchaikovsky**: the ballets *Swan Lake* and *The Nutcracker*, and the *1812 Overture* with real cannons.\n- **Antonio Vivaldi**: *The Four Seasons*, four violin concertos.",
+      "keyFacts": [
+        "Beethoven’s Ninth Symphony ends with the “Ode to Joy.”",
+        "Beethoven went deaf but kept composing.",
+        "Tchaikovsky wrote The Nutcracker and Swan Lake.",
+        "Vivaldi wrote The Four Seasons.",
+        "Mozart was born in Salzburg, Austria."
+      ]
+    }
+  ],
+  "tossups": [
+    {
+      "id": "arts-t-001",
+      "topic": "Painting",
+      "lessonId": "arts-renaissance-painters",
+      "difficulty": "easy",
+      "question": "This artist complained that he was a sculptor, not a painter, when the pope gave him a huge painting job. He carved the Pietà, and he painted God reaching toward Adam on the Sistine Chapel ceiling. For 10 points, name this Italian artist who sculpted David.",
+      "powerIndex": 126,
+      "answer": "Michelangelo Buonarroti",
+      "acceptable": [
+        "Michelangelo"
+      ]
+    },
+    {
+      "id": "arts-t-002",
+      "topic": "Music",
+      "lessonId": "arts-composers",
+      "difficulty": "medium",
+      "question": "This composer wrote a piano piece called “Für Elise.” He was almost totally deaf when his Ninth Symphony, featuring the “Ode to Joy,” was first performed. For 10 points, name this German composer of a Fifth Symphony that begins with four famous notes.",
+      "powerIndex": 80,
+      "answer": "Ludwig van Beethoven",
+      "acceptable": [
+        "Beethoven"
+      ]
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "arts-b-001",
+      "topic": "Music",
+      "lessonId": "arts-composers",
+      "difficulty": "easy",
+      "leadin": "Name these composers from one of their works, for 10 points each.",
+      "parts": [
+        {
+          "question": "The Nutcracker and Swan Lake.",
+          "answer": "Pyotr Ilyich Tchaikovsky",
+          "acceptable": [
+            "Tchaikovsky"
+          ]
+        },
+        {
+          "question": "The Four Seasons.",
+          "answer": "Antonio Vivaldi",
+          "acceptable": [
+            "Vivaldi"
+          ]
+        },
+        {
+          "question": "The Magic Flute.",
+          "answer": "Wolfgang Amadeus Mozart",
+          "acceptable": [
+            "Mozart"
+          ]
+        }
+      ]
+    }
+  ]
+}

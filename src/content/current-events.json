@@ -1,0 +1,92 @@
+{
+  "id": "current-events",
+  "name": "Current Events",
+  "icon": "📰",
+  "description": "How government and world organizations work, so you can follow the news.",
+  "lessons": [
+    {
+      "id": "ce-us-government",
+      "title": "How the U.S. Government Works",
+      "topic": "Civics",
+      "difficulty": "easy",
+      "body": "Current events questions are much easier when you know how the government works.\n\n## Three branches\n- **Legislative (Congress):** the **Senate** (100 senators, 2 per state, 6-year terms) and the **House of Representatives** (435 members, 2-year terms). Congress writes laws.\n- **Executive:** the **President** (4-year term, at most two elected terms) and the Cabinet. The President can **veto** bills; Congress can override with a two-thirds vote in both houses.\n- **Judicial:** the **Supreme Court**, with **nine justices** appointed for life.\n\n## Elections\nPresidents are chosen by the **Electoral College**: 538 electors, and a candidate needs **270** to win.\n\n**Study habit:** read one news story a day and ask which branch is acting.",
+      "keyFacts": [
+        "The Senate has 100 members; the House has 435.",
+        "The Supreme Court has nine justices.",
+        "A presidential veto can be overridden by a two-thirds vote of both houses.",
+        "There are 538 electoral votes; 270 are needed to win.",
+        "The 22nd Amendment limits presidents to two elected terms."
+      ]
+    },
+    {
+      "id": "ce-world-organizations",
+      "title": "World Organizations",
+      "topic": "World Affairs",
+      "difficulty": "medium",
+      "body": "International organizations appear in the news every week.\n\n- **United Nations (UN):** founded in **1945**, headquartered in **New York City**. The **Security Council** has five permanent members with veto power: the **United States, United Kingdom, France, Russia and China**.\n- **NATO:** a military alliance founded in **1949**; members agree that an attack on one is an attack on all (Article 5).\n- **European Union (EU):** headquartered mainly in **Brussels**; many members use the **euro**. The UK left in 2020 (“Brexit”).\n- **World Health Organization (WHO):** a UN agency based in **Geneva**.\n\n**Tip:** when you see a news story, note which organization is involved and where it meets.",
+      "keyFacts": [
+        "The UN was founded in 1945 and is based in New York City.",
+        "The five permanent Security Council members are the US, UK, France, Russia and China.",
+        "NATO was founded in 1949; Article 5 is its collective defense clause.",
+        "The EU is headquartered mainly in Brussels.",
+        "The WHO is based in Geneva."
+      ]
+    }
+  ],
+  "tossups": [
+    {
+      "id": "ce-t-001",
+      "topic": "Civics",
+      "lessonId": "ce-us-government",
+      "difficulty": "easy",
+      "question": "The size of this body was fixed at 435 voting members in 1911 law, and seats in it are reassigned after every census. Its members serve two-year terms, and it is led by the Speaker. For 10 points, name this lower house of the U.S. Congress.",
+      "powerIndex": 117,
+      "answer": "House of Representatives",
+      "acceptable": [
+        "the House"
+      ]
+    },
+    {
+      "id": "ce-t-002",
+      "topic": "World Affairs",
+      "lessonId": "ce-world-organizations",
+      "difficulty": "medium",
+      "question": "This organization’s Article 5 was invoked for the first time after the September 11 attacks. It was founded in 1949, and its members promise that an attack on one is an attack on all. For 10 points, name this military alliance of North American and European countries.",
+      "powerIndex": 116,
+      "answer": "NATO",
+      "acceptable": [
+        "North Atlantic Treaty Organization"
+      ]
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "ce-b-001",
+      "topic": "World Affairs",
+      "lessonId": "ce-world-organizations",
+      "difficulty": "medium",
+      "leadin": "Answer these questions about the United Nations, for 10 points each.",
+      "parts": [
+        {
+          "question": "The UN’s headquarters is in this U.S. city.",
+          "answer": "New York City",
+          "acceptable": [
+            "New York"
+          ]
+        },
+        {
+          "question": "This UN body has five permanent members who each hold a veto.",
+          "answer": "Security Council",
+          "acceptable": [
+            "UNSC"
+          ]
+        },
+        {
+          "question": "The UN was founded in this year, at the end of World War II.",
+          "answer": "1945",
+          "acceptable": []
+        }
+      ]
+    }
+  ]
+}

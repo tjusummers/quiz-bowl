@@ -1,0 +1,88 @@
+{
+  "id": "mythology",
+  "name": "Mythology",
+  "icon": "⚡",
+  "description": "Greek, Roman, Norse and other myths, gods and heroes.",
+  "lessons": [
+    {
+      "id": "myth-olympians",
+      "title": "The Greek Olympians",
+      "topic": "Greek Mythology",
+      "difficulty": "easy",
+      "body": "The twelve **Olympians** lived on Mount Olympus. Quiz bowl often asks for the **Roman name** too.\n\n| Greek | Roman | Domain | Symbol |\n|---|---|---|---|\n| Zeus | Jupiter | King of the gods, sky | Thunderbolt, eagle |\n| Hera | Juno | Queen, marriage | Peacock |\n| Poseidon | Neptune | Sea | Trident |\n| Athena | Minerva | Wisdom, war strategy | Owl |\n| Apollo | Apollo | Sun, music, prophecy | Lyre |\n| Artemis | Diana | Hunt, moon | Bow |\n| Ares | Mars | War | Spear |\n| Aphrodite | Venus | Love | Dove |\n| Hermes | Mercury | Messenger | Winged sandals |\n| Hephaestus | Vulcan | Fire, forge | Hammer |\n\n**Hades** (Roman Pluto) ruled the underworld but lived there, not on Olympus.",
+      "keyFacts": [
+        "Zeus is called Jupiter by the Romans.",
+        "Athena was born fully grown from Zeus’s head.",
+        "Poseidon carries a trident.",
+        "Hermes wears winged sandals and guides souls to the underworld.",
+        "Apollo and Artemis are twins."
+      ]
+    },
+    {
+      "id": "myth-norse",
+      "title": "Norse Gods",
+      "topic": "Norse Mythology",
+      "difficulty": "medium",
+      "body": "Norse myths come from Scandinavia and were written down in Iceland in works called the **Eddas**.\n\n- **Odin**, the all-father, gave up an eye to drink from Mímir’s well of wisdom. His ravens are Huginn and Muninn.\n- **Thor**, god of thunder, wields the hammer **Mjölnir**.\n- **Loki** is a trickster who causes the death of **Baldur** with a dart of mistletoe.\n- The world tree **Yggdrasil** connects the nine worlds, including **Asgard** (home of the gods) and **Midgard** (home of humans).\n- Warriors who die in battle may go to **Valhalla**, chosen by the **Valkyries**.\n- **Ragnarök** is the final battle that destroys the world.\n\nDays of the week honor these gods: Wednesday (Odin/Woden), Thursday (Thor), Friday (Frigg).",
+      "keyFacts": [
+        "Thor’s hammer is named Mjölnir.",
+        "Odin traded an eye for wisdom.",
+        "Yggdrasil is the world tree connecting nine worlds.",
+        "Loki caused Baldur’s death using mistletoe.",
+        "Ragnarök is the end of the world in Norse myth."
+      ]
+    }
+  ],
+  "tossups": [
+    {
+      "id": "myth-t-001",
+      "topic": "Greek Mythology",
+      "lessonId": "myth-olympians",
+      "difficulty": "easy",
+      "question": "This deity won a contest by giving an olive tree to a city. She was born fully armored from her father’s head, and her sacred animal is the owl. For 10 points, name this Greek goddess of wisdom for whom Athens is named.",
+      "powerIndex": 110,
+      "answer": "Athena",
+      "acceptable": [
+        "Pallas Athena"
+      ]
+    },
+    {
+      "id": "myth-t-002",
+      "topic": "Norse Mythology",
+      "lessonId": "myth-norse",
+      "difficulty": "medium",
+      "question": "This god owns a belt of strength and iron gloves. His goats Tanngrisnir and Tanngnjóstr pull his chariot, and he wields the hammer Mjölnir. For 10 points, name this Norse god of thunder.",
+      "powerIndex": 105,
+      "answer": "Thor",
+      "acceptable": []
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "myth-b-001",
+      "topic": "Greek Mythology",
+      "lessonId": "myth-olympians",
+      "difficulty": "easy",
+      "leadin": "Give the Roman names of these Greek gods, for 10 points each.",
+      "parts": [
+        {
+          "question": "Zeus, king of the gods.",
+          "answer": "Jupiter",
+          "acceptable": [
+            "Jove"
+          ]
+        },
+        {
+          "question": "Poseidon, god of the sea.",
+          "answer": "Neptune",
+          "acceptable": []
+        },
+        {
+          "question": "Hermes, the messenger god.",
+          "answer": "Mercury",
+          "acceptable": []
+        }
+      ]
+    }
+  ]
+}

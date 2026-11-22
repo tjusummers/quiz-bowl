@@ -62,6 +62,10 @@ export default function QuizPage() {
           you know the answer. Buzz in before the bold part ends for a <strong>power</strong> (15 points). A correct answer
           after that is 10, and a wrong answer while the question is still being read costs 5.
         </p>
+        <p>
+          Questions are read aloud, like a real moderator, so turn your sound up. Use the Sound button above each question
+          to turn the voice off or back on.
+        </p>
         <fieldset>
           <legend>Subjects</legend>
           {subjects.map((s) => (

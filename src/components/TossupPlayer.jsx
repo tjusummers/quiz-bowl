@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { tokenize, scoreBuzz } from '../lib/scoring.js';
 import { checkAnswer } from '../lib/answer.js';
+import { speechSupported, speakWords, stillSpeaking, rateFor, loadReadAloud, saveReadAloud } from '../lib/speech.js';
 import './quiz.css';
 
 export const SPEEDS = { slow: 450, normal: 300, fast: 180 };
@@ -24,6 +25,17 @@ export default function TossupPlayer({ tossup, wordMs = SPEEDS.normal, onDone, l
   const inputRef = useRef(null);
   const nextRef = useRef(null);
 
+  // Read aloud: the voice drives the word reveal when it reports word
+  // boundaries; otherwise the timer reveals words and the voice runs alongside.
+  const canSpeak = useMemo(() => speechSupported(), []);
+  const [readAloud, setReadAloud] = useState(loadReadAloud);
+  const speaking = canSpeak && readAloud;
+  const [voiceActive, setVoiceActive] = useState(false);
+  const voiceLeadsRef = useRef(false);
+  const shownRef = useRef(0);
+  shownRef.current = shown;
+  const isReading = phase === 'reading';
+
   // Reset when the question changes.
   useEffect(() => {
     setPhase('reading');
@@ -34,17 +46,56 @@ export default function TossupPlayer({ tossup, wordMs = SPEEDS.normal, onDone, l
     setResult(null);
   }, [tossup]);
 
+  // Speak the question while it is being read; stop on buzz, mute or unmount.
+  useEffect(() => {
+    if (!speaking || !isReading) return;
+    const from = shownRef.current;
+    if (from >= words.length) return;
+    voiceLeadsRef.current = false;
+    setVoiceActive(true);
+    const stop = speakWords(words, {
+      start: from,
+      rate: rateFor(wordMs),
+      onWord: (i) => {
+        voiceLeadsRef.current = true;
+        setShown((n) => Math.max(n, i + 1));
+      },
+      onEnd: () => {
+        setShown(words.length);
+        setVoiceActive(false);
+      },
+    });
+    return () => {
+      stop();
+      setVoiceActive(false);
+    };
+  }, [speaking, isReading, words, wordMs]);
+
   // Reveal words.
   useEffect(() => {
     if (phase !== 'reading') return;
     if (shown >= words.length) {
+      if (voiceActive) {
+        // All words are on screen; let the voice finish before the buzz window.
+        const t = setInterval(() => {
+          if (!stillSpeaking()) setVoiceActive(false);
+        }, 500);
+        return () => clearInterval(t);
+      }
       setPhase('waiting');
       setDeadline(Date.now() + BUZZ_WINDOW_MS);
       return;
     }
+    if (voiceActive && voiceLeadsRef.current) return; // the voice is revealing words
     const t = setTimeout(() => setShown((n) => n + 1), wordMs);
     return () => clearTimeout(t);
-  }, [phase, shown, words.length, wordMs]);
+  }, [phase, shown, words.length, wordMs, voiceActive]);
+
+  function toggleReadAloud() {
+    const next = !readAloud;
+    setReadAloud(next);
+    saveReadAloud(next);
+  }
 
   // Countdown clock for the buzz window and answer timer.
   useEffect(() => {
@@ -112,6 +163,18 @@ export default function TossupPlayer({ tossup, wordMs = SPEEDS.normal, onDone, l
       <div className="tossup-meta">
         {label && <span>{label}</span>}
         <span className="tossup-topic">{tossup.topic}</span>
+        {canSpeak && (
+          <button
+            type="button"
+            className="secondary sound-toggle"
+            aria-pressed={readAloud}
+            onClick={toggleReadAloud}
+            onKeyDown={(e) => e.code === 'Space' && e.preventDefault()}
+            title={readAloud ? 'Stop reading questions aloud' : 'Read questions aloud'}
+          >
+            {readAloud ? '🔊 Sound on' : '🔇 Sound off'}
+          </button>
+        )}
       </div>
 
       <p className="tossup-text" aria-live="off">

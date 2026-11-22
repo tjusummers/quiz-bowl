@@ -36,3 +36,6 @@ kbd { font-size: 0.75em; padding: 0.05rem 0.35rem; border: 1px solid currentColo
 .table-wrap { overflow-x: auto; }
 .quiz-page button:disabled, .review-page button:disabled { opacity: 0.5; cursor: not-allowed; }
 .quiz-page h1, .review-page h1 { margin-bottom: 0; }
+.tossup-meta { align-items: center; }
+.tossup-meta .tossup-topic { margin-right: auto; }
+.quiz-page button.sound-toggle, .review-page button.sound-toggle { padding: 0.3rem 0.7rem; font-size: 0.85rem; }

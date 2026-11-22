@@ -19,6 +19,48 @@
       ]
     },
     {
+      "id": "ce-constitution",
+      "title": "The Constitution and the Bill of Rights",
+      "topic": "Civics",
+      "difficulty": "easy",
+      "body": "The **U.S. Constitution** was written at the **Constitutional Convention** in **Philadelphia** in **1787**, with George Washington presiding. It replaced the weaker **Articles of Confederation**. **James Madison** is called the \"Father of the Constitution.\"\n\nIt begins with the **Preamble**: \"**We the People** of the United States, in Order to form a more perfect Union...\"\n\n## Big ideas\n- **Separation of powers** into three branches, with **checks and balances** so no branch gets too strong.\n- **Federalism**: power is shared between the national government and the states.\n- **Amendments** need a two-thirds vote of both houses of Congress and approval by three-fourths of the states. There are **27** amendments.\n\n## The Bill of Rights (first 10 amendments, ratified 1791)\n- **1st:** freedom of **religion, speech, press, assembly and petition**\n- **2nd:** right to keep and bear arms\n- **4th:** no unreasonable searches and seizures\n- **5th:** no one has to testify against themselves (\"pleading the Fifth\"); no double jeopardy\n- **6th:** right to a speedy and public trial\n- **8th:** no cruel and unusual punishment\n\n## Other amendments to know\n- **13th** (1865): ended slavery\n- **19th** (1920): women's right to vote\n- **22nd** (1951): two-term limit for presidents\n- **26th** (1971): lowered the voting age to **18**",
+      "keyFacts": [
+        "The Constitution was written in Philadelphia in 1787.",
+        "The Preamble begins 'We the People'.",
+        "The first ten amendments are the Bill of Rights.",
+        "The First Amendment protects religion, speech, press, assembly and petition.",
+        "The 19th Amendment gave women the vote; the 26th lowered the voting age to 18."
+      ]
+    },
+    {
+      "id": "ce-executive",
+      "title": "The President, Congress and the Cabinet",
+      "topic": "Civics",
+      "difficulty": "medium",
+      "body": "## Who can serve\n| Office | Minimum age | Other requirements |\n|---|---|---|\n| President | 35 | Natural-born citizen, 14 years living in the U.S. |\n| Senator | 30 | Citizen for 9 years |\n| Representative | 25 | Citizen for 7 years |\n\n## The executive branch\n- The **Vice President** is president of the **Senate** and casts a vote only to **break a tie**.\n- **Line of succession** if the President cannot serve: Vice President, then **Speaker of the House**, then **President pro tempore of the Senate**, then the **Secretary of State**.\n- The **Cabinet** is made of the heads of 15 executive departments. The **Secretary of State** handles relations with other countries; the **Secretary of the Treasury** handles money; the **Secretary of Defense** works at the **Pentagon**; the **Attorney General** leads the Department of Justice. The newest department is **Homeland Security** (2002).\n- The President lives in the **White House**, works in the **Oval Office**, and flies on **Air Force One**.\n\n## Impeachment\nThe **House** votes to **impeach** (formally accuse) an official by a simple majority. The **Senate** then holds a trial; a **two-thirds** vote is needed to convict and remove. The Chief Justice presides when a president is tried.\n\n## How a bill becomes a law\nA bill passes both the House and Senate, then goes to the President, who signs or **vetoes** it. A **filibuster** is a long speech used in the Senate to delay a vote.",
+      "keyFacts": [
+        "A president must be at least 35 years old.",
+        "The Vice President breaks ties in the Senate.",
+        "After the Vice President, the Speaker of the House is next in line.",
+        "The House impeaches; the Senate holds the trial.",
+        "The Secretary of State leads foreign relations."
+      ]
+    },
+    {
+      "id": "ce-courts-elections",
+      "title": "Courts, Landmark Cases and Elections",
+      "topic": "Civics",
+      "difficulty": "medium",
+      "body": "## The Supreme Court\nThe Court is led by the **Chief Justice**. It can strike down laws that break the Constitution, a power called **judicial review**.\n\n| Case | Year | Decision |\n|---|---|---|\n| **Marbury v. Madison** | 1803 | Established judicial review (Chief Justice **John Marshall**) |\n| **Plessy v. Ferguson** | 1896 | Allowed \"separate but equal\" segregation |\n| **Brown v. Board of Education** | 1954 | Ended segregation in public schools, overturning Plessy |\n| **Miranda v. Arizona** | 1966 | Police must tell suspects their rights (\"You have the right to remain silent\") |\n| **Tinker v. Des Moines** | 1969 | Students who wore black armbands to protest the Vietnam War had free speech rights at school |\n\n**Thurgood Marshall** argued *Brown* and later became the first Black Supreme Court justice.\n\n## Elections\n- Federal **Election Day** is the **Tuesday after the first Monday in November**.\n- **Midterm elections** happen halfway through a president's term. All 435 House seats and about **one-third** of the Senate are elected every two years.\n- Parties pick candidates in **primaries** and **caucuses**, then hold national **conventions**.\n- The **census**, taken every **10 years**, decides how many House seats each state gets.\n- Each state's number of **electoral votes** equals its House seats plus its two senators. Washington, D.C., gets three.",
+      "keyFacts": [
+        "Marbury v. Madison (1803) established judicial review.",
+        "Brown v. Board of Education (1954) ended school segregation.",
+        "Miranda v. Arizona requires police to read suspects their rights.",
+        "Election Day is the Tuesday after the first Monday in November.",
+        "The census every 10 years sets how many House seats each state gets."
+      ]
+    },
+    {
       "id": "ce-world-organizations",
       "title": "World Organizations",
       "topic": "World Affairs",
@@ -30,6 +72,76 @@
         "NATO was founded in 1949; Article 5 is its collective defense clause.",
         "The EU is headquartered mainly in Brussels.",
         "The WHO is based in Geneva."
+      ]
+    },
+    {
+      "id": "ce-un-agencies",
+      "title": "Inside the United Nations",
+      "topic": "World Affairs",
+      "difficulty": "medium",
+      "body": "The **United Nations Charter** was signed in **San Francisco** in **1945**. The UN replaced the **League of Nations**, which the United States never joined.\n\n## Main parts of the UN\n- **General Assembly:** all **193** member countries, each with one vote.\n- **Security Council:** **15** members. Five are permanent and have a **veto**; the other ten are elected for two-year terms.\n- **Secretary-General:** the UN's chief officer.\n- **International Court of Justice:** settles disputes between countries; it sits in the **Peace Palace** in **The Hague**, Netherlands.\n\n## UN agencies\n| Agency | What it does | Based in |\n|---|---|---|\n| **UNICEF** | Helps children around the world | New York |\n| **UNESCO** | Education, science and culture; names **World Heritage Sites** | Paris |\n| **WHO** | Global health | Geneva |\n| **UNHCR** | Protects refugees | Geneva |\n| **WFP** (World Food Programme) | Fights hunger | Rome |\n\n## Human rights\nThe **Universal Declaration of Human Rights** was adopted on **December 10, 1948**. **Eleanor Roosevelt** led the committee that wrote it. December 10 is now **Human Rights Day**.\n\nUN **peacekeepers** wear **blue helmets**.",
+      "keyFacts": [
+        "The UN Charter was signed in San Francisco in 1945.",
+        "The General Assembly includes all 193 member countries.",
+        "The International Court of Justice sits in The Hague.",
+        "UNESCO names World Heritage Sites.",
+        "Eleanor Roosevelt led the drafting of the Universal Declaration of Human Rights (1948)."
+      ]
+    },
+    {
+      "id": "ce-alliances",
+      "title": "Alliances and Regional Organizations",
+      "topic": "World Affairs",
+      "difficulty": "hard",
+      "body": "Countries team up in groups for trade, defense and cooperation.\n\n| Group | Members or purpose | Headquarters |\n|---|---|---|\n| **European Union** | 27 countries; the **euro** is used by many of them | Brussels (Parliament also meets in **Strasbourg**) |\n| **African Union** | 55 African countries | **Addis Ababa**, Ethiopia |\n| **ASEAN** | 11 Southeast Asian nations | Jakarta, Indonesia |\n| **Organization of American States** | Countries of the Americas | Washington, D.C. |\n| **OPEC** | Oil-exporting countries | **Vienna**, Austria |\n| **Commonwealth of Nations** | Mostly former parts of the British Empire | London |\n\n## The G7 and G20\nThe **G7** is a group of seven large economies: the **United States, Canada, the United Kingdom, France, Germany, Italy and Japan**. The **G20** adds big economies such as China, India and Brazil.\n\n## Inside the EU\nThe **Schengen Area**, named for a village in Luxembourg, lets people cross most European borders without passport checks. The **European Central Bank** in **Frankfurt** manages the euro.\n\n## Humanitarian groups\n- The **International Committee of the Red Cross** was founded in **Geneva** in **1863**. Its founder, **Henri Dunant**, shared the first Nobel Peace Prize.\n- **Doctors Without Borders** (Médecins Sans Frontières) sends medical teams to crisis zones; it won the Nobel Peace Prize in 1999.\n- The **Nobel Peace Prize** is awarded in **Oslo**, Norway.",
+      "keyFacts": [
+        "The G7 is the US, Canada, UK, France, Germany, Italy and Japan.",
+        "The African Union is headquartered in Addis Ababa, Ethiopia.",
+        "OPEC is a group of oil-exporting countries based in Vienna.",
+        "The Red Cross was founded in Geneva in 1863 by Henri Dunant.",
+        "The Nobel Peace Prize is awarded in Oslo, Norway."
+      ]
+    },
+    {
+      "id": "ce-world-governments",
+      "title": "How Other Countries Govern",
+      "topic": "World Affairs",
+      "difficulty": "hard",
+      "body": "Many countries use a **parliamentary system**: voters elect a legislature, and the leader of the largest party usually becomes **prime minister**.\n\n## Who's who\n- **United Kingdom:** a **constitutional monarchy**. The monarch is head of state, but the **prime minister** leads the government from **10 Downing Street**. Parliament has an elected **House of Commons** and an appointed **House of Lords**.\n- **Canada and Australia:** also parliamentary democracies with the British monarch as head of state, represented by a **governor-general**.\n- **Germany:** led by a **chancellor**, chosen by the parliament called the **Bundestag**.\n- **France:** has both a president (who lives in the **Élysée Palace**) and a prime minister. Its current system, the **Fifth Republic**, began in 1958 under Charles de Gaulle.\n- **Japan:** an **emperor** with a ceremonial role, and a prime minister chosen by the parliament called the **Diet**.\n- **India:** the world's **largest democracy**. Its parliament's lower house is the **Lok Sabha**.\n\n## Names of legislatures\n| Country | Legislature |\n|---|---|\n| Israel | **Knesset** |\n| Russia | Federal Assembly (lower house: **State Duma**) |\n| Iceland | **Althing**, founded in 930, one of the oldest in the world |\n| Japan | **Diet** |\n| Germany | **Bundestag** |",
+      "keyFacts": [
+        "The British prime minister lives at 10 Downing Street.",
+        "Germany's government is led by a chancellor chosen by the Bundestag.",
+        "Japan's parliament is called the Diet.",
+        "Israel's parliament is the Knesset.",
+        "India is the world's largest democracy."
+      ]
+    },
+    {
+      "id": "ce-economy",
+      "title": "Money and the Economy",
+      "topic": "Economics",
+      "difficulty": "medium",
+      "body": "News stories about the economy use a few key words again and again.\n\n- **Supply and demand:** when lots of people want something (high demand) and there isn't much of it (low supply), prices rise.\n- **Inflation:** a general rise in prices over time. It is often measured with the **Consumer Price Index (CPI)**.\n- **GDP (gross domestic product):** the total value of all goods and services a country produces in a year.\n- **Tariff:** a tax on goods brought in from another country.\n- **Budget deficit:** when a government spends more than it collects in one year. The **national debt** is the total it owes.\n- **The Federal Reserve** (\"the Fed\"), created in **1913**, is the U.S. central bank. It raises or lowers **interest rates** to fight inflation or help the economy grow.\n- **Stock market:** people buy shares of companies. The **New York Stock Exchange** is on **Wall Street**. A **bull market** is rising; a **bear market** is falling. The **Dow Jones Industrial Average** tracks 30 big companies.\n- **Adam Smith** wrote *The Wealth of Nations* (1776) and described the \"**invisible hand**\" of the market.\n\n## Currencies to know\n| Country | Currency |\n|---|---|\n| Japan | yen |\n| United Kingdom | pound sterling |\n| China | yuan (renminbi) |\n| India | rupee |\n| Mexico | peso |\n| Most EU countries | euro |\n\nThe **International Monetary Fund** and **World Bank** (both in Washington, D.C.) were created at the **Bretton Woods** conference in 1944. The **World Trade Organization** in Geneva sets trade rules.",
+      "keyFacts": [
+        "Inflation is a general rise in prices.",
+        "GDP is the total value of goods and services a country produces.",
+        "A tariff is a tax on imported goods.",
+        "The Federal Reserve is the U.S. central bank, created in 1913.",
+        "A bull market rises; a bear market falls."
+      ]
+    },
+    {
+      "id": "ce-news-literacy",
+      "title": "Reading the News Like an Expert",
+      "topic": "Media Literacy",
+      "difficulty": "easy",
+      "body": "Current events questions reward students who read news carefully. Here are the terms journalists use.\n\n## Parts of a news story\n- **Headline:** the title. **Byline:** the writer's name. **Dateline:** where (and sometimes when) the story was reported.\n- **Lede** (or lead): the first sentence, which should answer the **5 Ws**: who, what, when, where and why.\n- News stories use the **inverted pyramid**: the most important facts come first.\n\n## News or opinion?\n- A **news article** reports facts.\n- An **editorial** gives the opinion of the newspaper's editors.\n- An **op-ed** (originally \"opposite the editorial page\") is an opinion piece by an outside writer.\n- **Satire** makes fun of the news; it is not meant to be taken literally.\n\n## Sources\n- A **primary source** is firsthand evidence: a diary, a photo, a speech, an interview.\n- A **secondary source** explains or analyzes primary sources, like a textbook.\n- **Wire services** such as the **Associated Press (AP)** and **Reuters** send stories to news outlets around the world.\n\n## Freedom of the press\nThe **First Amendment** protects the press. The press is sometimes called the \"**Fourth Estate**.\" The **Pulitzer Prizes**, given by **Columbia University**, honor great journalism.\n\n**Tip:** check a surprising claim by reading what other trustworthy sources say about it (this is called **lateral reading**).",
+      "keyFacts": [
+        "A byline names the writer of a story.",
+        "The inverted pyramid puts the most important facts first.",
+        "An editorial gives the opinion of a newspaper's editors.",
+        "A primary source is firsthand evidence.",
+        "The Pulitzer Prizes honor excellent journalism."
       ]
     }
   ],
@@ -56,6 +168,558 @@
       "answer": "NATO",
       "acceptable": [
         "North Atlantic Treaty Organization"
+      ]
+    },
+    {
+      "id": "ce-t-003",
+      "topic": "Civics",
+      "lessonId": "ce-us-government",
+      "difficulty": "easy",
+      "question": "Each state elects two members of this body, and the Vice President presides over it. It must approve treaties and confirm Supreme Court justices. For 10 points, name this upper house of Congress, whose members serve six-year terms.",
+      "powerIndex": 100,
+      "answer": "United States Senate",
+      "acceptable": [
+        "Senate"
+      ]
+    },
+    {
+      "id": "ce-t-004",
+      "topic": "Civics",
+      "lessonId": "ce-us-government",
+      "difficulty": "medium",
+      "question": "The number of votes in this body is 538, and a candidate needs 270 to win. Each state's share equals its number of members of Congress. For 10 points, name this group that formally elects the President.",
+      "powerIndex": 125,
+      "answer": "Electoral College",
+      "acceptable": []
+    },
+    {
+      "id": "ce-t-005",
+      "topic": "Civics",
+      "lessonId": "ce-us-government",
+      "difficulty": "medium",
+      "question": "Congress can override this action with a two-thirds vote in both houses. A \"pocket\" version of it happens when Congress adjourns while a bill sits unsigned for ten days. For 10 points, name this power of the President to reject a bill.",
+      "powerIndex": 159,
+      "answer": "veto",
+      "acceptable": [
+        "pocket veto"
+      ]
+    },
+    {
+      "id": "ce-t-006",
+      "topic": "Civics",
+      "lessonId": "ce-us-government",
+      "difficulty": "hard",
+      "question": "This branch of government includes courts of appeals and district courts. At its head is a body of nine members who serve for life. For 10 points, name this branch of government that interprets the laws.",
+      "powerIndex": 98,
+      "answer": "judicial branch",
+      "acceptable": [
+        "judiciary",
+        "federal courts"
+      ]
+    },
+    {
+      "id": "ce-t-007",
+      "topic": "Civics",
+      "lessonId": "ce-constitution",
+      "difficulty": "easy",
+      "question": "This document's first three words are written in very large letters on the original. It begins \"We the People\" and was signed in Philadelphia in 1787. For 10 points, name this founding document of the United States government.",
+      "powerIndex": 128,
+      "answer": "United States Constitution",
+      "acceptable": [
+        "Constitution"
+      ]
+    },
+    {
+      "id": "ce-t-008",
+      "topic": "Civics",
+      "lessonId": "ce-constitution",
+      "difficulty": "easy",
+      "question": "This amendment protects the right to peacefully assemble and to petition the government. It also protects freedom of religion, freedom of the press and freedom of speech. For 10 points, name this first amendment in the Bill of Rights.",
+      "powerIndex": 141,
+      "answer": "First Amendment",
+      "acceptable": [
+        "1st Amendment"
+      ]
+    },
+    {
+      "id": "ce-t-009",
+      "topic": "Civics",
+      "lessonId": "ce-constitution",
+      "difficulty": "medium",
+      "question": "This amendment was ratified in 1920 after a campaign by Susan B. Anthony and Elizabeth Cady Stanton, who did not live to see it. It says the right to vote cannot be denied on account of sex. For 10 points, name this amendment that gave women the right to vote.",
+      "powerIndex": 185,
+      "answer": "Nineteenth Amendment",
+      "acceptable": [
+        "19th Amendment"
+      ]
+    },
+    {
+      "id": "ce-t-010",
+      "topic": "Civics",
+      "lessonId": "ce-constitution",
+      "difficulty": "medium",
+      "question": "This man kept detailed notes on the debates at the Constitutional Convention and wrote parts of The Federalist Papers. He drafted the Bill of Rights and later became the fourth President. For 10 points, name this \"Father of the Constitution.\"",
+      "powerIndex": 133,
+      "answer": "James Madison",
+      "acceptable": [
+        "Madison"
+      ]
+    },
+    {
+      "id": "ce-t-011",
+      "topic": "Civics",
+      "lessonId": "ce-constitution",
+      "difficulty": "hard",
+      "question": "This amendment was passed quickly in 1971, partly because young people were being drafted to fight in Vietnam. It lowered the voting age from 21 to 18. For 10 points, name this amendment.",
+      "powerIndex": 125,
+      "answer": "Twenty-sixth Amendment",
+      "acceptable": [
+        "26th Amendment"
+      ]
+    },
+    {
+      "id": "ce-t-012",
+      "topic": "Civics",
+      "lessonId": "ce-executive",
+      "difficulty": "easy",
+      "question": "This official casts a vote to break ties in the Senate and is first in line to become President. For 10 points, name this second-highest official in the executive branch.",
+      "powerIndex": 78,
+      "answer": "Vice President of the United States",
+      "acceptable": [
+        "Vice President",
+        "VP"
+      ]
+    },
+    {
+      "id": "ce-t-013",
+      "topic": "Civics",
+      "lessonId": "ce-executive",
+      "difficulty": "medium",
+      "question": "This official is second in the presidential line of succession and is elected by the whole lower house at the start of each Congress. For 10 points, name this presiding officer of the House of Representatives.",
+      "powerIndex": 90,
+      "answer": "Speaker of the House",
+      "acceptable": [
+        "Speaker"
+      ]
+    },
+    {
+      "id": "ce-t-014",
+      "topic": "Civics",
+      "lessonId": "ce-executive",
+      "difficulty": "medium",
+      "question": "This process has been used against presidents Andrew Johnson and Bill Clinton. It begins with a majority vote in the House, followed by a trial in the Senate. For 10 points, name this process for formally accusing an official of wrongdoing.",
+      "powerIndex": 137,
+      "answer": "impeachment",
+      "acceptable": [
+        "impeach"
+      ]
+    },
+    {
+      "id": "ce-t-015",
+      "topic": "Civics",
+      "lessonId": "ce-executive",
+      "difficulty": "hard",
+      "question": "This Cabinet officer is fourth in the line of succession and is the nation's top diplomat. Thomas Jefferson was the first to hold this job, which handles relations with other countries. For 10 points, name this Cabinet post.",
+      "powerIndex": 168,
+      "answer": "Secretary of State",
+      "acceptable": []
+    },
+    {
+      "id": "ce-t-016",
+      "topic": "Civics",
+      "lessonId": "ce-executive",
+      "difficulty": "hard",
+      "question": "This Senate tactic can be ended by a cloture vote of 60 senators. In 1957 Strom Thurmond used it for over 24 hours to delay a vote. For 10 points, name this tactic of using long speeches to block a bill.",
+      "powerIndex": 105,
+      "answer": "filibuster",
+      "acceptable": []
+    },
+    {
+      "id": "ce-t-017",
+      "topic": "Civics",
+      "lessonId": "ce-courts-elections",
+      "difficulty": "easy",
+      "question": "This case overturned the \"separate but equal\" rule of Plessy v. Ferguson. Thurgood Marshall argued it, and in 1954 the Supreme Court ended segregation in public schools. For 10 points, name this landmark case.",
+      "powerIndex": 138,
+      "answer": "Brown v. Board of Education of Topeka",
+      "acceptable": [
+        "Brown v. Board",
+        "Brown"
+      ]
+    },
+    {
+      "id": "ce-t-018",
+      "topic": "Civics",
+      "lessonId": "ce-courts-elections",
+      "difficulty": "medium",
+      "question": "This case began when a man arrested in Phoenix in 1963 confessed without being told he could have a lawyer. Because of it, police must tell suspects \"You have the right to remain silent.\" For 10 points, name this 1966 Supreme Court case.",
+      "powerIndex": 148,
+      "answer": "Miranda v. Arizona",
+      "acceptable": [
+        "Miranda"
+      ]
+    },
+    {
+      "id": "ce-t-019",
+      "topic": "Civics",
+      "lessonId": "ce-courts-elections",
+      "difficulty": "medium",
+      "question": "This case began when William Marbury did not receive his appointment as a justice of the peace. Chief Justice John Marshall's opinion established judicial review. For 10 points, name this 1803 Supreme Court case.",
+      "powerIndex": 109,
+      "answer": "Marbury v. Madison",
+      "acceptable": [
+        "Marbury"
+      ]
+    },
+    {
+      "id": "ce-t-020",
+      "topic": "Civics",
+      "lessonId": "ce-courts-elections",
+      "difficulty": "hard",
+      "question": "This case involved Mary Beth and John, students who wore black armbands to protest the Vietnam War. The Court said students do not lose their free speech rights \"at the schoolhouse gate.\" For 10 points, name this 1969 case from Iowa.",
+      "powerIndex": 141,
+      "answer": "Tinker v. Des Moines Independent Community School District",
+      "acceptable": [
+        "Tinker v. Des Moines",
+        "Tinker"
+      ]
+    },
+    {
+      "id": "ce-t-021",
+      "topic": "Civics",
+      "lessonId": "ce-courts-elections",
+      "difficulty": "hard",
+      "question": "This count is required by Article I of the Constitution, and it was first taken in 1790 under Thomas Jefferson. It is used to divide up House seats among the states. For 10 points, name this count of the U.S. population taken every ten years.",
+      "powerIndex": 135,
+      "answer": "United States census",
+      "acceptable": [
+        "census"
+      ]
+    },
+    {
+      "id": "ce-t-022",
+      "topic": "World Affairs",
+      "lessonId": "ce-world-organizations",
+      "difficulty": "easy",
+      "question": "This organization's flag shows a map of the world surrounded by olive branches, and its peacekeepers wear blue helmets. Its headquarters overlooks the East River in New York City. For 10 points, name this world organization founded in 1945.",
+      "powerIndex": 164,
+      "answer": "United Nations",
+      "acceptable": [
+        "UN"
+      ]
+    },
+    {
+      "id": "ce-t-023",
+      "topic": "World Affairs",
+      "lessonId": "ce-world-organizations",
+      "difficulty": "medium",
+      "question": "This organization's flag shows a circle of twelve gold stars on a blue background. Its member countries can travel and trade freely, and the United Kingdom left it in 2020. For 10 points, name this union of European countries.",
+      "powerIndex": 166,
+      "answer": "European Union",
+      "acceptable": [
+        "EU"
+      ]
+    },
+    {
+      "id": "ce-t-024",
+      "topic": "World Affairs",
+      "lessonId": "ce-world-organizations",
+      "difficulty": "hard",
+      "question": "This UN agency led the campaign that wiped out smallpox in 1980. Its headquarters is in Geneva, and it declares pandemics. For 10 points, name this UN agency for global health.",
+      "powerIndex": 111,
+      "answer": "World Health Organization",
+      "acceptable": [
+        "WHO"
+      ]
+    },
+    {
+      "id": "ce-t-025",
+      "topic": "World Affairs",
+      "lessonId": "ce-un-agencies",
+      "difficulty": "easy",
+      "question": "This UN organization was created in 1946 to help children after World War II. It sells greeting cards and runs a \"Trick-or-Treat\" fundraiser. For 10 points, name this UN agency for children.",
+      "powerIndex": 129,
+      "answer": "UNICEF",
+      "acceptable": [
+        "United Nations Children's Fund",
+        "United Nations International Children's Emergency Fund"
+      ]
+    },
+    {
+      "id": "ce-t-026",
+      "topic": "World Affairs",
+      "lessonId": "ce-un-agencies",
+      "difficulty": "medium",
+      "question": "This group chooses World Heritage Sites such as the Galápagos Islands and the Great Wall of China. It is based in Paris. For 10 points, name this UN agency for education, science and culture.",
+      "powerIndex": 113,
+      "answer": "UNESCO",
+      "acceptable": [
+        "United Nations Educational, Scientific and Cultural Organization"
+      ]
+    },
+    {
+      "id": "ce-t-027",
+      "topic": "World Affairs",
+      "lessonId": "ce-un-agencies",
+      "difficulty": "medium",
+      "question": "This document was adopted on December 10, 1948, a date now marked each year. Eleanor Roosevelt led the committee that wrote it. For 10 points, name this document whose 30 articles list the rights every person should have.",
+      "powerIndex": 102,
+      "answer": "Universal Declaration of Human Rights",
+      "acceptable": [
+        "UDHR"
+      ]
+    },
+    {
+      "id": "ce-t-028",
+      "topic": "World Affairs",
+      "lessonId": "ce-un-agencies",
+      "difficulty": "hard",
+      "question": "This court's judges serve nine-year terms, and it settles disputes between countries, not individuals. It meets in the Peace Palace in The Hague. For 10 points, name this main court of the United Nations.",
+      "powerIndex": 118,
+      "answer": "International Court of Justice",
+      "acceptable": [
+        "ICJ",
+        "World Court"
+      ]
+    },
+    {
+      "id": "ce-t-029",
+      "topic": "World Affairs",
+      "lessonId": "ce-un-agencies",
+      "difficulty": "hard",
+      "question": "This organization was proposed in the Fourteen Points of Woodrow Wilson, but the U.S. Senate refused to let America join. It was replaced by the United Nations. For 10 points, name this international organization founded after World War I.",
+      "powerIndex": 144,
+      "answer": "League of Nations",
+      "acceptable": []
+    },
+    {
+      "id": "ce-t-030",
+      "topic": "World Affairs",
+      "lessonId": "ce-alliances",
+      "difficulty": "medium",
+      "question": "This group's members are the United States, Canada, the United Kingdom, France, Germany, Italy and Japan. For 10 points, name this group of seven large economies whose leaders meet each year.",
+      "powerIndex": 88,
+      "answer": "G7",
+      "acceptable": [
+        "Group of Seven"
+      ]
+    },
+    {
+      "id": "ce-t-031",
+      "topic": "World Affairs",
+      "lessonId": "ce-alliances",
+      "difficulty": "medium",
+      "question": "This organization was founded in Baghdad in 1960 and is now based in Vienna. Its members, including Saudi Arabia, try to control the price of oil. For 10 points, name this group of petroleum-exporting countries.",
+      "powerIndex": 141,
+      "answer": "OPEC",
+      "acceptable": [
+        "Organization of the Petroleum Exporting Countries"
+      ]
+    },
+    {
+      "id": "ce-t-032",
+      "topic": "World Affairs",
+      "lessonId": "ce-alliances",
+      "difficulty": "hard",
+      "question": "This organization was founded in Geneva in 1863. Its founder Henri Dunant shared the first Nobel Peace Prize, and its symbol is a red cross on a white background. For 10 points, name this humanitarian organization.",
+      "powerIndex": 129,
+      "answer": "International Committee of the Red Cross",
+      "acceptable": [
+        "Red Cross",
+        "ICRC",
+        "Red Crescent"
+      ]
+    },
+    {
+      "id": "ce-t-033",
+      "topic": "World Affairs",
+      "lessonId": "ce-alliances",
+      "difficulty": "hard",
+      "question": "This organization replaced the Organisation of African Unity in 2002. It has 55 member states and is headquartered in Addis Ababa, Ethiopia. For 10 points, name this continent-wide organization.",
+      "powerIndex": 117,
+      "answer": "African Union",
+      "acceptable": [
+        "AU"
+      ]
+    },
+    {
+      "id": "ce-t-034",
+      "topic": "World Affairs",
+      "lessonId": "ce-alliances",
+      "difficulty": "hard",
+      "question": "This zone is named for a village in Luxembourg where an agreement was signed in 1985. Inside it, travelers can cross borders between most European countries without passport checks. For 10 points, name this area.",
+      "powerIndex": 164,
+      "answer": "Schengen Area",
+      "acceptable": [
+        "Schengen"
+      ]
+    },
+    {
+      "id": "ce-t-035",
+      "topic": "World Affairs",
+      "lessonId": "ce-world-governments",
+      "difficulty": "medium",
+      "question": "This official answers questions every week in the House of Commons and lives at 10 Downing Street. For 10 points, name this head of government of the United Kingdom.",
+      "powerIndex": 79,
+      "answer": "Prime Minister of the United Kingdom",
+      "acceptable": [
+        "Prime Minister",
+        "British Prime Minister",
+        "PM"
+      ]
+    },
+    {
+      "id": "ce-t-036",
+      "topic": "World Affairs",
+      "lessonId": "ce-world-governments",
+      "difficulty": "medium",
+      "question": "This country's lower house of parliament is the Lok Sabha. With more voters than any other nation, it is called the world's largest democracy. For 10 points, name this South Asian country.",
+      "powerIndex": 123,
+      "answer": "India",
+      "acceptable": [
+        "Republic of India",
+        "Bharat"
+      ]
+    },
+    {
+      "id": "ce-t-037",
+      "topic": "World Affairs",
+      "lessonId": "ce-world-governments",
+      "difficulty": "hard",
+      "question": "This country's parliament is the Bundestag, which meets in the Reichstag building with a glass dome. The head of its government is called the chancellor. For 10 points, name this country with its capital in Berlin.",
+      "powerIndex": 141,
+      "answer": "Germany",
+      "acceptable": [
+        "Federal Republic of Germany"
+      ]
+    },
+    {
+      "id": "ce-t-038",
+      "topic": "World Affairs",
+      "lessonId": "ce-world-governments",
+      "difficulty": "hard",
+      "question": "This legislature has 120 members and meets in Jerusalem. Its name comes from the Hebrew word for \"assembly.\" For 10 points, name this parliament of Israel.",
+      "powerIndex": 96,
+      "answer": "Knesset",
+      "acceptable": []
+    },
+    {
+      "id": "ce-t-039",
+      "topic": "World Affairs",
+      "lessonId": "ce-world-governments",
+      "difficulty": "hard",
+      "question": "This country's parliament is called the Diet, and its head of state sits on the Chrysanthemum Throne. Its ceremonial monarch is called an emperor. For 10 points, name this Asian country.",
+      "powerIndex": 137,
+      "answer": "Japan",
+      "acceptable": []
+    },
+    {
+      "id": "ce-t-040",
+      "topic": "Economics",
+      "lessonId": "ce-economy",
+      "difficulty": "easy",
+      "question": "The Consumer Price Index is used to measure this. When it happens, a dollar buys less than it used to. For 10 points, name this general rise in prices over time.",
+      "powerIndex": 80,
+      "answer": "inflation",
+      "acceptable": []
+    },
+    {
+      "id": "ce-t-041",
+      "topic": "Economics",
+      "lessonId": "ce-economy",
+      "difficulty": "medium",
+      "question": "This organization was created by the Federal Reserve Act of 1913. It has twelve regional banks and changes interest rates to control inflation. For 10 points, name this central bank of the United States.",
+      "powerIndex": 106,
+      "answer": "Federal Reserve System",
+      "acceptable": [
+        "the Fed",
+        "Federal Reserve"
+      ]
+    },
+    {
+      "id": "ce-t-042",
+      "topic": "Economics",
+      "lessonId": "ce-economy",
+      "difficulty": "medium",
+      "question": "This term names a tax on goods brought in from another country. The Smoot-Hawley Act of 1930 raised these taxes, which hurt world trade during the Great Depression. For 10 points, name these taxes on imports.",
+      "powerIndex": 123,
+      "answer": "tariffs",
+      "acceptable": [
+        "tariff",
+        "duties",
+        "import duties"
+      ]
+    },
+    {
+      "id": "ce-t-043",
+      "topic": "Economics",
+      "lessonId": "ce-economy",
+      "difficulty": "hard",
+      "question": "This book argues that the division of labor makes a pin factory productive, and it describes an \"invisible hand.\" For 10 points, name this 1776 book by Adam Smith.",
+      "powerIndex": 92,
+      "answer": "The Wealth of Nations",
+      "acceptable": [
+        "An Inquiry into the Nature and Causes of the Wealth of Nations"
+      ]
+    },
+    {
+      "id": "ce-t-044",
+      "topic": "Economics",
+      "lessonId": "ce-economy",
+      "difficulty": "hard",
+      "question": "This measure is often divided by population to compare living standards. It adds up the value of all goods and services produced inside a country in a year. For 10 points, name this measure of an economy's size.",
+      "powerIndex": 100,
+      "answer": "gross domestic product",
+      "acceptable": [
+        "GDP"
+      ]
+    },
+    {
+      "id": "ce-t-045",
+      "topic": "Media Literacy",
+      "lessonId": "ce-news-literacy",
+      "difficulty": "easy",
+      "question": "This structure is drawn as an upside-down triangle. Reporters use it so readers get the most important facts first. For 10 points, name this way of organizing a news story.",
+      "powerIndex": 87,
+      "answer": "inverted pyramid",
+      "acceptable": []
+    },
+    {
+      "id": "ce-t-046",
+      "topic": "Media Literacy",
+      "lessonId": "ce-news-literacy",
+      "difficulty": "medium",
+      "question": "Examples of these include Anne Frank's diary, a photograph of an event, and an interview with an eyewitness. For 10 points, name these firsthand pieces of evidence from the time being studied.",
+      "powerIndex": 96,
+      "answer": "primary sources",
+      "acceptable": [
+        "primary source"
+      ]
+    },
+    {
+      "id": "ce-t-047",
+      "topic": "Media Literacy",
+      "lessonId": "ce-news-literacy",
+      "difficulty": "medium",
+      "question": "These awards were set up in the will of a newspaper publisher who competed with William Randolph Hearst. They are given out by Columbia University. For 10 points, name these top American prizes for journalism.",
+      "powerIndex": 126,
+      "answer": "Pulitzer Prizes",
+      "acceptable": [
+        "Pulitzer Prize",
+        "Pulitzer"
+      ]
+    },
+    {
+      "id": "ce-t-048",
+      "topic": "Media Literacy",
+      "lessonId": "ce-news-literacy",
+      "difficulty": "hard",
+      "question": "This type of article was named because it was printed across from a newspaper's editorial page. It shares the opinion of a writer who does not work for the paper's editorial board. For 10 points, name this kind of opinion piece.",
+      "powerIndex": 109,
+      "answer": "op-ed",
+      "acceptable": [
+        "opinion editorial",
+        "opposite the editorial page"
       ]
     }
   ],
@@ -84,6 +748,539 @@
         {
           "question": "The UN was founded in this year, at the end of World War II.",
           "answer": "1945",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "ce-b-002",
+      "topic": "Civics",
+      "lessonId": "ce-us-government",
+      "difficulty": "easy",
+      "leadin": "Name these numbers about the U.S. government, for 10 points each.",
+      "parts": [
+        {
+          "question": "The number of senators from each state.",
+          "answer": "two",
+          "acceptable": [
+            "2"
+          ]
+        },
+        {
+          "question": "The number of years in a representative's term.",
+          "answer": "two",
+          "acceptable": [
+            "2"
+          ]
+        },
+        {
+          "question": "The number of justices on the Supreme Court.",
+          "answer": "nine",
+          "acceptable": [
+            "9"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce-b-003",
+      "topic": "Civics",
+      "lessonId": "ce-constitution",
+      "difficulty": "easy",
+      "leadin": "Name these amendments to the U.S. Constitution by number, for 10 points each.",
+      "parts": [
+        {
+          "question": "This amendment, ratified in 1865, ended slavery.",
+          "answer": "Thirteenth Amendment",
+          "acceptable": [
+            "13th"
+          ]
+        },
+        {
+          "question": "This amendment lets people refuse to testify against themselves.",
+          "answer": "Fifth Amendment",
+          "acceptable": [
+            "5th"
+          ]
+        },
+        {
+          "question": "This amendment limits presidents to two elected terms.",
+          "answer": "Twenty-second Amendment",
+          "acceptable": [
+            "22nd"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce-b-004",
+      "topic": "Civics",
+      "lessonId": "ce-constitution",
+      "difficulty": "medium",
+      "leadin": "Answer these questions about the Constitution, for 10 points each.",
+      "parts": [
+        {
+          "question": "Name the weaker plan of government that the Constitution replaced.",
+          "answer": "Articles of Confederation",
+          "acceptable": []
+        },
+        {
+          "question": "Name the system in which each branch can limit the powers of the others.",
+          "answer": "checks and balances",
+          "acceptable": [
+            "separation of powers"
+          ]
+        },
+        {
+          "question": "Name the fraction of states that must ratify a new amendment.",
+          "answer": "three-fourths",
+          "acceptable": [
+            "3/4",
+            "38 states"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce-b-005",
+      "topic": "Civics",
+      "lessonId": "ce-executive",
+      "difficulty": "medium",
+      "leadin": "Name the minimum age required for these offices, for 10 points each.",
+      "parts": [
+        {
+          "question": "President.",
+          "answer": "35",
+          "acceptable": [
+            "thirty-five"
+          ]
+        },
+        {
+          "question": "Senator.",
+          "answer": "30",
+          "acceptable": [
+            "thirty"
+          ]
+        },
+        {
+          "question": "Member of the House of Representatives.",
+          "answer": "25",
+          "acceptable": [
+            "twenty-five"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce-b-006",
+      "topic": "Civics",
+      "lessonId": "ce-executive",
+      "difficulty": "hard",
+      "leadin": "Name these places or things linked to the President, for 10 points each.",
+      "parts": [
+        {
+          "question": "The oval-shaped room in the West Wing where the President works.",
+          "answer": "Oval Office",
+          "acceptable": []
+        },
+        {
+          "question": "The presidential retreat in the mountains of Maryland.",
+          "answer": "Camp David",
+          "acceptable": []
+        },
+        {
+          "question": "The five-sided headquarters of the Department of Defense.",
+          "answer": "the Pentagon",
+          "acceptable": [
+            "Pentagon"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce-b-007",
+      "topic": "Civics",
+      "lessonId": "ce-courts-elections",
+      "difficulty": "medium",
+      "leadin": "Answer these questions about U.S. elections, for 10 points each.",
+      "parts": [
+        {
+          "question": "Federal elections are held on this day of the week.",
+          "answer": "Tuesday",
+          "acceptable": []
+        },
+        {
+          "question": "Name the elections held halfway through a president's term.",
+          "answer": "midterm elections",
+          "acceptable": [
+            "midterms"
+          ]
+        },
+        {
+          "question": "Name the number of electoral votes that Washington, D.C., receives.",
+          "answer": "three",
+          "acceptable": [
+            "3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce-b-008",
+      "topic": "Civics",
+      "lessonId": "ce-courts-elections",
+      "difficulty": "hard",
+      "leadin": "Name these Supreme Court figures and terms, for 10 points each.",
+      "parts": [
+        {
+          "question": "This first Black Supreme Court justice argued Brown v. Board of Education as a lawyer.",
+          "answer": "Thurgood Marshall",
+          "acceptable": [
+            "Marshall"
+          ]
+        },
+        {
+          "question": "This term names the Court's power to strike down unconstitutional laws.",
+          "answer": "judicial review",
+          "acceptable": []
+        },
+        {
+          "question": "This 1896 case allowed \"separate but equal\" facilities.",
+          "answer": "Plessy v. Ferguson",
+          "acceptable": [
+            "Plessy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce-b-009",
+      "topic": "World Affairs",
+      "lessonId": "ce-world-organizations",
+      "difficulty": "medium",
+      "leadin": "Name these international organizations from their headquarters city, for 10 points each.",
+      "parts": [
+        {
+          "question": "Brussels, Belgium (a military alliance founded in 1949).",
+          "answer": "NATO",
+          "acceptable": [
+            "North Atlantic Treaty Organization"
+          ]
+        },
+        {
+          "question": "Geneva, Switzerland (a UN agency for health).",
+          "answer": "World Health Organization",
+          "acceptable": [
+            "WHO"
+          ]
+        },
+        {
+          "question": "Paris, France (a UN agency for education, science and culture).",
+          "answer": "UNESCO",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "ce-b-010",
+      "topic": "World Affairs",
+      "lessonId": "ce-un-agencies",
+      "difficulty": "easy",
+      "leadin": "Answer these questions about the United Nations, for 10 points each.",
+      "parts": [
+        {
+          "question": "Name the UN body in which every member country gets one vote.",
+          "answer": "General Assembly",
+          "acceptable": []
+        },
+        {
+          "question": "Name the title of the UN's chief officer.",
+          "answer": "Secretary-General",
+          "acceptable": []
+        },
+        {
+          "question": "UN peacekeepers wear helmets of this color.",
+          "answer": "blue",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "ce-b-011",
+      "topic": "World Affairs",
+      "lessonId": "ce-un-agencies",
+      "difficulty": "hard",
+      "leadin": "Answer these questions about the Security Council, for 10 points each.",
+      "parts": [
+        {
+          "question": "Name the total number of members on the Security Council.",
+          "answer": "15",
+          "acceptable": [
+            "fifteen"
+          ]
+        },
+        {
+          "question": "Name the special power held by the five permanent members.",
+          "answer": "veto",
+          "acceptable": []
+        },
+        {
+          "question": "Name the city where the UN Charter was signed in 1945.",
+          "answer": "San Francisco",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "ce-b-012",
+      "topic": "World Affairs",
+      "lessonId": "ce-alliances",
+      "difficulty": "medium",
+      "leadin": "Name these international groups, for 10 points each.",
+      "parts": [
+        {
+          "question": "This group of mostly former British territories holds its own sports competition every four years.",
+          "answer": "Commonwealth of Nations",
+          "acceptable": [
+            "the Commonwealth"
+          ]
+        },
+        {
+          "question": "This group of eleven Southeast Asian countries is based in Jakarta.",
+          "answer": "ASEAN",
+          "acceptable": [
+            "Association of Southeast Asian Nations"
+          ]
+        },
+        {
+          "question": "This medical charity, also called Médecins Sans Frontières, won the 1999 Nobel Peace Prize.",
+          "answer": "Doctors Without Borders",
+          "acceptable": [
+            "MSF",
+            "Médecins Sans Frontières"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce-b-013",
+      "topic": "World Affairs",
+      "lessonId": "ce-world-governments",
+      "difficulty": "medium",
+      "leadin": "Name the countries with these legislatures, for 10 points each.",
+      "parts": [
+        {
+          "question": "The State Duma.",
+          "answer": "Russia",
+          "acceptable": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "question": "The Althing, founded in the year 930.",
+          "answer": "Iceland",
+          "acceptable": []
+        },
+        {
+          "question": "The House of Commons and House of Lords.",
+          "answer": "United Kingdom",
+          "acceptable": [
+            "UK",
+            "Britain",
+            "Great Britain"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce-b-014",
+      "topic": "World Affairs",
+      "lessonId": "ce-world-governments",
+      "difficulty": "hard",
+      "leadin": "Answer these questions about the government of France, for 10 points each.",
+      "parts": [
+        {
+          "question": "Name the palace where the French president lives.",
+          "answer": "Élysée Palace",
+          "acceptable": [
+            "Elysee"
+          ]
+        },
+        {
+          "question": "Name the current French system of government, begun in 1958.",
+          "answer": "Fifth Republic",
+          "acceptable": []
+        },
+        {
+          "question": "Name the general who led France at the start of that system.",
+          "answer": "Charles de Gaulle",
+          "acceptable": [
+            "de Gaulle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce-b-015",
+      "topic": "Economics",
+      "lessonId": "ce-economy",
+      "difficulty": "easy",
+      "leadin": "Name the currencies of these countries, for 10 points each.",
+      "parts": [
+        {
+          "question": "Japan.",
+          "answer": "yen",
+          "acceptable": []
+        },
+        {
+          "question": "India.",
+          "answer": "rupee",
+          "acceptable": [
+            "Indian rupee"
+          ]
+        },
+        {
+          "question": "Mexico.",
+          "answer": "peso",
+          "acceptable": [
+            "Mexican peso"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce-b-016",
+      "topic": "Economics",
+      "lessonId": "ce-economy",
+      "difficulty": "medium",
+      "leadin": "Answer these questions about the stock market, for 10 points each.",
+      "parts": [
+        {
+          "question": "The New York Stock Exchange is on this street in Manhattan.",
+          "answer": "Wall Street",
+          "acceptable": []
+        },
+        {
+          "question": "A market where prices are falling is named for this animal.",
+          "answer": "bear",
+          "acceptable": []
+        },
+        {
+          "question": "This average, often just called \"the Dow,\" tracks 30 large companies.",
+          "answer": "Dow Jones Industrial Average",
+          "acceptable": [
+            "the Dow",
+            "DJIA"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce-b-017",
+      "topic": "Economics",
+      "lessonId": "ce-economy",
+      "difficulty": "hard",
+      "leadin": "Answer these questions about government money, for 10 points each.",
+      "parts": [
+        {
+          "question": "Name the shortfall when a government spends more than it collects in one year.",
+          "answer": "budget deficit",
+          "acceptable": [
+            "deficit"
+          ]
+        },
+        {
+          "question": "Name the 1944 conference that created the International Monetary Fund and the World Bank.",
+          "answer": "Bretton Woods Conference",
+          "acceptable": [
+            "Bretton Woods"
+          ]
+        },
+        {
+          "question": "Name the organization in Geneva that sets rules for international trade.",
+          "answer": "World Trade Organization",
+          "acceptable": [
+            "WTO"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce-b-018",
+      "topic": "Media Literacy",
+      "lessonId": "ce-news-literacy",
+      "difficulty": "easy",
+      "leadin": "Name these parts of a news story, for 10 points each.",
+      "parts": [
+        {
+          "question": "The line that gives the reporter's name.",
+          "answer": "byline",
+          "acceptable": []
+        },
+        {
+          "question": "The first sentence of a story, which should answer the 5 Ws.",
+          "answer": "lede",
+          "acceptable": [
+            "lead"
+          ]
+        },
+        {
+          "question": "The line that tells where the story was reported.",
+          "answer": "dateline",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "ce-b-019",
+      "topic": "Media Literacy",
+      "lessonId": "ce-news-literacy",
+      "difficulty": "medium",
+      "leadin": "Answer these questions about news and opinion, for 10 points each.",
+      "parts": [
+        {
+          "question": "Name the article that gives the official opinion of a newspaper's editors.",
+          "answer": "editorial",
+          "acceptable": []
+        },
+        {
+          "question": "Name the wire service, founded in New York in 1846, known by the initials AP.",
+          "answer": "Associated Press",
+          "acceptable": [
+            "AP"
+          ]
+        },
+        {
+          "question": "The press is often called this \"estate\" because of its role in watching the government.",
+          "answer": "Fourth Estate",
+          "acceptable": [
+            "fourth"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce-b-020",
+      "topic": "World Affairs",
+      "lessonId": "ce-alliances",
+      "difficulty": "hard",
+      "leadin": "Answer these questions about the European Union, for 10 points each.",
+      "parts": [
+        {
+          "question": "Name the currency used by most EU countries.",
+          "answer": "euro",
+          "acceptable": []
+        },
+        {
+          "question": "Name the German city that is home to the European Central Bank.",
+          "answer": "Frankfurt",
+          "acceptable": [
+            "Frankfurt am Main"
+          ]
+        },
+        {
+          "question": "Name the French city where the European Parliament holds most of its sessions.",
+          "answer": "Strasbourg",
           "acceptable": []
         }
       ]

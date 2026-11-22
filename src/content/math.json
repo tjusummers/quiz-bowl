@@ -5,6 +5,34 @@
   "description": "Quick computation, number facts and famous mathematicians.",
   "lessons": [
     {
+      "id": "math-mental-math",
+      "title": "Mental Math Tricks",
+      "topic": "Arithmetic",
+      "difficulty": "easy",
+      "body": "Quiz bowl math questions are read aloud, so you usually solve them **in your head** within a few seconds. These tricks help.\n\n## Order of operations\nRemember **PEMDAS** (\"Please Excuse My Dear Aunt Sally\"): **P**arentheses, **E**xponents, **M**ultiplication and **D**ivision (left to right), **A**ddition and **S**ubtraction (left to right).\nExample: 6 + 4 × 3 = 6 + 12 = **18**, not 30.\n\n## Divisibility rules\n| Divisible by | Rule |\n|---|---|\n| 2 | Last digit is even |\n| 3 | Sum of digits is divisible by 3 |\n| 4 | Last two digits form a number divisible by 4 |\n| 5 | Ends in 0 or 5 |\n| 6 | Divisible by both 2 and 3 |\n| 9 | Sum of digits is divisible by 9 |\n| 10 | Ends in 0 |\n\n## Shortcuts\n- **Times 11** (two-digit numbers): add the digits and put the sum in the middle. 11 × 63: 6 + 3 = 9, so **693**.\n- **Squaring numbers ending in 5**: multiply the tens digit by the next number up, then write 25. 45²: 4 × 5 = 20, so **2,025**.\n- **Times 25**: multiply by 100 and divide by 4. 25 × 16 = 1,600 ÷ 4 = **400**.\n- **Times 99**: multiply by 100 and subtract once. 99 × 7 = 700 − 7 = **693**.",
+      "keyFacts": [
+        "PEMDAS: parentheses, exponents, multiplication/division, addition/subtraction.",
+        "A number is divisible by 3 (or 9) if its digit sum is divisible by 3 (or 9).",
+        "To multiply a two-digit number by 11, put the digit sum in the middle.",
+        "45 squared is 2,025.",
+        "Multiply by 25 by multiplying by 100 and dividing by 4."
+      ]
+    },
+    {
+      "id": "math-fractions-percents",
+      "title": "Fractions, Decimals and Percents",
+      "topic": "Arithmetic",
+      "difficulty": "medium",
+      "body": "## Conversions to memorize\n| Fraction | Decimal | Percent |\n|---|---|---|\n| 1/2 | 0.5 | 50% |\n| 1/4 | 0.25 | 25% |\n| 3/4 | 0.75 | 75% |\n| 1/5 | 0.2 | 20% |\n| 1/8 | 0.125 | 12.5% |\n| 3/8 | 0.375 | 37.5% |\n| 1/3 | 0.333... | 33⅓% |\n\nIn a fraction, the top number is the **numerator** and the bottom is the **denominator**.\n\n## GCF and LCM\n- The **greatest common factor (GCF)** is the largest number that divides both numbers. GCF(48, 72) = **24**.\n- The **least common multiple (LCM)** is the smallest number both divide into. LCM(12, 18) = **36**. You need the LCM to add fractions with different denominators.\n\n## Percent shortcuts\n- **x% of y = y% of x.** So 30% of 70 = 70% of 30 = **21**.\n- **Discount:** 25% off a $40 shirt means you pay 75% of $40 = **$30**.\n- **Percent change** = (change ÷ original) × 100. From $50 to $60 is a change of 10, and 10 ÷ 50 = **20%** increase.\n\n## Ratios\nIf the ratio of boys to girls is 2 : 3 in a class of 30, there are 2 + 3 = 5 parts, each worth 6 students, so **12 boys** and **18 girls**.",
+      "keyFacts": [
+        "The numerator is the top of a fraction; the denominator is the bottom.",
+        "3/8 = 0.375 = 37.5%.",
+        "x% of y equals y% of x.",
+        "Percent change = change divided by the original amount.",
+        "You need the least common multiple to add fractions with different denominators."
+      ]
+    },
+    {
       "id": "math-primes",
       "title": "Prime Numbers",
       "topic": "Number Theory",
@@ -19,6 +47,34 @@
       ]
     },
     {
+      "id": "math-patterns",
+      "title": "Number Patterns and Sequences",
+      "topic": "Number Theory",
+      "difficulty": "medium",
+      "body": "## Special kinds of numbers\n- **Perfect squares:** 1, 4, 9, 16, 25, 36...\n- **Perfect cubes:** 1, 8, 27, 64, 125...\n- **Triangular numbers:** 1, 3, 6, 10, 15, 21, 28... (dots that form a triangle). The nth triangular number is n(n + 1) ÷ 2.\n- **Perfect numbers** equal the sum of their proper divisors: **6** = 1 + 2 + 3 and **28** = 1 + 2 + 4 + 7 + 14.\n\n## Sequences\n- **Arithmetic sequence:** add the same amount each time. 4, 7, 10, 13... The nth term is first + (n − 1) × difference, so the 10th term is 4 + 9 × 3 = **31**.\n- **Geometric sequence:** multiply by the same amount each time. 3, 6, 12, 24, 48...\n- **Fibonacci sequence:** each term is the sum of the two before it: 1, 1, 2, 3, 5, 8, 13, 21... Ratios of neighboring terms get closer and closer to the **golden ratio**, about **1.618**.\n\n## Gauss's trick\nAs a schoolboy, **Carl Friedrich Gauss** added 1 + 2 + ... + 100 by pairing 1 + 100, 2 + 99 and so on: 50 pairs of 101 make **5,050**. In general, 1 + 2 + ... + n = n(n + 1) ÷ 2.\n\n## Factorials\n**n!** (\"n factorial\") means n × (n − 1) × ... × 1. 3! = 6, 4! = 24, **5! = 120**, 6! = 720. By definition, 0! = 1.",
+      "keyFacts": [
+        "Fibonacci numbers: each term is the sum of the two before it.",
+        "The sum 1 + 2 + ... + 100 is 5,050.",
+        "5 factorial is 120.",
+        "6 and 28 are perfect numbers.",
+        "The golden ratio is about 1.618."
+      ]
+    },
+    {
+      "id": "math-algebra",
+      "title": "Algebra Basics",
+      "topic": "Algebra",
+      "difficulty": "medium",
+      "body": "## Solving equations\nDo the same thing to **both sides** to get the variable alone.\n- 3x + 7 = 22 → subtract 7: 3x = 15 → divide by 3: **x = 5**.\n- 2(x + 3) = 20 → divide by 2: x + 3 = 10 → **x = 7**.\n\n## Lines\n- The **slope-intercept form** of a line is **y = mx + b**. The **slope** m is \"rise over run\"; **b** is the **y-intercept**.\n- The slope between points (x₁, y₁) and (x₂, y₂) is (y₂ − y₁) ÷ (x₂ − x₁). From (1, 2) to (4, 11): 9 ÷ 3 = **3**.\n- **Parallel** lines have the **same** slope. **Perpendicular** lines have slopes that are **negative reciprocals** (like 3 and −1/3).\n\n## Exponents and roots\n- 2¹⁰ = **1,024**. 3⁴ = **81**. Any nonzero number to the **0** power is **1**.\n- Perfect squares to know: 11² = 121, 12² = 144, 13² = 169, 14² = 196, 15² = 225.\n\n## Scientific notation\nWrite a number as (a number from 1 to 10) × (a power of 10).\n- 45,000 = 4.5 × 10⁴\n- 0.00045 = 4.5 × 10⁻⁴\n\n## Systems of equations\nIf x + y = 10 and x − y = 4, add the equations: 2x = 14, so x = 7 and y = 3.",
+      "keyFacts": [
+        "In y = mx + b, m is the slope and b is the y-intercept.",
+        "Slope = rise over run = change in y divided by change in x.",
+        "Parallel lines have equal slopes; perpendicular slopes are negative reciprocals.",
+        "Any nonzero number to the zero power equals 1.",
+        "2 to the 10th power is 1,024."
+      ]
+    },
+    {
       "id": "math-geometry-basics",
       "title": "Area, Angles and Pi",
       "topic": "Geometry",
@@ -30,6 +86,48 @@
         "a² + b² = c² for right triangles.",
         "Area of a circle is π r squared.",
         "Pi is about 3.14159."
+      ]
+    },
+    {
+      "id": "math-solids",
+      "title": "Solid Geometry",
+      "topic": "Geometry",
+      "difficulty": "hard",
+      "body": "## Volume formulas\n| Solid | Volume |\n|---|---|\n| Cube (edge s) | s³ |\n| Rectangular prism | length × width × height |\n| Cylinder | πr²h |\n| Cone | ⅓πr²h |\n| Sphere | ⁴⁄₃πr³ |\n\nExamples: a cube with edge 4 has volume **64**. A cylinder with radius 3 and height 5 has volume π × 9 × 5 = **45π**. A sphere with radius 3 has volume ⁴⁄₃ × π × 27 = **36π**.\n\n**Surface area** of a cube = 6s². A cube with edge 2 has surface area **24**.\n\n## Polyhedra\nA **polyhedron** is a solid with flat polygon faces. It has **faces (F)**, **edges (E)** and **vertices (V)**. **Euler's formula** says **V − E + F = 2**. A cube: 8 − 12 + 6 = 2.\n\n## The five Platonic solids\nEvery face is the same regular polygon. There are exactly five:\n| Solid | Faces |\n|---|---|\n| Tetrahedron | 4 triangles |\n| Cube (hexahedron) | 6 squares |\n| Octahedron | 8 triangles |\n| Dodecahedron | 12 pentagons |\n| Icosahedron | 20 triangles |\n\n**Tip:** a standard 20-sided die is an icosahedron.",
+      "keyFacts": [
+        "Volume of a cylinder is pi r squared h.",
+        "Volume of a sphere is four-thirds pi r cubed.",
+        "Euler's formula: V − E + F = 2.",
+        "There are exactly five Platonic solids.",
+        "A cube has 6 faces, 12 edges and 8 vertices."
+      ]
+    },
+    {
+      "id": "math-data-probability",
+      "title": "Statistics and Probability",
+      "topic": "Probability and Statistics",
+      "difficulty": "medium",
+      "body": "## Describing data\nFor the data set 2, 3, 3, 5, 7:\n- **Mean** (average): add and divide by how many. (2 + 3 + 3 + 5 + 7) ÷ 5 = 20 ÷ 5 = **4**.\n- **Median:** the middle value when sorted: **3**. With an even number of values, average the two middle ones.\n- **Mode:** the most common value: **3**.\n- **Range:** largest minus smallest: 7 − 2 = **5**.\n\n## Probability\nProbability = (number of favorable outcomes) ÷ (total possible outcomes). It is always between **0** (impossible) and **1** (certain).\n- Rolling a number greater than 4 on a die: {5, 6} → 2/6 = **1/3**.\n- Two coins both landing heads: 1/2 × 1/2 = **1/4**.\n- Two dice summing to 7: six ways out of 36 = **1/6**. Seven is the most likely sum.\n\n## Counting\n- **Counting principle:** 3 shirts and 4 pairs of pants make 3 × 4 = **12** outfits.\n- **Arrangements:** 4 people can line up in 4! = 4 × 3 × 2 × 1 = **24** ways.\n- **Handshakes:** if everyone in a group of n shakes hands once, there are n(n − 1) ÷ 2 handshakes. For 6 people, that's **15**.",
+      "keyFacts": [
+        "Mean is the average; median is the middle; mode is the most common value.",
+        "Range is the largest value minus the smallest.",
+        "Probability is favorable outcomes divided by total outcomes.",
+        "The most likely sum of two dice is 7, with probability 1/6.",
+        "n people can be arranged in a line in n! ways."
+      ]
+    },
+    {
+      "id": "math-history",
+      "title": "Famous Mathematicians",
+      "topic": "Math History",
+      "difficulty": "medium",
+      "body": "| Mathematician | Era and place | Known for |\n|---|---|---|\n| **Pythagoras** | Ancient Greece | The **Pythagorean theorem**; his followers studied numbers almost like a religion |\n| **Euclid** | Alexandria, about 300 BCE | The **Elements**; the \"father of geometry\" |\n| **Archimedes** | Syracuse, Sicily | Shouted \"**Eureka!**\" in his bath; estimated pi; explained levers |\n| **Hypatia** | Alexandria, about 400 CE | One of the first known women mathematicians |\n| **Brahmagupta** | India, 600s CE | Wrote rules for calculating with **zero** |\n| **al-Khwarizmi** | Baghdad, 800s CE | His book gave us the word **algebra**, and his name gave us **algorithm** |\n| **Fibonacci** | Pisa, Italy, 1200s | *Liber Abaci* spread **Hindu-Arabic numerals** in Europe |\n| **René Descartes** | France, 1600s | The **Cartesian coordinate plane**; \"I think, therefore I am\" |\n| **Isaac Newton** and **Gottfried Leibniz** | England and Germany | Each invented **calculus** |\n| **Carl Friedrich Gauss** | Germany, 1800s | The \"Prince of Mathematicians\" |\n| **Ada Lovelace** | England, 1800s | Wrote what is called the first computer program, for Charles Babbage's Analytical Engine |\n\n## Roman numerals\nI = 1, V = 5, X = 10, L = 50, C = 100, D = 500, M = 1,000. A smaller numeral before a larger one is subtracted: IV = 4, XC = 90, CM = 900. So **MCMXCIX** = 1000 + 900 + 90 + 9 = **1999**.",
+      "keyFacts": [
+        "Euclid wrote the Elements and is the father of geometry.",
+        "Archimedes shouted 'Eureka!' after discovering how to measure volume by displacement.",
+        "The words algebra and algorithm come from al-Khwarizmi.",
+        "Descartes invented the coordinate plane.",
+        "Ada Lovelace wrote the first computer program."
       ]
     }
   ],
@@ -57,6 +155,560 @@
       "acceptable": [
         "720"
       ]
+    },
+    {
+      "id": "math-t-003",
+      "topic": "Arithmetic",
+      "lessonId": "math-mental-math",
+      "difficulty": "easy",
+      "question": "The mnemonic \"Please Excuse My Dear Aunt Sally\" helps students remember this rule. It says multiplication comes before addition. For 10 points, name this set of rules for which operations to do first.",
+      "powerIndex": 118,
+      "answer": "order of operations",
+      "acceptable": [
+        "PEMDAS",
+        "BODMAS"
+      ]
+    },
+    {
+      "id": "math-t-004",
+      "topic": "Arithmetic",
+      "lessonId": "math-mental-math",
+      "difficulty": "easy",
+      "question": "For 10 points, using the order of operations, what is 6 plus 4 times 3 minus 8 divided by 2?",
+      "powerIndex": null,
+      "answer": "14",
+      "acceptable": [
+        "fourteen"
+      ]
+    },
+    {
+      "id": "math-t-005",
+      "topic": "Arithmetic",
+      "lessonId": "math-mental-math",
+      "difficulty": "medium",
+      "question": "For 10 points, what is 45 squared?",
+      "powerIndex": null,
+      "answer": "2,025",
+      "acceptable": [
+        "2025"
+      ]
+    },
+    {
+      "id": "math-t-006",
+      "topic": "Arithmetic",
+      "lessonId": "math-mental-math",
+      "difficulty": "medium",
+      "question": "For 10 points, what is 11 times 63?",
+      "powerIndex": null,
+      "answer": "693",
+      "acceptable": []
+    },
+    {
+      "id": "math-t-007",
+      "topic": "Arithmetic",
+      "lessonId": "math-mental-math",
+      "difficulty": "hard",
+      "question": "For 10 points, what is the remainder when 1,000 is divided by 7?",
+      "powerIndex": null,
+      "answer": "6",
+      "acceptable": [
+        "six"
+      ]
+    },
+    {
+      "id": "math-t-008",
+      "topic": "Arithmetic",
+      "lessonId": "math-fractions-percents",
+      "difficulty": "easy",
+      "question": "This part of a fraction tells how many equal parts are being counted. It sits above the fraction bar, over the denominator. For 10 points, name this top number of a fraction.",
+      "powerIndex": 87,
+      "answer": "numerator",
+      "acceptable": []
+    },
+    {
+      "id": "math-t-009",
+      "topic": "Arithmetic",
+      "lessonId": "math-fractions-percents",
+      "difficulty": "easy",
+      "question": "For 10 points, what is 3/8 written as a decimal?",
+      "powerIndex": null,
+      "answer": "0.375",
+      "acceptable": []
+    },
+    {
+      "id": "math-t-010",
+      "topic": "Arithmetic",
+      "lessonId": "math-fractions-percents",
+      "difficulty": "medium",
+      "question": "For 10 points, what is 30 percent of 70?",
+      "powerIndex": null,
+      "answer": "21",
+      "acceptable": [
+        "twenty-one"
+      ]
+    },
+    {
+      "id": "math-t-011",
+      "topic": "Arithmetic",
+      "lessonId": "math-fractions-percents",
+      "difficulty": "medium",
+      "question": "A shirt that normally costs 40 dollars is on sale for 25 percent off. For 10 points, what is the sale price?",
+      "powerIndex": null,
+      "answer": "30 dollars",
+      "acceptable": [
+        "$30",
+        "30"
+      ]
+    },
+    {
+      "id": "math-t-012",
+      "topic": "Arithmetic",
+      "lessonId": "math-fractions-percents",
+      "difficulty": "hard",
+      "question": "The price of a book rises from 50 dollars to 60 dollars. For 10 points, by what percent did the price increase?",
+      "powerIndex": null,
+      "answer": "20 percent",
+      "acceptable": [
+        "20%",
+        "20"
+      ]
+    },
+    {
+      "id": "math-t-013",
+      "topic": "Arithmetic",
+      "lessonId": "math-fractions-percents",
+      "difficulty": "hard",
+      "question": "For 10 points, what is the least common multiple of 12 and 18?",
+      "powerIndex": null,
+      "answer": "36",
+      "acceptable": [
+        "thirty-six"
+      ]
+    },
+    {
+      "id": "math-t-014",
+      "topic": "Number Theory",
+      "lessonId": "math-primes",
+      "difficulty": "easy",
+      "question": "Numbers like 4, 6, 8 and 9 are examples of this kind of number, which has more than two factors. For 10 points, name these whole numbers greater than 1 that are not prime.",
+      "powerIndex": 87,
+      "answer": "composite numbers",
+      "acceptable": [
+        "composites",
+        "composite"
+      ]
+    },
+    {
+      "id": "math-t-015",
+      "topic": "Number Theory",
+      "lessonId": "math-primes",
+      "difficulty": "medium",
+      "question": "For 10 points, what is the largest prime number less than 100?",
+      "powerIndex": null,
+      "answer": "97",
+      "acceptable": [
+        "ninety-seven"
+      ]
+    },
+    {
+      "id": "math-t-016",
+      "topic": "Number Theory",
+      "lessonId": "math-primes",
+      "difficulty": "medium",
+      "question": "For 10 points, what is the sum of the distinct prime factors of 210?",
+      "powerIndex": null,
+      "answer": "17",
+      "acceptable": [
+        "seventeen"
+      ]
+    },
+    {
+      "id": "math-t-017",
+      "topic": "Number Theory",
+      "lessonId": "math-primes",
+      "difficulty": "hard",
+      "question": "Pairs of these include 11 and 13, and 17 and 19. Nobody knows if there are infinitely many of these pairs, which differ by exactly two. For 10 points, name these pairs of prime numbers.",
+      "powerIndex": 122,
+      "answer": "twin primes",
+      "acceptable": []
+    },
+    {
+      "id": "math-t-018",
+      "topic": "Number Theory",
+      "lessonId": "math-patterns",
+      "difficulty": "easy",
+      "question": "In this sequence, ratios of neighboring terms approach the golden ratio. It is named for a mathematician from Pisa, and each term is the sum of the two before it. For 10 points, name this sequence that begins 1, 1, 2, 3, 5, 8.",
+      "powerIndex": 109,
+      "answer": "Fibonacci sequence",
+      "acceptable": [
+        "Fibonacci numbers"
+      ]
+    },
+    {
+      "id": "math-t-019",
+      "topic": "Number Theory",
+      "lessonId": "math-patterns",
+      "difficulty": "medium",
+      "question": "Legend says Carl Friedrich Gauss found this sum as a schoolboy. For 10 points, what is the sum of all the whole numbers from 1 to 100?",
+      "powerIndex": null,
+      "answer": "5,050",
+      "acceptable": [
+        "5050"
+      ]
+    },
+    {
+      "id": "math-t-020",
+      "topic": "Number Theory",
+      "lessonId": "math-patterns",
+      "difficulty": "medium",
+      "question": "For 10 points, what is 5 factorial?",
+      "powerIndex": null,
+      "answer": "120",
+      "acceptable": [
+        "one hundred twenty"
+      ]
+    },
+    {
+      "id": "math-t-021",
+      "topic": "Number Theory",
+      "lessonId": "math-patterns",
+      "difficulty": "medium",
+      "question": "These numbers include 1, 3, 6, 10 and 15. The nth one equals n times n plus 1, divided by 2, and they can be drawn as dots arranged in a triangle. For 10 points, name these numbers.",
+      "powerIndex": 136,
+      "answer": "triangular numbers",
+      "acceptable": []
+    },
+    {
+      "id": "math-t-022",
+      "topic": "Number Theory",
+      "lessonId": "math-patterns",
+      "difficulty": "hard",
+      "question": "Euclid showed how to build these numbers from primes of the form 2 to the n, minus 1. The first two of them are 6 and 28. For 10 points, name these numbers that equal the sum of their proper divisors.",
+      "powerIndex": 111,
+      "answer": "perfect numbers",
+      "acceptable": []
+    },
+    {
+      "id": "math-t-023",
+      "topic": "Number Theory",
+      "lessonId": "math-patterns",
+      "difficulty": "hard",
+      "question": "For 10 points, what is the 10th term of the arithmetic sequence 4, 7, 10, 13, and so on?",
+      "powerIndex": null,
+      "answer": "31",
+      "acceptable": [
+        "thirty-one"
+      ]
+    },
+    {
+      "id": "math-t-024",
+      "topic": "Algebra",
+      "lessonId": "math-algebra",
+      "difficulty": "easy",
+      "question": "For 10 points, solve for x: 3x plus 7 equals 22.",
+      "powerIndex": null,
+      "answer": "5",
+      "acceptable": [
+        "x = 5",
+        "five"
+      ]
+    },
+    {
+      "id": "math-t-025",
+      "topic": "Algebra",
+      "lessonId": "math-algebra",
+      "difficulty": "medium",
+      "question": "In the equation y equals mx plus b, this quantity is represented by m. It is often described as \"rise over run.\" For 10 points, name this measure of how steep a line is.",
+      "powerIndex": 106,
+      "answer": "slope",
+      "acceptable": []
+    },
+    {
+      "id": "math-t-026",
+      "topic": "Algebra",
+      "lessonId": "math-algebra",
+      "difficulty": "medium",
+      "question": "For 10 points, what is 2 to the 10th power?",
+      "powerIndex": null,
+      "answer": "1,024",
+      "acceptable": [
+        "1024"
+      ]
+    },
+    {
+      "id": "math-t-027",
+      "topic": "Algebra",
+      "lessonId": "math-algebra",
+      "difficulty": "hard",
+      "question": "For 10 points, what is the slope of the line that passes through the points (1, 2) and (4, 11)?",
+      "powerIndex": null,
+      "answer": "3",
+      "acceptable": [
+        "three"
+      ]
+    },
+    {
+      "id": "math-t-028",
+      "topic": "Algebra",
+      "lessonId": "math-algebra",
+      "difficulty": "hard",
+      "question": "x plus y equals 10, and x minus y equals 4. For 10 points, what is the product of x and y?",
+      "powerIndex": null,
+      "answer": "21",
+      "acceptable": [
+        "twenty-one"
+      ]
+    },
+    {
+      "id": "math-t-029",
+      "topic": "Geometry",
+      "lessonId": "math-geometry-basics",
+      "difficulty": "easy",
+      "question": "This theorem has more than 300 known proofs, including one by President James Garfield. It says that a squared plus b squared equals c squared. For 10 points, name this theorem about right triangles.",
+      "powerIndex": 132,
+      "answer": "Pythagorean theorem",
+      "acceptable": []
+    },
+    {
+      "id": "math-t-030",
+      "topic": "Geometry",
+      "lessonId": "math-geometry-basics",
+      "difficulty": "easy",
+      "question": "This number is celebrated every March 14. It is the ratio of a circle's circumference to its diameter. For 10 points, name this number that is about 3.14159.",
+      "powerIndex": 92,
+      "answer": "pi",
+      "acceptable": [
+        "π"
+      ]
+    },
+    {
+      "id": "math-t-031",
+      "topic": "Geometry",
+      "lessonId": "math-geometry-basics",
+      "difficulty": "medium",
+      "question": "For 10 points, what is the area of a triangle with a base of 12 and a height of 7?",
+      "powerIndex": null,
+      "answer": "42",
+      "acceptable": [
+        "forty-two"
+      ]
+    },
+    {
+      "id": "math-t-032",
+      "topic": "Geometry",
+      "lessonId": "math-geometry-basics",
+      "difficulty": "hard",
+      "question": "A circle has a circumference of 10 pi. For 10 points, what is its area, in terms of pi?",
+      "powerIndex": null,
+      "answer": "25 pi",
+      "acceptable": [
+        "25π"
+      ]
+    },
+    {
+      "id": "math-t-033",
+      "topic": "Geometry",
+      "lessonId": "math-solids",
+      "difficulty": "easy",
+      "question": "For 10 points, what is the volume of a cube with an edge length of 4?",
+      "powerIndex": null,
+      "answer": "64",
+      "acceptable": [
+        "sixty-four"
+      ]
+    },
+    {
+      "id": "math-t-034",
+      "topic": "Geometry",
+      "lessonId": "math-solids",
+      "difficulty": "medium",
+      "question": "There are exactly five of these solids, including the tetrahedron and the icosahedron. Each has faces that are all the same regular polygon, and they are named for a Greek philosopher. For 10 points, name these solids.",
+      "powerIndex": 171,
+      "answer": "Platonic solids",
+      "acceptable": [
+        "regular polyhedra"
+      ]
+    },
+    {
+      "id": "math-t-035",
+      "topic": "Geometry",
+      "lessonId": "math-solids",
+      "difficulty": "medium",
+      "question": "For 10 points, what is the volume of a cylinder with a radius of 3 and a height of 5, in terms of pi?",
+      "powerIndex": null,
+      "answer": "45 pi",
+      "acceptable": [
+        "45π"
+      ]
+    },
+    {
+      "id": "math-t-036",
+      "topic": "Geometry",
+      "lessonId": "math-solids",
+      "difficulty": "hard",
+      "question": "For 10 points, what is the volume of a sphere with a radius of 3, in terms of pi?",
+      "powerIndex": null,
+      "answer": "36 pi",
+      "acceptable": [
+        "36π"
+      ]
+    },
+    {
+      "id": "math-t-037",
+      "topic": "Geometry",
+      "lessonId": "math-solids",
+      "difficulty": "hard",
+      "question": "A polyhedron has 12 vertices and 30 edges. For 10 points, use Euler's formula to find how many faces it has.",
+      "powerIndex": null,
+      "answer": "20",
+      "acceptable": [
+        "twenty"
+      ]
+    },
+    {
+      "id": "math-t-038",
+      "topic": "Probability and Statistics",
+      "lessonId": "math-data-probability",
+      "difficulty": "easy",
+      "question": "This statistic is the value that appears most often in a set of data. For 10 points, name this measure that, for the set 2, 3, 3, 5, is 3.",
+      "powerIndex": 40,
+      "answer": "mode",
+      "acceptable": []
+    },
+    {
+      "id": "math-t-039",
+      "topic": "Probability and Statistics",
+      "lessonId": "math-data-probability",
+      "difficulty": "easy",
+      "question": "For 10 points, what is the median of the numbers 3, 9, 4, 7 and 12?",
+      "powerIndex": null,
+      "answer": "7",
+      "acceptable": [
+        "seven"
+      ]
+    },
+    {
+      "id": "math-t-040",
+      "topic": "Probability and Statistics",
+      "lessonId": "math-data-probability",
+      "difficulty": "medium",
+      "question": "For 10 points, what is the mean of 4, 8, 15 and 23?",
+      "powerIndex": null,
+      "answer": "12.5",
+      "acceptable": [
+        "12 and a half",
+        "25/2"
+      ]
+    },
+    {
+      "id": "math-t-041",
+      "topic": "Probability and Statistics",
+      "lessonId": "math-data-probability",
+      "difficulty": "medium",
+      "question": "A fair six-sided die is rolled once. For 10 points, what is the probability of rolling a number greater than 4?",
+      "powerIndex": null,
+      "answer": "1/3",
+      "acceptable": [
+        "one third",
+        "2/6"
+      ]
+    },
+    {
+      "id": "math-t-042",
+      "topic": "Probability and Statistics",
+      "lessonId": "math-data-probability",
+      "difficulty": "hard",
+      "question": "Two fair six-sided dice are rolled. For 10 points, what is the probability that the sum is 7?",
+      "powerIndex": null,
+      "answer": "1/6",
+      "acceptable": [
+        "one sixth",
+        "6/36"
+      ]
+    },
+    {
+      "id": "math-t-043",
+      "topic": "Probability and Statistics",
+      "lessonId": "math-data-probability",
+      "difficulty": "hard",
+      "question": "For 10 points, in how many different orders can 4 students stand in a line?",
+      "powerIndex": null,
+      "answer": "24",
+      "acceptable": [
+        "twenty-four"
+      ]
+    },
+    {
+      "id": "math-t-044",
+      "topic": "Math History",
+      "lessonId": "math-history",
+      "difficulty": "easy",
+      "question": "This man supposedly said \"Give me a place to stand, and I will move the Earth.\" He ran through the streets of Syracuse shouting \"Eureka!\" For 10 points, name this Greek mathematician who discovered how to measure volume using water.",
+      "powerIndex": 109,
+      "answer": "Archimedes",
+      "acceptable": []
+    },
+    {
+      "id": "math-t-045",
+      "topic": "Math History",
+      "lessonId": "math-history",
+      "difficulty": "medium",
+      "question": "This mathematician's fifth postulate is called the parallel postulate. He taught in Alexandria and wrote a book of 13 parts called the Elements. For 10 points, name this \"father of geometry.\"",
+      "powerIndex": 130,
+      "answer": "Euclid",
+      "acceptable": [
+        "Euclid of Alexandria"
+      ]
+    },
+    {
+      "id": "math-t-046",
+      "topic": "Math History",
+      "lessonId": "math-history",
+      "difficulty": "medium",
+      "question": "This thinker said \"I think, therefore I am.\" Legend says he watched a fly on the ceiling and invented the coordinate plane. For 10 points, name this French mathematician and philosopher.",
+      "powerIndex": 105,
+      "answer": "René Descartes",
+      "acceptable": [
+        "Descartes",
+        "Rene Descartes"
+      ]
+    },
+    {
+      "id": "math-t-047",
+      "topic": "Math History",
+      "lessonId": "math-history",
+      "difficulty": "hard",
+      "question": "This scholar worked at the House of Wisdom in Baghdad. The word \"algorithm\" comes from his name, and the word \"algebra\" comes from the title of his book. For 10 points, name this Persian mathematician.",
+      "powerIndex": 109,
+      "answer": "Muhammad ibn Musa al-Khwarizmi",
+      "acceptable": [
+        "al-Khwarizmi",
+        "Khwarizmi"
+      ]
+    },
+    {
+      "id": "math-t-048",
+      "topic": "Math History",
+      "lessonId": "math-history",
+      "difficulty": "hard",
+      "question": "This woman was the daughter of the poet Lord Byron. She wrote notes on Charles Babbage's Analytical Engine that include what is called the first computer program. For 10 points, name this English mathematician.",
+      "powerIndex": 88,
+      "answer": "Ada Lovelace",
+      "acceptable": [
+        "Augusta Ada King",
+        "Countess of Lovelace",
+        "Ada Byron"
+      ]
+    },
+    {
+      "id": "math-t-049",
+      "topic": "Math History",
+      "lessonId": "math-history",
+      "difficulty": "hard",
+      "question": "For 10 points, what year is written in Roman numerals as MCMXCIX?",
+      "powerIndex": null,
+      "answer": "1999",
+      "acceptable": []
     }
   ],
   "bonuses": [
@@ -82,6 +734,561 @@
         {
           "question": "Two angles of a triangle are 50 and 60 degrees. How many degrees is the third angle?",
           "answer": "70",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "math-b-002",
+      "topic": "Arithmetic",
+      "lessonId": "math-mental-math",
+      "difficulty": "easy",
+      "leadin": "Answer these mental math questions, for 10 points each.",
+      "parts": [
+        {
+          "question": "What is 25 times 16?",
+          "answer": "400",
+          "acceptable": []
+        },
+        {
+          "question": "What is 99 times 7?",
+          "answer": "693",
+          "acceptable": []
+        },
+        {
+          "question": "What is 15 squared?",
+          "answer": "225",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "math-b-003",
+      "topic": "Arithmetic",
+      "lessonId": "math-mental-math",
+      "difficulty": "medium",
+      "leadin": "Answer these questions about divisibility, for 10 points each.",
+      "parts": [
+        {
+          "question": "What digit d makes the three-digit number 52d divisible by 9?",
+          "answer": "2",
+          "acceptable": [
+            "two"
+          ]
+        },
+        {
+          "question": "What is the remainder when 2,026 is divided by 5?",
+          "answer": "1",
+          "acceptable": [
+            "one"
+          ]
+        },
+        {
+          "question": "What is 1,111 divided by 11?",
+          "answer": "101",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "math-b-004",
+      "topic": "Arithmetic",
+      "lessonId": "math-fractions-percents",
+      "difficulty": "easy",
+      "leadin": "Convert these numbers, for 10 points each.",
+      "parts": [
+        {
+          "question": "Write 1/4 as a percent.",
+          "answer": "25 percent",
+          "acceptable": [
+            "25%"
+          ]
+        },
+        {
+          "question": "Write 0.6 as a fraction in lowest terms.",
+          "answer": "3/5",
+          "acceptable": [
+            "three fifths"
+          ]
+        },
+        {
+          "question": "Write 7/20 as a decimal.",
+          "answer": "0.35",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "math-b-005",
+      "topic": "Arithmetic",
+      "lessonId": "math-fractions-percents",
+      "difficulty": "hard",
+      "leadin": "Answer these questions about factors, multiples and ratios, for 10 points each.",
+      "parts": [
+        {
+          "question": "What is the greatest common factor of 48 and 72?",
+          "answer": "24",
+          "acceptable": []
+        },
+        {
+          "question": "What is the least common multiple of 4, 6 and 10?",
+          "answer": "60",
+          "acceptable": []
+        },
+        {
+          "question": "A class of 30 students has a boy-to-girl ratio of 2 to 3. How many boys are in the class?",
+          "answer": "12",
+          "acceptable": [
+            "twelve"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "math-b-006",
+      "topic": "Number Theory",
+      "lessonId": "math-primes",
+      "difficulty": "easy",
+      "leadin": "Answer these questions about prime numbers, for 10 points each.",
+      "parts": [
+        {
+          "question": "What is the smallest prime number?",
+          "answer": "2",
+          "acceptable": [
+            "two"
+          ]
+        },
+        {
+          "question": "How many prime numbers are less than 20?",
+          "answer": "8",
+          "acceptable": [
+            "eight"
+          ]
+        },
+        {
+          "question": "What is the largest prime factor of 84?",
+          "answer": "7",
+          "acceptable": [
+            "seven"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "math-b-007",
+      "topic": "Number Theory",
+      "lessonId": "math-primes",
+      "difficulty": "hard",
+      "leadin": "Answer these questions about famous ideas involving primes, for 10 points each.",
+      "parts": [
+        {
+          "question": "Name the Greek scholar whose \"sieve\" finds primes by crossing out multiples.",
+          "answer": "Eratosthenes",
+          "acceptable": []
+        },
+        {
+          "question": "This unproven conjecture says every even number greater than 2 is the sum of two primes.",
+          "answer": "Goldbach's conjecture",
+          "acceptable": [
+            "Goldbach"
+          ]
+        },
+        {
+          "question": "Primes of the form 2 to the n, minus 1, are named for this French monk.",
+          "answer": "Marin Mersenne",
+          "acceptable": [
+            "Mersenne"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "math-b-008",
+      "topic": "Number Theory",
+      "lessonId": "math-patterns",
+      "difficulty": "medium",
+      "leadin": "Give the next term of each sequence, for 10 points each.",
+      "parts": [
+        {
+          "question": "2, 4, 8, 16, ...",
+          "answer": "32",
+          "acceptable": []
+        },
+        {
+          "question": "1, 4, 9, 16, 25, ...",
+          "answer": "36",
+          "acceptable": []
+        },
+        {
+          "question": "1, 1, 2, 3, 5, 8, 13, ...",
+          "answer": "21",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "math-b-009",
+      "topic": "Number Theory",
+      "lessonId": "math-patterns",
+      "difficulty": "hard",
+      "leadin": "Answer these questions about special numbers, for 10 points each.",
+      "parts": [
+        {
+          "question": "What is 6 factorial?",
+          "answer": "720",
+          "acceptable": []
+        },
+        {
+          "question": "What is the sum of the whole numbers from 1 to 20?",
+          "answer": "210",
+          "acceptable": []
+        },
+        {
+          "question": "What is the 7th triangular number?",
+          "answer": "28",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "math-b-010",
+      "topic": "Algebra",
+      "lessonId": "math-algebra",
+      "difficulty": "medium",
+      "leadin": "Solve for x, for 10 points each.",
+      "parts": [
+        {
+          "question": "5x minus 4 equals 31.",
+          "answer": "7",
+          "acceptable": [
+            "x = 7"
+          ]
+        },
+        {
+          "question": "x divided by 3, plus 2, equals 6.",
+          "answer": "12",
+          "acceptable": [
+            "x = 12"
+          ]
+        },
+        {
+          "question": "2 times the quantity x plus 3 equals 20.",
+          "answer": "7",
+          "acceptable": [
+            "x = 7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "math-b-011",
+      "topic": "Algebra",
+      "lessonId": "math-algebra",
+      "difficulty": "hard",
+      "leadin": "Answer these questions about the line y = 3x + 1, for 10 points each.",
+      "parts": [
+        {
+          "question": "What is its y-intercept?",
+          "answer": "1",
+          "acceptable": [
+            "(0, 1)"
+          ]
+        },
+        {
+          "question": "What is the slope of a line parallel to it?",
+          "answer": "3",
+          "acceptable": []
+        },
+        {
+          "question": "What is the slope of a line perpendicular to it?",
+          "answer": "negative one-third",
+          "acceptable": [
+            "-1/3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "math-b-012",
+      "topic": "Algebra",
+      "lessonId": "math-algebra",
+      "difficulty": "easy",
+      "leadin": "Evaluate these powers and roots, for 10 points each.",
+      "parts": [
+        {
+          "question": "3 to the 4th power.",
+          "answer": "81",
+          "acceptable": []
+        },
+        {
+          "question": "10 to the 0 power.",
+          "answer": "1",
+          "acceptable": [
+            "one"
+          ]
+        },
+        {
+          "question": "The square root of 144.",
+          "answer": "12",
+          "acceptable": [
+            "twelve"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "math-b-013",
+      "topic": "Geometry",
+      "lessonId": "math-geometry-basics",
+      "difficulty": "medium",
+      "leadin": "Name these polygons by their number of sides, for 10 points each.",
+      "parts": [
+        {
+          "question": "7 sides.",
+          "answer": "heptagon",
+          "acceptable": [
+            "septagon"
+          ]
+        },
+        {
+          "question": "9 sides.",
+          "answer": "nonagon",
+          "acceptable": [
+            "enneagon"
+          ]
+        },
+        {
+          "question": "10 sides.",
+          "answer": "decagon",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "math-b-014",
+      "topic": "Geometry",
+      "lessonId": "math-geometry-basics",
+      "difficulty": "hard",
+      "leadin": "Answer these questions about angles, in degrees, for 10 points each.",
+      "parts": [
+        {
+          "question": "What is the complement of a 35-degree angle?",
+          "answer": "55",
+          "acceptable": [
+            "55 degrees"
+          ]
+        },
+        {
+          "question": "What is the supplement of a 110-degree angle?",
+          "answer": "70",
+          "acceptable": [
+            "70 degrees"
+          ]
+        },
+        {
+          "question": "What is the measure of each interior angle of a regular hexagon?",
+          "answer": "120",
+          "acceptable": [
+            "120 degrees"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "math-b-015",
+      "topic": "Geometry",
+      "lessonId": "math-solids",
+      "difficulty": "medium",
+      "leadin": "Answer these questions about cubes and boxes, for 10 points each.",
+      "parts": [
+        {
+          "question": "What is the volume of a box that is 3 by 4 by 5?",
+          "answer": "60",
+          "acceptable": []
+        },
+        {
+          "question": "How many edges does a cube have?",
+          "answer": "12",
+          "acceptable": [
+            "twelve"
+          ]
+        },
+        {
+          "question": "What is the surface area of a cube with an edge of 2?",
+          "answer": "24",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "math-b-016",
+      "topic": "Geometry",
+      "lessonId": "math-solids",
+      "difficulty": "hard",
+      "leadin": "Name these Platonic solids from their faces, for 10 points each.",
+      "parts": [
+        {
+          "question": "4 triangular faces.",
+          "answer": "tetrahedron",
+          "acceptable": []
+        },
+        {
+          "question": "8 triangular faces.",
+          "answer": "octahedron",
+          "acceptable": []
+        },
+        {
+          "question": "12 pentagonal faces.",
+          "answer": "dodecahedron",
+          "acceptable": []
+        }
+      ]
+    },
+    {
+      "id": "math-b-017",
+      "topic": "Probability and Statistics",
+      "lessonId": "math-data-probability",
+      "difficulty": "easy",
+      "leadin": "For the data set 2, 3, 3, 5, 7, find these statistics, for 10 points each.",
+      "parts": [
+        {
+          "question": "The mean.",
+          "answer": "4",
+          "acceptable": [
+            "four"
+          ]
+        },
+        {
+          "question": "The mode.",
+          "answer": "3",
+          "acceptable": [
+            "three"
+          ]
+        },
+        {
+          "question": "The range.",
+          "answer": "5",
+          "acceptable": [
+            "five"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "math-b-018",
+      "topic": "Probability and Statistics",
+      "lessonId": "math-data-probability",
+      "difficulty": "medium",
+      "leadin": "A bag holds 3 red, 5 blue and 2 green marbles. Answer these probability questions, for 10 points each.",
+      "parts": [
+        {
+          "question": "What is the probability of drawing a blue marble?",
+          "answer": "1/2",
+          "acceptable": [
+            "one half",
+            "5/10"
+          ]
+        },
+        {
+          "question": "What is the probability of drawing a marble that is not red?",
+          "answer": "7/10",
+          "acceptable": [
+            "seven tenths"
+          ]
+        },
+        {
+          "question": "If you draw two marbles without putting the first back, what is the probability that both are green?",
+          "answer": "1/45",
+          "acceptable": [
+            "one forty-fifth",
+            "2/90"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "math-b-019",
+      "topic": "Probability and Statistics",
+      "lessonId": "math-data-probability",
+      "difficulty": "hard",
+      "leadin": "Answer these counting questions, for 10 points each.",
+      "parts": [
+        {
+          "question": "How many outfits can you make from 3 shirts and 4 pairs of pants?",
+          "answer": "12",
+          "acceptable": [
+            "twelve"
+          ]
+        },
+        {
+          "question": "In how many ways can you arrange the letters of the word MATH?",
+          "answer": "24",
+          "acceptable": []
+        },
+        {
+          "question": "If 6 people each shake hands with everyone else once, how many handshakes are there?",
+          "answer": "15",
+          "acceptable": [
+            "fifteen"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "math-b-020",
+      "topic": "Math History",
+      "lessonId": "math-history",
+      "difficulty": "easy",
+      "leadin": "Give the value of these Roman numerals, for 10 points each.",
+      "parts": [
+        {
+          "question": "L.",
+          "answer": "50",
+          "acceptable": [
+            "fifty"
+          ]
+        },
+        {
+          "question": "C.",
+          "answer": "100",
+          "acceptable": [
+            "one hundred"
+          ]
+        },
+        {
+          "question": "XC.",
+          "answer": "90",
+          "acceptable": [
+            "ninety"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "math-b-021",
+      "topic": "Math History",
+      "lessonId": "math-history",
+      "difficulty": "medium",
+      "leadin": "Name these mathematicians, for 10 points each.",
+      "parts": [
+        {
+          "question": "This Italian's book Liber Abaci helped bring Hindu-Arabic numerals to Europe.",
+          "answer": "Fibonacci",
+          "acceptable": [
+            "Leonardo of Pisa",
+            "Leonardo Bonacci"
+          ]
+        },
+        {
+          "question": "This English scientist and the German Gottfried Leibniz each invented calculus.",
+          "answer": "Isaac Newton",
+          "acceptable": [
+            "Newton"
+          ]
+        },
+        {
+          "question": "This woman taught mathematics and philosophy in Alexandria around 400 CE.",
+          "answer": "Hypatia",
           "acceptable": []
         }
       ]

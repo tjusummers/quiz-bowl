@@ -15,7 +15,8 @@ export default function Layout() {
         </NavLink>
         <nav className="site-nav" aria-label="Main">
           <NavLink to="/" end>Subjects</NavLink>
-          {/* Quiz and Review links go here. */}
+          <NavLink to="/quiz">Quiz</NavLink>
+          <NavLink to="/review">Review</NavLink>
         </nav>
       </header>
       <main className="site-main">

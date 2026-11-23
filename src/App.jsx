@@ -5,6 +5,8 @@ import SubjectPage from './pages/SubjectPage.jsx';
 import LessonPage from './pages/LessonPage.jsx';
 import QuizPage from './pages/QuizPage.jsx';
 import ReviewPage from './pages/ReviewPage.jsx';
+import AccountPage from './pages/AccountPage.jsx';
+import ProgressPage from './pages/ProgressPage.jsx';
 import NotFound from './pages/NotFound.jsx';
 
 export default function App() {
@@ -16,6 +18,8 @@ export default function App() {
         <Route path="subject/:subjectId/lesson/:lessonId" element={<LessonPage />} />
         <Route path="quiz" element={<QuizPage />} />
         <Route path="review" element={<ReviewPage />} />
+        <Route path="progress" element={<ProgressPage />} />
+        <Route path="account" element={<AccountPage />} />
         <Route path="*" element={<NotFound />} />
       </Route>
     </Routes>

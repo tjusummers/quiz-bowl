@@ -7,7 +7,7 @@ export const INTERVAL_DAYS = [0, 1, 2, 4, 8, 16];
 export const MASTERED_BOX = 5;
 
 export function emptyProgress() {
-  return { version: 1, questions: {} };
+  return { version: 1, questions: {}, lessons: {}, quizzes: [] };
 }
 
 /**

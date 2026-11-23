@@ -1,0 +1,36 @@
+.site-nav { flex-wrap: wrap; align-items: center; }
+.site-nav a.account-chip {
+  padding: 0.15rem 0.7rem; border-radius: 999px; border: 1px solid var(--border); color: var(--text);
+}
+.site-nav a.account-chip.active { border-color: var(--accent); color: var(--accent); }
+
+.account-page { max-width: 420px; }
+.auth-tabs { display: flex; gap: 0.5rem; margin: 1rem 0; }
+.auth-form { display: grid; gap: 0.9rem; }
+.auth-form label { display: grid; gap: 0.3rem; font-weight: 500; }
+.auth-form input {
+  font: inherit; padding: 0.55rem 0.7rem; border-radius: 8px; border: 1px solid var(--border);
+  background: var(--surface); color: var(--text);
+}
+.auth-form .hint { font-weight: 400; font-size: 0.85rem; color: var(--muted); }
+.form-error { color: var(--hard); background: var(--hard-bg); padding: 0.5rem 0.75rem; border-radius: 8px; margin: 0; }
+.notice { background: var(--accent-soft); border-radius: var(--radius); padding: 0.8rem 1rem; }
+
+.stat-tiles { display: grid; gap: 0.8rem; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); margin: 1rem 0 1.5rem; }
+.stat-tile { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 0.8rem 1rem; }
+.stat-tile .value { font-size: 1.6rem; font-weight: 700; display: block; }
+.stat-tile .label { color: var(--muted); font-size: 0.85rem; }
+.sync-status { color: var(--muted); font-size: 0.85rem; }
+.studied-mark { color: var(--easy); font-weight: 700; margin-right: 0.4rem; }
+.account-actions { display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center; margin-top: 2rem; }
+.account-page button, .progress-page button {
+  padding: 0.55rem 1rem; border-radius: 8px; border: none; cursor: pointer;
+  background: var(--accent); color: var(--surface); font: inherit;
+}
+.account-page button.secondary, .progress-page button.secondary {
+  background: transparent; color: inherit; border: 1px solid var(--border);
+}
+.account-page button[aria-pressed='false'] { background: transparent; color: inherit; border: 1px solid var(--border); }
+.account-page button:disabled, .progress-page button:disabled { opacity: 0.5; cursor: not-allowed; }
+.progress-page button.danger { background: var(--hard); }
+.visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }

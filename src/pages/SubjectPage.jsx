@@ -4,11 +4,14 @@ import DifficultyBadge from '../components/DifficultyBadge.jsx';
 import { DIFFICULTIES, getLessonsByTopic, getSubject } from '../content/index.js';
 import NotFound from './NotFound.jsx';
 import { useState } from 'react';
+import { useProgress } from '../hooks/useProgress.js';
+import { lessonKey } from '../lib/progress.js';
 
 export default function SubjectPage() {
   const { subjectId } = useParams();
   const subject = getSubject(subjectId);
   const [level, setLevel] = useState('all');
+  const { progress } = useProgress();
   if (!subject) return <NotFound />;
 
   const groups = getLessonsByTopic(subjectId)
@@ -42,7 +45,12 @@ export default function SubjectPage() {
             {lessons.map((l) => (
               <li key={l.id}>
                 <Link to={`/subject/${subject.id}/lesson/${l.id}`} className="card lesson-card">
-                  <span className="lesson-title">{l.title}</span>
+                  <span className="lesson-title">
+                    {progress.lessons[lessonKey(subject.id, l.id)] && (
+                      <span className="studied-mark" title="Studied">✓<span className="visually-hidden"> studied</span></span>
+                    )}
+                    {l.title}
+                  </span>
                   <DifficultyBadge level={l.difficulty} />
                 </Link>
               </li>

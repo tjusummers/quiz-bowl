@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { getAllTossups, getSubjects } from '../content/index.js';
 import TossupPlayer, { SPEEDS } from '../components/TossupPlayer.jsx';
 import { useProgress } from '../hooks/useProgress.js';
+import { useAuth } from '../hooks/useAuth.js';
 import { dueQuestionIds, reviewQuestionIds, subjectStats, topicStats, MASTERED_BOX } from '../lib/srs.js';
 
 const pct = (x) => (x == null ? '–' : `${Math.round(x * 100)}%`);
@@ -12,6 +13,8 @@ export default function ReviewPage() {
   const byId = useMemo(() => new Map(allTossups.map((t) => [t.id, t])), [allTossups]);
   const subjectNames = useMemo(() => new Map(getSubjects().map((s) => [s.id, s.name ?? s.id])), []);
   const { progress, record, reset } = useProgress();
+  const auth = useAuth();
+  const signedIn = auth.status === 'signedIn';
   const [queue, setQueue] = useState(null);
   const [index, setIndex] = useState(0);
   const [right, setRight] = useState(0);
@@ -103,7 +106,7 @@ export default function ReviewPage() {
       <div>
         {confirmReset ? (
           <span className="result-actions">
-            <span>Erase all progress on this device?</span>
+            <span>{signedIn ? 'Erase all progress in your account?' : 'Erase all progress on this device?'}</span>
             <button type="button" onClick={() => { reset(); setConfirmReset(false); }}>Yes, erase</button>
             <button type="button" className="secondary" onClick={() => setConfirmReset(false)}>Cancel</button>
           </span>
@@ -111,7 +114,15 @@ export default function ReviewPage() {
           <button type="button" className="secondary" onClick={() => setConfirmReset(true)}>Reset progress</button>
         )}
       </div>
-      <p className="accept">Progress is saved in this browser only.</p>
+      <p className="accept">
+        {signedIn ? (
+          <>Progress is saved to your account, <strong>{auth.user.username}</strong>.</>
+        ) : auth.status === 'signedOut' ? (
+          <>Progress is saved in this browser only. <Link to="/account">Sign in</Link> to save it to an account.</>
+        ) : (
+          'Progress is saved in this browser only.'
+        )}
+      </p>
     </div>
   );
 }

@@ -18,7 +18,7 @@ const emptyTally = { points: 0, power: 0, correct: 0, neg: 0, wrong: 0, dead: 0 
 export default function QuizPage() {
   const subjects = getSubjects();
   const allTossups = useMemo(() => getAllTossups(), []);
-  const { record } = useProgress();
+  const { record, recordRound } = useProgress();
 
   const [chosen, setChosen] = useState(() => new Set(subjects.map((s) => s.id)));
   const [count, setCount] = useState(10);
@@ -40,7 +40,11 @@ export default function QuizPage() {
   function handleDone(result) {
     const tossup = queue[index];
     record(tossup, result.correct);
-    setTally((t) => ({ ...t, points: t.points + result.points, [result.kind]: t[result.kind] + 1 }));
+    const nextTally = { ...tally, points: tally.points + result.points, [result.kind]: tally[result.kind] + 1 };
+    setTally(nextTally);
+    if (index === queue.length - 1) {
+      recordRound(nextTally, { total: queue.length, subjects: [...new Set(queue.map((t) => t.subjectId))] });
+    }
     if (!result.correct) setMissed((m) => [...m, tossup]);
     setIndex((i) => i + 1);
   }

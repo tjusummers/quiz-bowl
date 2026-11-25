@@ -27,6 +27,12 @@ jobs:
       - run: npm ci
       - run: npm test
       - run: npm run build
+        env:
+          # Accounts are off until these repository variables are set
+          # (Settings -> Secrets and variables -> Actions -> Variables). See docs/ACCOUNTS.md.
+          VITE_SUPABASE_URL: ${{ vars.SUPABASE_URL }}
+          VITE_SUPABASE_ANON_KEY: ${{ vars.SUPABASE_ANON_KEY }}
+          VITE_ACCOUNT_EMAIL_DOMAIN: ${{ vars.ACCOUNT_EMAIL_DOMAIN }}
       - uses: actions/upload-pages-artifact@v3
         if: github.ref == 'refs/heads/main'
         with:
